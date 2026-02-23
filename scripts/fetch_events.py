@@ -274,37 +274,37 @@ def fetch_gz_program(program_url: str, center: str, default_location: str, tzinf
 
     events: List[Event] = []
 
-    # Most reliable: look for links that contain /angebote/ and then find date/time text near them.
-    for a in soup.select('a[href*="/angebote/"]'):
-        href = a.get("href", "").strip()
-        if not href:
+    # Heuristik: Jede Programm-Karte enthält typischerweise:
+    # - Heading (h2/h3) mit Titel (oft "..., GZ XYZ")
+    # - Datumzeile wie "Di. 24.02.2026"
+    # - Zeit wie "14:00–17:30 Uhr"
+    # - einen Link zur Detailseite unter /angebote/<slug>/
+    #
+    # Wir iterieren über headings, die "GZ" enthalten, und nehmen den umgebenden Block.
+    headings = soup.find_all(["h2", "h3"])
+    for h in headings:
+        htxt = h.get_text(" ", strip=True)
+        if "GZ" not in htxt:
             continue
-        detail_url = urljoin(program_url, href)
-        title = a.get_text(" ", strip=True)
 
-        # avoid nav/footer links
-        if not title or len(title) < 3:
+        # Finde einen sinnvollen Container um das Heading herum
+        container = h.find_parent(["article", "li", "section", "div"]) or h.parent
+        if not container:
             continue
 
-        # find container text around this link
-        container = a.find_parent(["article", "div", "li", "section"]) or a.parent
-        block_text = ""
-        if container:
-            block_text = container.get_text("\n", strip=True)
+        block_text = container.get_text("\n", strip=True)
 
-        # find date pattern like "Mo. 23.02.2026"
+        # Datum
         dm = re.search(r"(Mo|Di|Mi|Do|Fr|Sa|So)\.\s+(\d{2})\.(\d{2})\.(\d{4})", block_text)
         if not dm:
             continue
-
         dd = int(dm.group(2)); mm = int(dm.group(3)); yy = int(dm.group(4))
 
-        # time range
+        # Zeit
         st, et = parse_time_range(block_text)
         if not st:
-            # sometimes time line separated
+            # manchmal über Zeilen verteilt
             st, et = parse_time_range(" ".join(block_text.split("\n")))
-
         if not st:
             st = "00:00"
 
@@ -317,8 +317,16 @@ def fetch_gz_program(program_url: str, center: str, default_location: str, tzinf
             end_dt = datetime(yy, mm, dd, eh, em, tzinfo=tzinfo)
             end_iso = iso(end_dt)
 
-        # normalize title: sometimes includes ", GZ X"
-        title = re.sub(r",\s*GZ\s+.*$", "", title).strip()
+        # Detail-Link (wichtig!)
+        detail_url = program_url
+        a = container.select_one('a[href*="/angebote/"]')
+        if a and a.get("href"):
+            detail_url = urljoin(program_url, a["href"])
+
+        # Titel bereinigen: ", GZ X" entfernen
+        title = re.sub(r",\s*GZ\s+.*$", "", htxt).strip()
+        if not title or len(title) < 3:
+            continue
 
         tags = infer_tags(title, block_text)
         flags = infer_flags(title, block_text)
@@ -337,7 +345,6 @@ def fetch_gz_program(program_url: str, center: str, default_location: str, tzinf
             schedule_text="",
         ))
 
-    # dedupe inside source
     return dedup(events)
 
 # -------------------------
@@ -411,42 +418,94 @@ def fetch_karussell_jahresprogramm(url: str, center: str, default_location: str,
 
     return dedup(events)
 
-def fetch_karussell_uebersicht(url: str, center: str, default_location: str) -> List[Event]:
+def fetch_karussell_uebersicht(url: str, center: str, default_location: str, tzinfo=None) -> List[Event]:
     html = safe_get(url)
     soup = BeautifulSoup(html, "html.parser")
 
-    offers: List[Event] = []
-    # Heuristic: cards often have headings and links
-    for a in soup.select("a[href]"):
+    # Alle Event-Detailseiten sammeln (wichtig: /angebote/event/<id>/<slug>/)
+    event_links = set()
+    for a in soup.select('a[href*="/angebote/event/"]'):
         href = a.get("href", "").strip()
-        t = a.get_text(" ", strip=True)
-        if not t or len(t) < 4:
-            continue
-        # keep only internal offer-like pages
-        if "/angebote/" not in href:
-            continue
-        detail = urljoin(url, href)
-        if "uebersicht" in detail:
-            continue
-        tags = infer_tags(t, "")
-        flags = infer_flags(t, "")
-        offers.append(Event(
-            title=t,
-            start=None,
-            end=None,
-            location=default_location,
-            source="Karussell Baden",
-            center=center,
-            url=detail,
-            tags=tags,
-            flags=flags,
-            kind="recurring",
-            schedule_text="",
-        ))
-        if len(offers) >= 80:
-            break
+        if href:
+            event_links.add(urljoin(url, href))
 
-    return dedup(offers)
+    events: List[Event] = []
+
+    # Jede Detailseite parsen: Datum wie "Donnerstag, 02. April 2026"
+    # und Zeit wie "13:00 bis 14:30 Uhr" oder ähnlich
+    for link in sorted(event_links):
+        try:
+            dhtml = safe_get(link)
+            dsoup = BeautifulSoup(dhtml, "html.parser")
+
+            title = ""
+            h1 = dsoup.find(["h1", "h2"])
+            if h1:
+                title = h1.get_text(" ", strip=True)
+            if not title:
+                continue
+
+            text = dsoup.get_text("\n", strip=True)
+
+            # Datum: entweder "02. April 2026" oder "02.04.2026"
+            ymd = parse_german_date_anywhere(text)
+            if not ymd:
+                # wenn keine konkrete Datumangabe, dann als recurring aufnehmen
+                tags = infer_tags(title, text)
+                flags = infer_flags(title, text)
+                events.append(Event(
+                    title=title,
+                    start=None,
+                    end=None,
+                    location=default_location,
+                    source="Karussell Baden",
+                    center=center,
+                    url=link,
+                    tags=tags,
+                    flags=flags,
+                    kind="recurring",
+                    schedule_text="",
+                ))
+                continue
+
+            yy, mm, dd = ymd
+
+            # Zeit: oft "13:00 bis 14:30 Uhr"
+            # parse_time_range versteht "-", daher normalisieren wir "bis" -> "-"
+            tnorm = text.replace(" bis ", " - ").replace("–", "-").replace("—", "-")
+            st, et = parse_time_range(tnorm)
+            if not st:
+                st = "00:00"
+
+            sh, sm = map(int, st.split(":"))
+            start_dt = datetime(yy, mm, dd, sh, sm, tzinfo=tzinfo) if tzinfo else datetime(yy, mm, dd, sh, sm)
+
+            end_iso = None
+            if et:
+                eh, em = map(int, et.split(":"))
+                end_dt = datetime(yy, mm, dd, eh, em, tzinfo=tzinfo) if tzinfo else datetime(yy, mm, dd, eh, em)
+                end_iso = iso(end_dt)
+
+            tags = infer_tags(title, text)
+            flags = infer_flags(title, text)
+
+            events.append(Event(
+                title=title,
+                start=iso(start_dt),
+                end=end_iso,
+                location=default_location,
+                source="Karussell Baden",
+                center=center,
+                url=link,
+                tags=tags,
+                flags=flags,
+                kind="dated",
+                schedule_text="",
+            ))
+        except Exception as ex:
+            print(f"Karussell event detail failed: {link} -> {ex}", file=sys.stderr)
+
+    return dedup(events)
 
 # -------------------------
 # Main
@@ -523,3 +582,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
