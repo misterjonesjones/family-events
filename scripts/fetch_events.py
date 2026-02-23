@@ -14,9 +14,13 @@ from ics import to_ics
 
 HEADERS = {"User-Agent": "FamilyEventsAggregator/1.0 (GitHub Actions)"}
 
-OUT_EVENTS = "events.json"
-OUT_META = "events.meta.json"
-OUT_ICS_ALL = "docs/all.ics"   # weil deine Website in /docs liegt
+# IMPORTANT: GitHub Pages serves /docs. Therefore write outputs to /docs as well.
+OUT_EVENTS_ROOT = "events.json"
+OUT_META_ROOT = "events.meta.json"
+
+OUT_EVENTS_DOCS = "docs/events.json"
+OUT_META_DOCS = "docs/events.meta.json"
+OUT_ICS_DOCS = "docs/all.ics"
 
 @dataclass
 class Event:
@@ -236,12 +240,17 @@ def fetch_elch_pdf(url: str, default_location: str, tzinfo, center_keywords: Lis
 
     return events
 
-def load_prev_meta() -> Dict:
+def load_prev_meta(path: str) -> Dict:
     try:
-        with open(OUT_META, "r", encoding="utf-8") as f:
+        with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
     except Exception:
         return {"seen": {}}
+
+def write_json(path: str, obj: Dict | List):
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
 
 def main():
     with open("scripts/sources.yaml", "r", encoding="utf-8") as f:
@@ -268,7 +277,8 @@ def main():
     all_events = dedup(all_events)
     all_events.sort(key=lambda e: e.start)
 
-    prev = load_prev_meta()
+    # meta: mark "new"
+    prev = load_prev_meta(OUT_META_ROOT)
     seen = prev.get("seen", {})
     now_iso = datetime.now(tzinfo).isoformat(timespec="seconds")
 
@@ -284,14 +294,18 @@ def main():
         d["is_new"] = is_new
         out_list.append(d)
 
-    with open(OUT_EVENTS, "w", encoding="utf-8") as f:
-        json.dump(out_list, f, ensure_ascii=False, indent=2)
+    meta_obj = {"updated_at": now_iso, "seen": seen}
 
-    with open(OUT_META, "w", encoding="utf-8") as f:
-        json.dump({"updated_at": now_iso, "seen": seen}, f, ensure_ascii=False, indent=2)
+    # Write to repo root (handy for debugging)
+    write_json(OUT_EVENTS_ROOT, out_list)
+    write_json(OUT_META_ROOT, meta_obj)
 
-    os.makedirs(os.path.dirname(OUT_ICS_ALL) or ".", exist_ok=True)
-    with open(OUT_ICS_ALL, "w", encoding="utf-8") as f:
+    # Write to /docs for GitHub Pages
+    write_json(OUT_EVENTS_DOCS, out_list)
+    write_json(OUT_META_DOCS, meta_obj)
+
+    os.makedirs(os.path.dirname(OUT_ICS_DOCS) or ".", exist_ok=True)
+    with open(OUT_ICS_DOCS, "w", encoding="utf-8") as f:
         f.write(to_ics(out_list))
 
     print(f"Wrote {len(out_list)} events. New since last run: {new_count}")
