@@ -1,45 +1,77 @@
-# sources.yaml (events 2.0)
-defaults:
-  timezone: Europe/Zurich
-  user_agent: "family-events-bot/2.0 (+https://misterjonesjones.github.io/family-events/)"
+timezone: Europe/Zurich
 
 sources:
-  - id: elch
-    name: "Zentrum ELCH"
-    type: elch_html
-    enabled: true
-    centers:
-      - id: cece
-        name: "Zentrum ELCH CeCe-Areal"
-        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote"
-      - id: accu
-        name: "Zentrum ELCH Accu"
-        listing_url: "https://zentrumelch.ch/angebote-accu"
-      - id: frieden
-        name: "Zentrum ELCH Frieden"
-        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote"
-      - id: krokodil
-        name: "Zentrum Krokodil"
-        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote"
-      - id: regensbergstrasse
-        name: "Zentrum ELCH Regensbergstrasse"
-        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote"
+  # --- ELCH: 5 Zentren (Angebote-Seiten) ---
+  - id: elch_accu
+    name: Zentrum ELCH Accu
+    type: elch_angebote
+    url: https://zentrumelch.ch/angebote-accu
+    center: ELCH Accu
+    default_location: Zentrum ELCH Accu
 
-  - id: gz
-    name: "GZ Zürich"
-    type: gz_index
-    enabled: true
-    index_url: "https://gz-zh.ch/"
-    max_pages: 5
+  - id: elch_cece
+    name: Zentrum ELCH CeCe-Areal
+    type: elch_angebote
+    url: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote
+    center: ELCH CeCe-Areal
+    default_location: Zentrum ELCH CeCe-Areal
 
-  - id: karussell
-    name: "Karussell Baden"
-    type: karussell_crawl
-    enabled: true
-    start_urls:
-      - "https://www.karussell-baden.ch/angebote/uebersicht/"
-      - "https://www.karussell-baden.ch/angebote/jahresprogramm/"
-      - "https://www.karussell-baden.ch/angebote/aktuell/"
-      - "https://www.karussell-baden.ch/angebote/themen/"
-    max_depth: 2
-    max_event_pages: 400
+  - id: elch_frieden
+    name: Zentrum ELCH Frieden
+    type: elch_angebote
+    url: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote
+    center: ELCH Frieden
+    default_location: Zentrum ELCH Frieden
+
+  - id: elch_krokodil
+    name: Zentrum ELCH Krokodil
+    type: elch_angebote
+    url: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote
+    center: ELCH Krokodil
+    default_location: Zentrum ELCH Krokodil
+
+  - id: elch_regensberg
+    name: Zentrum ELCH Regensbergstrasse
+    type: elch_angebote
+    url: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote
+    center: ELCH Regensbergstrasse
+    default_location: Zentrum ELCH Regensbergstrasse
+
+  # --- Karussell Baden ---
+  # Übersicht = eher laufende Angebote (meist ohne fixes Datum)
+  - id: karussell_uebersicht
+    name: Karussell Baden Übersicht
+    type: karussell_uebersicht
+    url: https://www.karussell-baden.ch/angebote/uebersicht/
+    center: Karussell Baden
+    default_location: Karussell Familienzentrum Region Baden
+
+  # Jahresprogramm = echte datierte Termine
+  - id: karussell_jahresprogramm
+    name: Karussell Baden Jahresprogramm
+    type: karussell_jahresprogramm
+    url: https://www.karussell-baden.ch/angebote/jahresprogramm/
+    center: Karussell Baden
+    default_location: Karussell Familienzentrum Region Baden
+
+  # --- GZ Zürich (3 Stück + Heuried) ---
+  - id: gz_bachwiesen
+    name: GZ Bachwiesen
+    type: gz_programm
+    url: https://gz-zh.ch/gz-bachwiesen/programm/
+    center: GZ Bachwiesen
+    default_location: GZ Bachwiesen
+
+  - id: gz_loogarten
+    name: GZ Loogarten
+    type: gz_programm
+    url: https://gz-zh.ch/gz-loogarten/programm/
+    center: GZ Loogarten
+    default_location: GZ Loogarten
+
+  - id: gz_heuried
+    name: GZ Heuried
+    type: gz_programm
+    url: https://gz-zh.ch/gz-heuried/programm/
+    center: GZ Heuried
+    default_location: GZ Heuried
