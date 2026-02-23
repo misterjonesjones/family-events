@@ -28,6 +28,17 @@ jobs:
         run: |
           python scripts/fetch_events.py
 
+            - name: Show generated files
+        run: |
+          echo "=== repo root ==="
+          ls -la
+          echo "=== site ==="
+          ls -la site || true
+          echo "=== docs ==="
+          ls -la docs || true
+          echo "=== scripts ==="
+          ls -la scripts || true
+
       - name: Commit changes
         run: |
           git config user.name "events-bot"
