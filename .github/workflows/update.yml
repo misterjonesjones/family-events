@@ -35,16 +35,19 @@ jobs:
           ls -la
           echo "=== docs ==="
           ls -la docs || true
+          echo "=== find outputs ==="
+          find . -maxdepth 3 -type f \( -name "events.json" -o -name "events.meta.json" -o -name "all.ics" \) -print -ls || true
 
       - name: Commit changes
         run: |
           git config user.name "events-bot"
           git config user.email "events-bot@users.noreply.github.com"
 
-          # add generated files
-          git add events.json events.meta.json docs/all.ics
+          # Add BOTH root and docs outputs (important for GitHub Pages /docs)
+          git add events.json events.meta.json 2>/dev/null || true
+          git add docs/events.json docs/events.meta.json docs/all.ics 2>/dev/null || true
 
-          # ignore python cache if present
+          # Ignore python cache
           git rm -r --cached scripts/__pycache__ 2>/dev/null || true
 
           echo "=== git status ==="
