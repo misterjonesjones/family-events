@@ -1,314 +1,643 @@
-import json, re, io, sys, os
-from dataclasses import dataclass, asdict
+#!/usr/bin/env python3
+# fetch_events.py — events 2.0
+
+from __future__ import annotations
+
+import hashlib
+import json
+import os
+import re
+import sys
+from dataclasses import dataclass
 from datetime import datetime
-from typing import Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
+from urllib.parse import urljoin, urlparse
 
 import requests
 import yaml
 from bs4 import BeautifulSoup
 from dateutil import tz
-from pypdf import PdfReader
+from dateutil.parser import parse as dtparse
 
-from tagger import infer_tags, infer_flags
-from ics import to_ics
 
-HEADERS = {"User-Agent": "FamilyEventsAggregator/1.0 (GitHub Actions)"}
+DOCS_DIR = "docs"
+EVENTS_JSON = os.path.join(DOCS_DIR, "events.json")
+META_JSON = os.path.join(DOCS_DIR, "events.meta.json")
+ALL_ICS = os.path.join(DOCS_DIR, "all.ics")
 
-# IMPORTANT: GitHub Pages serves /docs. Therefore write outputs to /docs as well.
-OUT_EVENTS_ROOT = "events.json"
-OUT_META_ROOT = "events.meta.json"
 
-OUT_EVENTS_DOCS = "docs/events.json"
-OUT_META_DOCS = "docs/events.meta.json"
-OUT_ICS_DOCS = "docs/all.ics"
+# ----------------------------
+# Core model
+# ----------------------------
 
-@dataclass
+@dataclass(frozen=True)
 class Event:
+    id: str
     title: str
-    start: str
-    end: Optional[str]
-    location: str
-    source: str
-    center: str
+    start: datetime
+    end: Optional[datetime]
     url: str
-    tags: List[str]
-    flags: Dict[str, bool]
-    description: str = ""
+    source_id: str
+    source_name: str
+    organizer: Optional[str] = None
+    location: Optional[str] = None
+    tags: Tuple[str, ...] = ()
 
-def safe_get(url: str) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=30)
+    def to_dict(self) -> Dict[str, Any]:
+        return {
+            "id": self.id,
+            "title": self.title,
+            "start": self.start.isoformat(),
+            "end": self.end.isoformat() if self.end else None,
+            "url": self.url,
+            "source": {"id": self.source_id, "name": self.source_name},
+            "organizer": self.organizer,
+            "location": self.location,
+            "tags": list(self.tags),
+        }
+
+
+def stable_event_id(*parts: str) -> str:
+    raw = "|".join(p.strip() for p in parts if p)
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:16]
+
+
+def normalize_whitespace(s: str) -> str:
+    return re.sub(r"\s+", " ", (s or "").strip())
+
+
+# ----------------------------
+# HTTP helpers
+# ----------------------------
+
+def make_session(user_agent: str) -> requests.Session:
+    s = requests.Session()
+    s.headers.update({
+        "User-Agent": user_agent,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "de,en;q=0.8",
+    })
+    return s
+
+
+def get_soup(session: requests.Session, url: str, timeout: int = 30) -> BeautifulSoup:
+    r = session.get(url, timeout=timeout)
     r.raise_for_status()
-    return r.text
+    return BeautifulSoup(r.text, "html.parser")
 
-def safe_get_bytes(url: str) -> bytes:
-    r = requests.get(url, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    return r.content
-
-def iso(dt: datetime) -> str:
-    return dt.isoformat(timespec="minutes")
-
-def parse_time_range(s: str) -> Tuple[Optional[str], Optional[str]]:
-    s = (s or "").replace("Uhr", "").strip().replace("–", "-").replace("—", "-")
-    m = re.search(r"(\d{1,2}:\d{2})\s*-\s*(\d{1,2}:\d{2})", s)
-    if not m:
-        return None, None
-    return m.group(1), m.group(2)
-
-def dedup(events: List[Event]) -> List[Event]:
-    seen = {}
-    for e in events:
-        key = (e.title.strip().lower(), e.start, e.center.strip().lower())
-        seen[key] = e
-    return list(seen.values())
 
 # ----------------------------
-# Karussell Baden
+# Date parsing (robust-ish)
 # ----------------------------
-def fetch_karussell(url: str, default_location: str, center: str, tzinfo) -> List[Event]:
-    html = safe_get(url)
-    soup = BeautifulSoup(html, "html.parser")
-    text = soup.get_text("\n", strip=True)
-    lines = [ln for ln in text.split("\n") if ln.strip()]
 
-    date_re = re.compile(r"(Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag),\s+(\d{1,2})\.\s+([A-Za-zäöüÄÖÜ]+)\s+(\d{4})")
-    time_re = re.compile(r"\b(\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}:\d{2})\b")
+def parse_datetime_zh(text: str, tz_zh) -> Optional[datetime]:
+    """
+    Parse a datetime from German-ish strings, return tz-aware datetime in Europe/Zurich.
+    """
+    if not text:
+        return None
 
-    months = {
-        "Januar": 1, "Februar": 2, "März": 3, "April": 4, "Mai": 5, "Juni": 6,
-        "Juli": 7, "August": 8, "September": 9, "Oktober": 10, "November": 11, "Dezember": 12
-    }
+    t = normalize_whitespace(text)
 
-    events: List[Event] = []
-    current_date: Optional[datetime] = None
+    # strip weekday prefixes like "Mo.", "Montag,"
+    t = re.sub(r"^(Mo|Di|Mi|Do|Fr|Sa|So)\.?,?\s+", "", t, flags=re.IGNORECASE)
+    t = re.sub(r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag),?\s+", "", t, flags=re.IGNORECASE)
 
-    i = 0
-    while i < len(lines):
-        ln = lines[i].strip()
-        dm = date_re.search(ln)
-        if dm:
-            day = int(dm.group(2)); month = months.get(dm.group(3)); year = int(dm.group(4))
-            if month:
-                current_date = datetime(year, month, day, 0, 0, tzinfo=tzinfo)
-            i += 1
-            continue
-
-        tm = time_re.search(ln)
-        if current_date and tm:
-            st, et = parse_time_range(tm.group(1))
-            title = lines[i+1].strip() if i+1 < len(lines) else ""
-            if title and not date_re.search(title) and not time_re.search(title):
-                sh, sm = map(int, st.split(":")); eh, em = map(int, et.split(":"))
-                start_dt = current_date.replace(hour=sh, minute=sm)
-                end_dt = current_date.replace(hour=eh, minute=em)
-                tags = infer_tags(title, "")
-                flags = infer_flags(title, "")
-                events.append(Event(
-                    title=title,
-                    start=iso(start_dt),
-                    end=iso(end_dt),
-                    location=default_location,
-                    source="Karussell Baden",
-                    center=center,
-                    url=url,
-                    tags=tags,
-                    flags=flags,
-                ))
-                i += 2
-                continue
-        i += 1
-    return events
-
-# ----------------------------
-# GZ Zürich (Programmseiten)
-# ----------------------------
-def fetch_gz_program(url: str, default_location: str, center: str, tzinfo) -> List[Event]:
-    html = safe_get(url)
-    soup = BeautifulSoup(html, "html.parser")
-    text = soup.get_text("\n", strip=True)
-    lines = [ln for ln in text.split("\n") if ln.strip()]
-
-    date_re = re.compile(r"(Mo|Di|Mi|Do|Fr|Sa|So)\.\s+(\d{2})\.(\d{2})\.(\d{4})")
-    time_re = re.compile(r"(\d{1,2}:\d{2})\s*[–-]\s*(\d{1,2}:\d{2})")
-
-    events: List[Event] = []
-    i = 0
-    while i < len(lines):
-        title = lines[i].strip()
-        if len(title) < 3:
-            i += 1
-            continue
-
-        dt = None; date_idx = None
-        for j in range(i+1, min(i+10, len(lines))):
-            m = date_re.search(lines[j])
-            if m:
-                dd = int(m.group(2)); mm = int(m.group(3)); yy = int(m.group(4))
-                dt = datetime(yy, mm, dd, 0, 0, tzinfo=tzinfo)
-                date_idx = j
-                break
-        if not dt:
-            i += 1
-            continue
-
-        start_dt = None; end_dt = None; time_idx = None
-        for j in range(date_idx+1, min(date_idx+8, len(lines))):
-            m = time_re.search(lines[j].replace("Uhr", ""))
-            if m:
-                sh, sm = map(int, m.group(1).split(":"))
-                eh, em = map(int, m.group(2).split(":"))
-                start_dt = dt.replace(hour=sh, minute=sm)
-                end_dt = dt.replace(hour=eh, minute=em)
-                time_idx = j
-                break
-
-        if start_dt:
-            clean_title = re.sub(r",\s*GZ\s+.*$", "", title).strip()
-            desc = ""
-            tags = infer_tags(clean_title, desc)
-            flags = infer_flags(clean_title, desc)
-            events.append(Event(
-                title=clean_title,
-                start=iso(start_dt),
-                end=iso(end_dt) if end_dt else None,
-                location=default_location,
-                source="GZ Zürich",
-                center=center,
-                url=url,
-                tags=tags,
-                flags=flags,
-                description=desc
-            ))
-            i = (time_idx or i) + 1
-            continue
-
-        i += 1
-    return events
-
-# ----------------------------
-# Zentrum ELCH (PDF)
-# ----------------------------
-def fetch_elch_pdf(url: str, default_location: str, tzinfo, center_keywords: List[str]) -> List[Event]:
-    pdf_bytes = safe_get_bytes(url)
-    reader = PdfReader(io.BytesIO(pdf_bytes))
-
-    raw_lines: List[str] = []
-    for page in reader.pages:
-        t = page.extract_text() or ""
-        raw_lines += [ln.strip() for ln in t.splitlines() if ln.strip()]
-
-    dt_re = re.compile(r"^(MO|DI|MI|DO|FR|SA|SO)\s+(\d{2})\.(\d{2})\.(\d{2})\s+(\d{1,2})[.:](\d{2})\s*[–-]\s*(\d{1,2})[.:](\d{2})")
-
-    events: List[Event] = []
-    for idx, ln in enumerate(raw_lines):
-        m = dt_re.match(ln.replace("–", "-"))
-        if not m:
-            continue
-        dd = int(m.group(2)); mm = int(m.group(3)); yy = 2000 + int(m.group(4))
-        sh = int(m.group(5)); sm = int(m.group(6))
-        eh = int(m.group(7)); em = int(m.group(8))
-
-        title = raw_lines[idx + 1].strip() if idx + 1 < len(raw_lines) else ""
-        if not title or dt_re.match(title):
-            continue
-
-        window = " ".join(raw_lines[max(0, idx-2): min(len(raw_lines), idx+5)])
-        inferred_center = "Zentrum ELCH"
-        for kw in center_keywords:
-            if kw.lower() in window.lower() or kw.lower() in title.lower():
-                inferred_center = f"ELCH {kw}"
-                break
-
-        start_dt = datetime(yy, mm, dd, sh, sm, tzinfo=tzinfo)
-        end_dt = datetime(yy, mm, dd, eh, em, tzinfo=tzinfo)
-
-        tags = infer_tags(title, window)
-        flags = infer_flags(title, window)
-
-        events.append(Event(
-            title=title,
-            start=iso(start_dt),
-            end=iso(end_dt),
-            location=default_location,
-            source="Zentrum ELCH",
-            center=inferred_center,
-            url=url,
-            tags=tags,
-            flags=flags,
-            description=""
-        ))
-
-    return events
-
-def load_prev_meta(path: str) -> Dict:
     try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+        dt = dtparse(t, dayfirst=True, fuzzy=True)
     except Exception:
-        return {"seen": {}}
+        return None
 
-def write_json(path: str, obj: Dict | List):
-    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(obj, f, ensure_ascii=False, indent=2)
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=tz_zh)
+    else:
+        dt = dt.astimezone(tz_zh)
 
-def main():
-    with open("scripts/sources.yaml", "r", encoding="utf-8") as f:
-        cfg = yaml.safe_load(f)
+    return dt
 
-    tzinfo = tz.gettz(cfg.get("timezone", "Europe/Zurich"))
-    center_keywords = cfg.get("elch_centers", [])
+
+def ensure_end(start: datetime, end: Optional[datetime]) -> Optional[datetime]:
+    if end is None:
+        return None
+    if end < start:
+        return None
+    return end
+
+
+def has_concrete_date(text: str) -> bool:
+    """
+    Our definition of "concrete date":
+      - contains a 4-digit year (20xx) OR
+      - contains dd.mm.yyyy
+    """
+    if not text:
+        return False
+    t = normalize_whitespace(text)
+    if re.search(r"\b20\d{2}\b", t):
+        return True
+    if re.search(r"\b\d{1,2}\.\d{1,2}\.\d{2,4}\b", t):
+        return True
+    return False
+
+
+# ----------------------------
+# Source base
+# ----------------------------
+
+class Source:
+    def __init__(self, cfg: Dict[str, Any], defaults: Dict[str, Any], session: requests.Session, tz_zh):
+        self.cfg = cfg
+        self.defaults = defaults
+        self.session = session
+        self.tz_zh = tz_zh
+
+    @property
+    def id(self) -> str:
+        return self.cfg["id"]
+
+    @property
+    def name(self) -> str:
+        return self.cfg["name"]
+
+    def fetch(self) -> List[Event]:
+        raise NotImplementedError
+
+
+# ----------------------------
+# ELCH: listing -> detail, only dated
+# ----------------------------
+
+class ElchHtmlSource(Source):
+    def fetch(self) -> List[Event]:
+        out: List[Event] = []
+        for center in self.cfg.get("centers", []):
+            listing_url = center["listing_url"]
+            organizer = center.get("name") or center.get("id") or "ELCH"
+
+            listing_soup = get_soup(self.session, listing_url)
+            detail_urls = self._extract_detail_urls(listing_soup, listing_url)
+
+            for durl in sorted(detail_urls):
+                ev = self._parse_detail(durl, organizer=organizer)
+                if ev:
+                    out.append(ev)
+
+        return out
+
+    def _extract_detail_urls(self, soup: BeautifulSoup, base_url: str) -> set[str]:
+        urls: set[str] = set()
+        for a in soup.select("a[href]"):
+            href = (a.get("href") or "").strip()
+            if not href:
+                continue
+            abs_url = urljoin(base_url, href)
+
+            # stay on same host
+            if urlparse(abs_url).netloc != urlparse(base_url).netloc:
+                continue
+
+            # ELCH details usually contain /angebote/.../detail/... or /angebote-accu/detail/...
+            if "/detail/" in abs_url and "/angebote" in abs_url:
+                urls.add(abs_url)
+
+        return urls
+
+    def _parse_detail(self, url: str, organizer: str) -> Optional[Event]:
+        soup = get_soup(self.session, url)
+
+        h1 = soup.select_one("h1")
+        if not h1:
+            return None
+        title = normalize_whitespace(h1.get_text(" "))
+
+        # Guard: some pages look like generic opening-hours/holiday text
+        page_text = normalize_whitespace(soup.get_text(" "))
+        if "Öffnungszeiten während der Schulferien" in page_text:
+            return None
+
+        lines = [normalize_whitespace(x) for x in soup.get_text("\n").split("\n") if normalize_whitespace(x)]
+
+        # Try to find a date-ish line
+        date_line = None
+        for i, line in enumerate(lines):
+            if has_concrete_date(line):
+                date_line = line
+                break
+
+        # Must have concrete date (your requirement)
+        if not date_line:
+            return None
+
+        start_dt = parse_datetime_zh(date_line, self.tz_zh)
+        if not start_dt:
+            # sometimes date and time are split across lines; try combining next line
+            idx = lines.index(date_line)
+            if idx + 1 < len(lines):
+                start_dt = parse_datetime_zh(date_line + " " + lines[idx + 1], self.tz_zh)
+        if not start_dt:
+            return None
+
+        # Optional end time (rare on ELCH pages; keep minimal)
+        end_dt = None
+
+        # Optional location after an "Ort" label
+        location = None
+        for i, line in enumerate(lines):
+            if line.lower() == "ort" and i + 1 < len(lines):
+                location = lines[i + 1]
+                break
+
+        eid = stable_event_id("elch", organizer, url, start_dt.isoformat(), title)
+        return Event(
+            id=eid,
+            title=title,
+            start=start_dt,
+            end=end_dt,
+            url=url,
+            source_id=self.id,
+            source_name=self.name,
+            organizer=organizer,
+            location=location,
+            tags=("elch",),
+        )
+
+
+# ----------------------------
+# GZ: index page (all houses) -> detail pages
+# ----------------------------
+
+class GzIndexSource(Source):
+    def fetch(self) -> List[Event]:
+        index_url = self.cfg["index_url"]
+        max_pages = int(self.cfg.get("max_pages", 3))
+
+        detail_urls: set[str] = set()
+        pages_to_scan: List[str] = [index_url]
+        seen_pages: set[str] = set()
+
+        # Without knowing server-side pagination, we scan a few discovered internal pages
+        for _ in range(max_pages):
+            if not pages_to_scan:
+                break
+            page_url = pages_to_scan.pop(0)
+            if page_url in seen_pages:
+                continue
+            seen_pages.add(page_url)
+
+            soup = get_soup(self.session, page_url)
+            html = str(soup)
+
+            # Extract all /gz-.../angebote/.../ URLs from entire HTML (includes scripts)
+            for m in re.finditer(r"https?://gz-zh\.ch/gz-[^/]+/angebote/[^\"'\s<>()]+/?", html):
+                detail_urls.add(m.group(0).rstrip(")"))
+
+            # Try to discover a few more relevant pages (very conservative)
+            for a in soup.select("a[href]"):
+                href = (a.get("href") or "").strip()
+                if not href:
+                    continue
+                abs_url = urljoin(page_url, href)
+                if urlparse(abs_url).netloc != "gz-zh.ch":
+                    continue
+                # only keep a small set of listing-like pages
+                if abs_url.endswith("/") and any(k in abs_url for k in ["/angebote", "/programm", "/kinder", "/familien"]):
+                    if abs_url not in seen_pages and len(pages_to_scan) < 10:
+                        pages_to_scan.append(abs_url)
+
+        events: List[Event] = []
+        for url in sorted(detail_urls):
+            events.extend(self._parse_detail(url))
+
+        return events
+
+    def _parse_detail(self, url: str) -> List[Event]:
+        soup = get_soup(self.session, url)
+
+        h1 = soup.select_one("h1")
+        if not h1:
+            return []
+        title = normalize_whitespace(h1.get_text(" "))
+
+        lines = [normalize_whitespace(x) for x in soup.get_text("\n").split("\n") if normalize_whitespace(x)]
+
+        # Find date line like "Fr., 27. Feb. 2026"
+        date_line = next((t for t in lines if re.search(r"\b20\d{2}\b", t)), None)
+        if not date_line:
+            return []
+
+        # Find time range like "10:00–11:30" or "10:00 - 11:30"
+        time_line = next((t for t in lines if re.search(r"\b\d{1,2}:\d{2}\s*[–-]\s*\d{1,2}:\d{2}\b", t)), None)
+
+        # Organizer often appears as a line starting with "GZ "
+        organizer = next((t for t in lines if t.startswith("GZ ")), None)
+
+        start_dt = parse_datetime_zh(f"{date_line} {time_line or ''}", self.tz_zh)
+        if not start_dt:
+            start_dt = parse_datetime_zh(date_line, self.tz_zh)
+        if not start_dt:
+            return []
+
+        end_dt = None
+        if time_line:
+            m = re.search(r"(\d{1,2}:\d{2})\s*[–-]\s*(\d{1,2}:\d{2})", time_line)
+            if m:
+                hh, mm = map(int, m.group(2).split(":"))
+                end_dt = ensure_end(start_dt, start_dt.replace(hour=hh, minute=mm))
+
+        eid = stable_event_id("gz", url, start_dt.isoformat(), title)
+        return [Event(
+            id=eid,
+            title=title,
+            start=start_dt,
+            end=end_dt,
+            url=url,
+            source_id=self.id,
+            source_name=self.name,
+            organizer=organizer,
+            location=organizer,
+            tags=("gz",),
+        )]
+
+
+# ----------------------------
+# Karussell: crawl multiple entry points -> event pages -> extract all dates
+# ----------------------------
+
+class KarussellCrawlSource(Source):
+    def fetch(self) -> List[Event]:
+        start_urls: List[str] = self.cfg.get("start_urls", [])
+        max_depth = int(self.cfg.get("max_depth", 2))
+        max_event_pages = int(self.cfg.get("max_event_pages", 400))
+
+        visited: set[str] = set()
+        event_pages: set[str] = set()
+
+        queue: List[Tuple[str, int]] = [(u, 0) for u in start_urls]
+
+        while queue:
+            url, depth = queue.pop(0)
+            if url in visited:
+                continue
+            visited.add(url)
+
+            # hard stop to avoid runaway
+            if len(visited) > 2000:
+                break
+
+            soup = get_soup(self.session, url)
+            html = str(soup)
+
+            # Collect event pages
+            for m in re.finditer(r"https?://www\.karussell-baden\.ch/angebote/event/\d+/[^\"'\s<>()]+/?", html):
+                event_pages.add(m.group(0).rstrip(")"))
+                if len(event_pages) >= max_event_pages:
+                    break
+
+            if len(event_pages) >= max_event_pages:
+                break
+
+            if depth < max_depth:
+                for a in soup.select("a[href]"):
+                    href = (a.get("href") or "").strip()
+                    if not href:
+                        continue
+                    nxt = urljoin(url, href)
+                    parsed = urlparse(nxt)
+                    if parsed.netloc not in {"www.karussell-baden.ch", "karussell-baden.ch"}:
+                        continue
+                    if "/angebote/" not in nxt:
+                        continue
+
+                    # stay focused
+                    if any(p in nxt for p in ["/angebote/uebersicht", "/angebote/aktuell", "/angebote/themen", "/angebote/event", "/angebote/jahresprogramm"]):
+                        if nxt not in visited:
+                            queue.append((nxt, depth + 1))
+
+        events: List[Event] = []
+        for ep in sorted(event_pages):
+            events.extend(self._parse_event_page(ep))
+
+        return events
+
+    def _parse_event_page(self, url: str) -> List[Event]:
+        soup = get_soup(self.session, url)
+        h1 = soup.select_one("h1")
+        if not h1:
+            return []
+        title = normalize_whitespace(h1.get_text(" "))
+
+        lines = [normalize_whitespace(x) for x in soup.get_text("\n").split("\n") if normalize_whitespace(x)]
+
+        # Location: after a "Wo" label
+        location = None
+        for i, t in enumerate(lines):
+            if t.lower() == "wo" and i + 1 < len(lines):
+                location = lines[i + 1]
+                break
+
+        date_blocks: List[str] = []
+
+        # "Findet statt am" + next line
+        for i, t in enumerate(lines):
+            if t.lower().startswith("findet statt am") and i + 1 < len(lines):
+                date_blocks.append(lines[i + 1])
+
+        # "Weitere Daten" area: collect lines that contain year + time
+        in_more = False
+        for t in lines:
+            if t.lower().startswith("weitere daten"):
+                in_more = True
+                continue
+            if in_more:
+                if t.startswith("©") or t.lower() in {"impressum", "datenschutzerklärung"}:
+                    break
+                if re.search(r"\b20\d{2}\b", t) and re.search(r"\b\d{1,2}:\d{2}\b", t):
+                    date_blocks.append(t)
+
+        out: List[Event] = []
+        for blk in date_blocks:
+            start = parse_datetime_zh(blk, self.tz_zh)
+            if not start:
+                continue
+
+            # Optional end time like "14:30 bis 15:30" or "14:30 - 15:30"
+            end = None
+            m = re.search(r"(\d{1,2}:\d{2})\s*(bis|[-–])\s*(\d{1,2}:\d{2})", blk)
+            if m:
+                hh, mm = map(int, m.group(3).split(":"))
+                end = ensure_end(start, start.replace(hour=hh, minute=mm))
+
+            eid = stable_event_id("karussell", url, start.isoformat(), title)
+            out.append(Event(
+                id=eid,
+                title=title,
+                start=start,
+                end=end,
+                url=url,
+                source_id=self.id,
+                source_name=self.name,
+                organizer="Karussell Baden",
+                location=location,
+                tags=("karussell",),
+            ))
+
+        return out
+
+
+# ----------------------------
+# Writers: JSON + meta + ICS
+# ----------------------------
+
+def write_json(events: List[Event]) -> None:
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    with open(EVENTS_JSON, "w", encoding="utf-8") as f:
+        json.dump([e.to_dict() for e in events], f, ensure_ascii=False, indent=2)
+
+
+def write_meta(meta: Dict[str, Any]) -> None:
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    with open(META_JSON, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
+
+
+def write_ics(events: List[Event]) -> None:
+    """
+    Minimal ICS writer without extra deps.
+    Times are stored in UTC (DTSTART/DTEND with trailing Z).
+    """
+    def esc(s: str) -> str:
+        return (s or "").replace("\\", "\\\\").replace("\n", "\\n").replace(",", "\\,").replace(";", "\\;")
+
+    def dt_utc(dt: datetime) -> str:
+        return dt.astimezone(tz.UTC).strftime("%Y%m%dT%H%M%SZ")
+
+    now = datetime.now(tz=tz.UTC).strftime("%Y%m%dT%H%M%SZ")
+
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//family-events//events 2.0//EN",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+    ]
+
+    for e in events:
+        lines.append("BEGIN:VEVENT")
+        lines.append(f"UID:{e.id}@family-events")
+        lines.append(f"DTSTAMP:{now}")
+        lines.append(f"SUMMARY:{esc(e.title)}")
+        lines.append(f"DTSTART:{dt_utc(e.start)}")
+        if e.end:
+            lines.append(f"DTEND:{dt_utc(e.end)}")
+        if e.url:
+            lines.append(f"URL:{esc(e.url)}")
+        desc = f"Quelle: {e.source_name}"
+        if e.organizer:
+            desc += f" | {e.organizer}"
+        lines.append(f"DESCRIPTION:{esc(desc)}")
+        if e.location:
+            lines.append(f"LOCATION:{esc(e.location)}")
+        lines.append("END:VEVENT")
+
+    lines.append("END:VCALENDAR")
+
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    with open(ALL_ICS, "w", encoding="utf-8") as f:
+        f.write("\r\n".join(lines) + "\r\n")
+
+
+# ----------------------------
+# Runner
+# ----------------------------
+
+SOURCE_TYPES = {
+    "elch_html": ElchHtmlSource,
+    "gz_index": GzIndexSource,
+    "karussell_crawl": KarussellCrawlSource,
+}
+
+
+def dedupe_events(events: List[Event]) -> List[Event]:
+    seen = set()
+    out: List[Event] = []
+    for e in sorted(events, key=lambda x: (x.start, x.title, x.url)):
+        if e.id in seen:
+            continue
+        seen.add(e.id)
+        out.append(e)
+    return out
+
+
+def load_config(path: str = "sources.yaml") -> Dict[str, Any]:
+    with open(path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+
+def main() -> int:
+    cfg = load_config("sources.yaml")
+    defaults = cfg.get("defaults", {})
+    tzid = defaults.get("timezone", "Europe/Zurich")
+    tz_zh = tz.gettz(tzid)
+
+    session = make_session(defaults.get("user_agent", "family-events/2.0"))
+
+    sources_cfg = [s for s in cfg.get("sources", []) if s.get("enabled", True)]
 
     all_events: List[Event] = []
-    for src in cfg["sources"]:
-        t = src["type"]
+    per_source: Dict[str, Any] = {}
+
+    for s_cfg in sources_cfg:
+        sid = s_cfg.get("id", "unknown")
+        stype = s_cfg.get("type")
+        sname = s_cfg.get("name", sid)
+
+        klass = SOURCE_TYPES.get(stype)
+        if not klass:
+            per_source[sid] = {"name": sname, "type": stype, "error": f"Unknown source type: {stype}"}
+            continue
+
+        src = klass(s_cfg, defaults, session, tz_zh)
+
+        t0 = datetime.now(tz=tz.UTC)
         try:
-            if t == "karussell_jahresprogramm":
-                all_events += fetch_karussell(src["url"], src["default_location"], src["center"], tzinfo)
-            elif t == "gz_programm":
-                all_events += fetch_gz_program(src["url"], src["default_location"], src["center"], tzinfo)
-            elif t == "elch_pdf":
-                all_events += fetch_elch_pdf(src["url"], src["default_location"], tzinfo, center_keywords)
-            else:
-                print("Unknown source type:", t)
+            events = src.fetch()
+            ok = True
+            err = None
         except Exception as e:
-            print(f"Source failed ({src['id']}): {e}", file=sys.stderr)
+            events = []
+            ok = False
+            err = f"{type(e).__name__}: {e}"
+        t1 = datetime.now(tz=tz.UTC)
 
-    all_events = dedup(all_events)
-    all_events.sort(key=lambda e: e.start)
+        all_events.extend(events)
+        per_source[sid] = {
+            "name": sname,
+            "type": stype,
+            "ok": ok,
+            "error": err,
+            "count": len(events),
+            "seconds": round((t1 - t0).total_seconds(), 3),
+        }
 
-    # meta: mark "new"
-    prev = load_prev_meta(OUT_META_ROOT)
-    seen = prev.get("seen", {})
-    now_iso = datetime.now(tzinfo).isoformat(timespec="seconds")
+        print(f"[{sid}] {len(events)} events ({per_source[sid]['seconds']}s)")
 
-    out_list: List[Dict] = []
-    new_count = 0
-    for e in all_events:
-        key = f"{e.title}|{e.start}|{e.center}"
-        is_new = key not in seen
-        if is_new:
-            new_count += 1
-        seen[key] = now_iso
-        d = asdict(e)
-        d["is_new"] = is_new
-        out_list.append(d)
+    all_events = dedupe_events(all_events)
 
-    meta_obj = {"updated_at": now_iso, "seen": seen}
+    meta = {
+        "version": "events 2.0",
+        "generated_at": datetime.now(tz=tz.UTC).isoformat(),
+        "timezone": tzid,
+        "count": len(all_events),
+        "sources": per_source,
+    }
 
-    # Write to repo root (handy for debugging)
-    write_json(OUT_EVENTS_ROOT, out_list)
-    write_json(OUT_META_ROOT, meta_obj)
+    write_json(all_events)
+    write_meta(meta)
+    write_ics(all_events)
 
-    # Write to /docs for GitHub Pages
-    write_json(OUT_EVENTS_DOCS, out_list)
-    write_json(OUT_META_DOCS, meta_obj)
+    print(f"OK: wrote {len(all_events)} unique events")
+    return 0
 
-    os.makedirs(os.path.dirname(OUT_ICS_DOCS) or ".", exist_ok=True)
-    with open(OUT_ICS_DOCS, "w", encoding="utf-8") as f:
-        f.write(to_ics(out_list))
-
-    print(f"Wrote {len(out_list)} events. New since last run: {new_count}")
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
