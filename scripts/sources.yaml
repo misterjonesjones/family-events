@@ -1,48 +1,45 @@
-timezone: Europe/Zurich
-
-elch_centers:
-  # Passe die Namen so an, wie sie auf der ELCH-Seite/PDF wirklich auftauchen:
-  # (Die Liste dient der Erkennung im Text)
-  - Accu
-  - Regensbergstrasse
-  - Leimbach
-  - Seebach
-  - Schwamendingen
-  - Oerlikon
+# sources.yaml (events 2.0)
+defaults:
+  timezone: Europe/Zurich
+  user_agent: "family-events-bot/2.0 (+https://misterjonesjones.github.io/family-events/)"
 
 sources:
+  - id: elch
+    name: "Zentrum ELCH"
+    type: elch_html
+    enabled: true
+    centers:
+      - id: cece
+        name: "Zentrum ELCH CeCe-Areal"
+        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote"
+      - id: accu
+        name: "Zentrum ELCH Accu"
+        listing_url: "https://zentrumelch.ch/angebote-accu"
+      - id: frieden
+        name: "Zentrum ELCH Frieden"
+        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote"
+      - id: krokodil
+        name: "Zentrum Krokodil"
+        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote"
+      - id: regensbergstrasse
+        name: "Zentrum ELCH Regensbergstrasse"
+        listing_url: "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote"
+
+  - id: gz
+    name: "GZ Zürich"
+    type: gz_index
+    enabled: true
+    index_url: "https://gz-zh.ch/"
+    max_pages: 5
+
   - id: karussell
-    name: Karussell Baden
-    type: karussell_jahresprogramm
-    url: https://www.karussell-baden.ch/angebote/jahresprogramm/
-    default_location: Karussell Familienzentrum Region Baden
-    center: Karussell Baden
-
-  - id: gz_bachwiesen
-    name: GZ Bachwiesen
-    type: gz_programm
-    url: https://gz-zh.ch/gz-bachwiesen/programm/
-    default_location: GZ Bachwiesen
-    center: GZ Bachwiesen
-
-  - id: gz_loogarten
-    name: GZ Loogarten
-    type: gz_programm
-    url: https://gz-zh.ch/gz-loogarten/programm/
-    default_location: GZ Loogarten
-    center: GZ Loogarten
-
-  - id: gz_hoengg
-    name: GZ Höngg
-    type: gz_programm
-    url: https://gz-zh.ch/gz-hoengg/programm/
-    default_location: GZ Höngg
-    center: GZ Höngg
-
-  # ELCH: PDF mit datierten Veranstaltungen (Beispiel-URL; kann sich pro Saison ändern)
-  - id: elch_pdf
-    name: Zentrum ELCH (Veranstaltungen PDF)
-    type: elch_pdf
-    url: https://zentrumelch.ch/fileadmin/media/PDF/Broschueren/ELCH_Veranstaltungen_FS_2026.pdf
-    default_location: Zentrum ELCH (diverse)
-    center: Zentrum ELCH
+    name: "Karussell Baden"
+    type: karussell_crawl
+    enabled: true
+    start_urls:
+      - "https://www.karussell-baden.ch/angebote/uebersicht/"
+      - "https://www.karussell-baden.ch/angebote/jahresprogramm/"
+      - "https://www.karussell-baden.ch/angebote/aktuell/"
+      - "https://www.karussell-baden.ch/angebote/themen/"
+    max_depth: 2
+    max_event_pages: 400
