@@ -532,7 +532,7 @@ def main():
             elif stype == "karussell_jahresprogramm":
                 all_events += fetch_karussell_jahresprogramm(url, center, loc, tzinfo)
             elif stype == "karussell_uebersicht":
-                all_events += fetch_karussell_uebersicht(url, center, loc)
+                all_events += fetch_karussell_uebersicht(url, center, loc, tzinfo)
             else:
                 print("Unknown source type:", stype, file=sys.stderr)
         except Exception as e:
@@ -582,4 +582,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
