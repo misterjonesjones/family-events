@@ -28,7 +28,7 @@ jobs:
         run: |
           python scripts/fetch_events.py
 
-            - name: Show generated files
+      - name: Show generated files
         run: |
           echo "=== repo root ==="
           ls -la
@@ -43,6 +43,11 @@ jobs:
         run: |
           git config user.name "events-bot"
           git config user.email "events-bot@users.noreply.github.com"
-          git add events.json events.meta.json all.ics
+
+          git add -A events.json events.meta.json all.ics 2>/dev/null || true
+          git add -A site/all.ics site/events.json site/events.meta.json 2>/dev/null || true
+          git add -A docs/all.ics docs/events.json docs/events.meta.json 2>/dev/null || true
+
+          git status --porcelain
           git commit -m "Update events" || exit 0
           git push
