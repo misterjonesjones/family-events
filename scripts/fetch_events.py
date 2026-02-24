@@ -605,6 +605,8 @@ def main():
                 all_events += fetch_elch_angebote(url, center, loc, tzinfo)
             elif stype == "gz_programm":
                 all_events += fetch_gz_program(url, center, loc, tzinfo)
+            elif stype == "ideesport_minimove":
+                all_events += fetch_ideesport_minimove(url, center, loc, tzinfo)
             elif stype == "karussell_jahresprogramm":
                 all_events += fetch_karussell_jahresprogramm(url, center, loc, tzinfo)
             elif stype == "karussell_uebersicht":
@@ -658,6 +660,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
