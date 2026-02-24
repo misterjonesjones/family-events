@@ -49,7 +49,7 @@ function getFiltersFromUrl(){
     n: u.searchParams.get("n") === "1",
     f: u.searchParams.get("f") === "1",
     a: u.searchParams.get("a") === "1",
-    k: u.searchParams.get("k") || "once",     // once|recurring|both  (default once)
+    k: u.searchParams.get("k") || "once",     // once|recurring|both
   };
 }
 
@@ -85,18 +85,15 @@ function setUrlFromFilters(){
 }
 
 function rangeEndDate(rangeVal){
-  // We interpret range as "from now until end of day X days from now".
   if (rangeVal === "all") return null;
   const now = new Date();
   const days = parseInt(rangeVal, 10);
   const end = new Date(now.getTime() + days * 86400000);
-  // normalize to end of that day
   end.setHours(23,59,59,999);
   return end;
 }
 
 function withinRange(start, rangeVal){
-  // All ranges are "from now (inclusive) to endDate". For "all": from now forward.
   const now = new Date();
   if (start < now) return false;
   const end = rangeEndDate(rangeVal);
@@ -105,7 +102,6 @@ function withinRange(start, rangeVal){
 }
 
 function matchesKind(item, k){
-  // item.kind is "dated" or "recurring"
   if (k === "both") return true;
   if (k === "once") return item.kind === "dated";
   if (k === "recurring") return item.kind === "recurring";
@@ -114,10 +110,10 @@ function matchesKind(item, k){
 
 function applyFilters(){
   const q = $("q").value.trim().toLowerCase();
-  const range = $("range").value;            // 7|14|30|all
+  const range = $("range").value;
   const source = $("source").value;
   const center = $("center").value;
-  const weekday = $("weekday").value;        // 0..6
+  const weekday = $("weekday").value;
   const tod = $("tod").value;
   const onlyNew = $("onlyNew").checked;
   const onlyFree = $("onlyFree").checked;
@@ -136,33 +132,21 @@ function applyFilters(){
 
     if (e.kind === "dated" && e.start){
       const start = new Date(e.start);
-
-      // range filter applies to dated items only
       if (!withinRange(start, range)) return false;
-
-      // weekday filter
       if (weekday !== "" && start.getDay().toString() !== weekday) return false;
-
-      // time-of-day filter
       if (tod && todBucket(e.start) !== tod) return false;
     }
 
-    // recurring has no date; weekday/tod/range don't apply
     if (e.kind === "recurring") {
-      // if user selected weekday/tod, we keep recurring anyway? I'd say: hide recurring if weekday/tod is set.
-      // This avoids confusion.
+      // recurring has no concrete dates -> only show in "all" and without weekday/tod filters
       if (weekday !== "" || tod) return false;
-      if (range !== "all") {
-        // range is about upcoming dates; recurring has none, hide unless "all"
-        return false;
-      }
+      if (range !== "all") return false;
     }
 
     if (q){
       const hay = `${e.title} ${e.center} ${e.location} ${e.source} ${(e.tags||[]).join(" ")} ${e.schedule_text||""}`.toLowerCase();
       if (!hay.includes(q)) return false;
     }
-
     return true;
   });
 }
@@ -170,7 +154,6 @@ function applyFilters(){
 function render(){
   const filtered = applyFilters();
 
-  // Always sort chronologically for dated, and then recurring by title/center
   const dated = filtered.filter(x => x.kind === "dated" && x.start)
     .sort((a,b)=>a.start.localeCompare(b.start));
   const recurring = filtered.filter(x => x.kind === "recurring")
@@ -180,10 +163,9 @@ function render(){
   const showRecurringSection = (kindFilter === "recurring" || kindFilter === "both");
 
   $("meta").textContent =
-    `${dated.length} Termine` +
-    (showRecurringSection ? ` · ${recurring.length} laufend` : "");
+    `${dated.length} Termine` + (showRecurringSection ? ` · ${recurring.length} laufend` : "");
 
-  // --- dated grouped by day ---
+  // dated grouped by day
   const byDay = new Map();
   for (const e of dated){
     const d = new Date(e.start);
@@ -224,9 +206,7 @@ function render(){
               <span class="badge soft">${e.source}</span>
             </div>
           </div>
-          <div class="line2">
-            <span>📍 ${e.location}</span>
-          </div>
+          <div class="line2"><span>📍 ${e.location}</span></div>
         </div>
       `;
       dayWrap.appendChild(card);
@@ -235,7 +215,7 @@ function render(){
     datedRoot.appendChild(dayWrap);
   }
 
-  // --- recurring section ---
+  // recurring
   const recRoot = $("recurring");
   recRoot.innerHTML = "";
   if (showRecurringSection && recurring.length){
@@ -255,9 +235,7 @@ function render(){
           <a href="${e.url}" target="_blank" rel="noopener">${e.title}</a>
           <div class="small">${e.center} · ${e.source}${e.schedule_text ? " · " + e.schedule_text : ""}</div>
         </div>
-        <div class="badges">
-          ${e.is_new ? `<span class="badge soft">neu</span>` : ""}
-        </div>
+        <div class="badges">${e.is_new ? `<span class="badge soft">neu</span>` : ""}</div>
       `;
       list.appendChild(item);
     }
