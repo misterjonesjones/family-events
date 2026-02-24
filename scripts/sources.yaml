@@ -75,3 +75,25 @@ sources:
     url: https://gz-zh.ch/gz-heuried/programm/
     center: GZ Heuried
     default_location: GZ Heuried
+
+  # --- IdéeSport MiniMove ---
+  - id: ideesport_minimove_letzi
+    name: MiniMove Letzi (IdéeSport)
+    type: ideesport_minimove
+    url: https://www.ideesport.ch/de/angebot/minimove/minimove-letzi
+    center: MiniMove Letzi
+    default_location: Schule Letzi, Zürich
+
+  - id: ideesport_minimove_kappeli
+    name: MiniMove Kappeli (IdéeSport)
+    type: ideesport_minimove
+    url: https://www.ideesport.ch/de/angebot/minimove/minimove-kappeli
+    center: MiniMove Kappeli
+    default_location: Schule Kappeli Primar, Zürich
+
+  - id: ideesport_minimove_schlieren
+    name: MiniMove Schlieren (IdéeSport)
+    type: ideesport_minimove
+    url: https://www.ideesport.ch/de/angebot/minimove/minimove-schlieren
+    center: MiniMove Schlieren
+    default_location: Schule Reitmen, Schlieren
