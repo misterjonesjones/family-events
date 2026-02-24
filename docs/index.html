@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
   <header class="top">
     <div>
       <h1>Familien-Events</h1>
@@ -19,37 +20,77 @@
   </header>
 
   <section class="filters">
+
+    <!-- Zeile 1 -->
     <div class="row">
       <input id="q" type="search" placeholder="Suche (Titel/Ort/Zentrum) …" />
+
       <select id="range">
         <option value="7">7 Tage</option>
         <option value="14" selected>14 Tage</option>
         <option value="30">30 Tage</option>
         <option value="all">Alle</option>
       </select>
-      <select id="center"><option value="">Zentrum</option></select>
-      <select id="source"><option value="">Quelle</option></select>
+
+      <select id="center">
+        <option value="">Zentrum</option>
+      </select>
+
+      <select id="source">
+        <option value="">Quelle</option>
+      </select>
+
       <select id="weekday">
         <option value="">Wochentag</option>
-        <option value="1">Mo</option><option value="2">Di</option><option value="3">Mi</option>
-        <option value="4">Do</option><option value="5">Fr</option><option value="6">Sa</option><option value="0">So</option>
+        <option value="1">Mo</option>
+        <option value="2">Di</option>
+        <option value="3">Mi</option>
+        <option value="4">Do</option>
+        <option value="5">Fr</option>
+        <option value="6">Sa</option>
+        <option value="0">So</option>
       </select>
+
       <select id="tod">
         <option value="">Tageszeit</option>
         <option value="morning">Vormittag</option>
         <option value="afternoon">Nachmittag</option>
         <option value="evening">Abend</option>
       </select>
+
+      <!-- NEU: Typ-Filter -->
+      <select id="kindFilter">
+        <option value="once" selected>Einmalig</option>
+        <option value="recurring">Laufend</option>
+        <option value="both">Beides</option>
+      </select>
+
     </div>
 
+    <!-- Zeile 2 -->
     <div class="row row2">
-      <label class="chk"><input id="onlyNew" type="checkbox" /> Neu</label>
-      <label class="chk"><input id="onlyFree" type="checkbox" /> Gratis</label>
-      <label class="chk"><input id="onlySignup" type="checkbox" /> Anmeldung</label>
-      <label class="chk"><input id="showRecurring" type="checkbox" checked /> Laufende Angebote</label>
+
+      <label class="chk">
+        <input id="onlyNew" type="checkbox" />
+        Neu
+      </label>
+
+      <label class="chk">
+        <input id="onlyFree" type="checkbox" />
+        Gratis
+      </label>
+
+      <label class="chk">
+        <input id="onlySignup" type="checkbox" />
+        Anmeldung
+      </label>
+
       <button class="btn ghost" id="reset">Reset</button>
+
       <div class="meta" id="meta"></div>
+
     </div>
+
   </section>
 
   <main class="main">
@@ -58,6 +99,6 @@
   </main>
 
   <script src="app.js"></script>
+
 </body>
 </html>
-
