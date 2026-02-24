@@ -507,6 +507,82 @@ def fetch_karussell_uebersicht(url: str, center: str, default_location: str, tzi
 
     return dedup(events)
 
+def fetch_ideesport_minimove(url: str, center: str, default_location: str, tzinfo) -> List[Event]:
+    """
+    IdéeSport MiniMove pages have a section "Veranstaltungsdaten" like:
+      Sonntag 11.01.2026 14:30 - 17:00
+    And later a line:
+      Ort: Schule Letzi, ...
+    We create one dated Event per row.
+    """
+    html = safe_get(url)
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Title from H1 if available (e.g. "MiniMove Letzi")
+    page_title = ""
+    h1 = soup.find("h1")
+    if h1:
+        page_title = h1.get_text(" ", strip=True)
+    if not page_title:
+        page_title = center
+
+    text = soup.get_text("\n", strip=True)
+
+    # Location line: "### Ort: ..."
+    loc = default_location
+    mloc = re.search(r"\bOrt:\s*(.+)", text)
+    if mloc:
+        loc = mloc.group(1).strip()
+
+    # Rows: weekday dd.mm.yyyy hh:mm - hh:mm
+    # Example: "Sonntag 11.01.2026 14:30 - 17:00"
+    row_re = re.compile(
+        r"\b(Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag)\s+"
+        r"(\d{2})\.(\d{2})\.(\d{4})\s+"
+        r"(\d{1,2}[:.]\d{2})\s*[-–—]\s*(\d{1,2}[:.]\d{2})"
+    )
+
+    events: List[Event] = []
+    for rm in row_re.finditer(text):
+        dd = int(rm.group(2))
+        mm = int(rm.group(3))
+        yy = int(rm.group(4))
+        st = rm.group(5).replace(".", ":")
+        et = rm.group(6).replace(".", ":")
+
+        sh, sm = map(int, st.split(":"))
+        start_dt = datetime(yy, mm, dd, sh, sm, tzinfo=tzinfo)
+
+        end_iso = None
+        if et:
+            eh, em = map(int, et.split(":"))
+            end_dt = datetime(yy, mm, dd, eh, em, tzinfo=tzinfo)
+            end_iso = iso(end_dt)
+
+        # MiniMove is typically free and without signup (often stated on page).
+        # We still run infer_* to keep consistent tagging.
+        tags = infer_tags(page_title, text)
+        flags = infer_flags(page_title, text)
+        flags["gratis"] = True
+        if "anmeldung" not in flags:
+            flags["anmeldung"] = False
+
+        events.append(Event(
+            title=page_title,
+            start=iso(start_dt),
+            end=end_iso,
+            location=loc,
+            source="IdéeSport",
+            center=center,
+            url=url,
+            tags=tags,
+            flags=flags,
+            kind="dated",
+            schedule_text="",
+        ))
+
+    return dedup(events)
+
 # -------------------------
 # Main
 # -------------------------
@@ -582,5 +658,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
