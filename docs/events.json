@@ -942,31 +942,6 @@
     "is_new": false
   },
   {
-    "title": "PEKiP® für dich und dein Kind (Start im März)",
-    "start": "2026-03-03T09:30+01:00",
-    "end": "2026-03-03T11:00+01:00",
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-maerz",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Di, 9.30–11.00 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-03-03T10:10+01:00",
     "end": "2026-03-03T11:00+01:00",
@@ -2292,6 +2267,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "PEKiP® für dich und dein Kind (Start im März)",
+    "start": "2026-03-10T09:30+01:00",
+    "end": "2026-03-10T11:00+01:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-maerz",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -5896,7 +5896,7 @@
     "location": "Zentrum ELCH Accu",
     "source": "Zentrum ELCH",
     "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/osterbasteln",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/osterbasteln-accu",
     "tags": [
       "anmeldung",
       "familie",
@@ -5910,7 +5910,7 @@
     "kind": "dated",
     "schedule_text": "01.04.2026",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Osterfest",
@@ -6098,7 +6098,7 @@
     "kind": "dated",
     "schedule_text": "Mo (div), 10.00–11.30 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Backspass für kleine Hände im April",
