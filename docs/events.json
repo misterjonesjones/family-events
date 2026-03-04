@@ -96,31 +96,6 @@
     "is_new": false
   },
   {
-    "title": "Trage-Kafi",
-    "start": "2025-11-01T10:00+01:00",
-    "end": "2025-11-01T12:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/54/trage-kafi/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Aerobic Kids",
     "start": "2025-11-11T17:30+01:00",
     "end": "2025-11-11T18:30+01:00",
@@ -1251,29 +1226,6 @@
     "is_new": false
   },
   {
-    "title": "Kafi Plus Geschichtenzeit",
-    "start": "2026-03-04T16:00+01:00",
-    "end": "2026-03-04T16:30+01:00",
-    "location": "Zentrum ELCH CeCe-Areal",
-    "source": "Zentrum ELCH",
-    "center": "ELCH CeCe-Areal",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Mi, 16.00–16.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Individuelle Beratung zur Arbeitsmarktintegration",
     "start": "2026-03-05T09:00+01:00",
     "end": "2026-03-05T12:00+01:00",
@@ -1912,6 +1864,24 @@
     "is_new": false
   },
   {
+    "title": "Selbstbehauptungs- und Resilienztraining für Kinder",
+    "start": "2026-03-07T09:00+01:00",
+    "end": "2026-03-07T12:00+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Catalan activities and fun for children",
     "start": "2026-03-07T09:30+01:00",
     "end": "2026-03-07T11:00+01:00",
@@ -2291,7 +2261,7 @@
     "kind": "dated",
     "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -3121,6 +3091,24 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Selbstbehauptungs- und Resilienztraining für Kinder",
+    "start": "2026-03-14T09:00+01:00",
+    "end": "2026-03-14T12:00+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Väter-Kinder-Frühstück",
@@ -4203,6 +4191,28 @@
     "is_new": false
   },
   {
+    "title": "Mitgliederversammlung",
+    "start": "2026-03-20T17:00+01:00",
+    "end": "2026-03-20T19:30+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/123/mitgliederversammlung/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kinderbetreuung am Abend am 20. März 2026",
     "start": "2026-03-20T20:03+01:00",
     "end": null,
@@ -4927,6 +4937,29 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kafi Plus Geschichtenzeit",
+    "start": "2026-03-25T16:00+01:00",
+    "end": "2026-03-25T16:30+01:00",
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Mi, 16.00–16.30 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Beratungstreff für getrenntlebende Eltern",
@@ -5910,7 +5943,7 @@
     "kind": "dated",
     "schedule_text": "01.04.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Osterfest",
