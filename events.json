@@ -1051,51 +1051,6 @@
     "is_new": false
   },
   {
-    "title": "Kafi Plus Mini-Pizza backen",
-    "start": "2026-03-04T04:03+01:00",
-    "end": null,
-    "location": "Zentrum ELCH Frieden",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-mini-pizza-backen",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "04.03.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Mini-Labor März",
-    "start": "2026-03-04T04:03+01:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/mini-labor-maerz",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "04.03.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2026-03-04T08:20+01:00",
     "end": "2026-03-04T09:50+01:00",
@@ -1347,30 +1302,6 @@
     },
     "kind": "dated",
     "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Farbige Wolle",
-    "start": "2026-03-05T13:30+01:00",
-    "end": "2026-03-05T17:00+01:00",
-    "location": "Zentrum ELCH Krokodil",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Krokodil",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/farbige-wolle",
-    "tags": [
-      "anmeldung",
-      "bewegung",
-      "familie",
-      "gratis",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Öffnungszeiten Kafi Plus, Indoorspielplatz und Gartenterrasse in den Herbst- und Sportferien am Montag, Mittwoch und Freitag von 13.30–17.00 Uhr.",
     "description": "",
     "is_new": false
   },
@@ -1879,7 +1810,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Catalan activities and fun for children",
@@ -3108,7 +3039,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Väter-Kinder-Frühstück",
@@ -3151,7 +3082,7 @@
     "is_new": false
   },
   {
-    "title": "Min­i­Move Kap­peli",
+    "title": "Min­i­Move Kap­peli (Am 8.3.26 geschlossen)",
     "start": "2026-03-15T14:30+01:00",
     "end": "2026-03-15T17:00+01:00",
     "location": "Schule Kappeli Primar, Badenerstrasse 618, 8048 Zürich, Schweiz",
@@ -3170,7 +3101,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Min­i­Move Schlieren",
@@ -3967,6 +3898,30 @@
     "is_new": false
   },
   {
+    "title": "Farbige Wolle",
+    "start": "2026-03-19T13:30+01:00",
+    "end": "2026-03-19T17:00+01:00",
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/farbige-wolle",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Öffnungszeiten Kafi Plus, Indoorspielplatz und Gartenterrasse in den Herbst- und Sportferien am Montag, Mittwoch und Freitag von 13.30–17.00 Uhr.",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Flickservice",
     "start": "2026-03-19T14:00+01:00",
     "end": "2026-03-19T17:00+01:00",
@@ -4210,7 +4165,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 20. März 2026",
@@ -4339,7 +4294,7 @@
     "is_new": false
   },
   {
-    "title": "Min­i­Move Kap­peli",
+    "title": "Min­i­Move Kap­peli (Am 8.3.26 geschlossen)",
     "start": "2026-03-22T14:30+01:00",
     "end": "2026-03-22T17:00+01:00",
     "location": "Schule Kappeli Primar, Badenerstrasse 618, 8048 Zürich, Schweiz",
@@ -4358,7 +4313,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Min­i­Move Schlieren",
@@ -4959,7 +4914,7 @@
     "kind": "dated",
     "schedule_text": "Mi, 16.00–16.30 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Beratungstreff für getrenntlebende Eltern",
@@ -5487,7 +5442,7 @@
     "is_new": false
   },
   {
-    "title": "Min­i­Move Kap­peli",
+    "title": "Min­i­Move Kap­peli (Am 8.3.26 geschlossen)",
     "start": "2026-03-29T14:30+02:00",
     "end": "2026-03-29T17:00+02:00",
     "location": "Schule Kappeli Primar, Badenerstrasse 618, 8048 Zürich, Schweiz",
@@ -5506,7 +5461,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
