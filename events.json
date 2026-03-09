@@ -1616,28 +1616,6 @@
     "is_new": false
   },
   {
-    "title": "Min­i­Move Schlieren",
-    "start": "2026-03-08T14:30+01:00",
-    "end": "2026-03-08T17:00+01:00",
-    "location": "Schule Reitmen, Badenerstrasse 82, Schlieren, Schweiz",
-    "source": "IdéeSport",
-    "center": "MiniMove Schlieren",
-    "url": "https://www.ideesport.ch/de/angebot/minimove/minimove-schlieren",
-    "tags": [
-      "bewegung",
-      "gratis",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2026-03-09T08:20+01:00",
     "end": "2026-03-09T09:50+01:00",
@@ -1850,6 +1828,26 @@
     "is_new": false
   },
   {
+    "title": "Kampagnen Bücherwand",
+    "start": "2026-03-10T06:00+01:00",
+    "end": "2026-03-10T00:00+01:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Spielgruppe Heuried",
     "start": "2026-03-10T08:30+01:00",
     "end": "2026-03-10T11:30+01:00",
@@ -2017,6 +2015,24 @@
     "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Cafeteria",
+    "start": "2026-03-10T10:00+01:00",
+    "end": "2026-03-10T17:30+01:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Offenes Nähcafé",
@@ -2388,7 +2404,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kreativer Kindertanz von 4–7 Jahre",
@@ -2503,7 +2519,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Hatha Yoga",
@@ -2543,7 +2559,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rücken Pilates",
@@ -2584,6 +2600,27 @@
     "is_new": false
   },
   {
+    "title": "Reparaturwerkstatt+Textil",
+    "start": "2026-03-10T19:00+01:00",
+    "end": "2026-03-10T21:00+01:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Sprach-Café Französisch",
     "start": "2026-03-10T19:00+01:00",
     "end": "2026-03-10T20:00+01:00",
@@ -2599,7 +2636,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -2620,6 +2657,26 @@
     "is_new": false
   },
   {
+    "title": "Fit/Gym für Senior*innen",
+    "start": "2026-03-11T09:00+01:00",
+    "end": "2026-03-11T10:00+01:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Funktionelle Gymnastik",
     "start": "2026-03-11T09:00+01:00",
     "end": "2026-03-11T09:55+01:00",
@@ -2637,7 +2694,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -2675,7 +2732,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
