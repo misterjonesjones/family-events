@@ -615,32 +615,6 @@
     "is_new": false
   },
   {
-    "title": "Ostereier färben",
-    "start": "2026-03-27T13:00+01:00",
-    "end": "2026-03-27T14:30+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/137/ostereier-faerben/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2026-04-01T08:20+02:00",
     "end": "2026-04-01T09:50+02:00",
@@ -803,31 +777,6 @@
     ],
     "flags": {
       "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Turnbeutel nähen",
-    "start": "2026-04-02T09:00+02:00",
-    "end": "2026-04-02T12:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/299/turnbeutel-naehen/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "kosten",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
@@ -1292,6 +1241,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Turnbeutel nähen",
+    "start": "2026-04-09T09:00+02:00",
+    "end": "2026-04-09T12:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/299/turnbeutel-naehen/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Flickservice",
@@ -2152,7 +2126,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Winter-Singen",
@@ -4911,28 +4885,6 @@
     "is_new": false
   },
   {
-    "title": "Bunte Teller – Essen macht Freude",
-    "start": "2026-06-03T03:06+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Frieden",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/bunte-teller-essen-macht-freude-frieden",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "03.06.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Kasperli-Theater",
     "start": "2026-06-03T03:06+02:00",
     "end": null,
@@ -4979,6 +4931,28 @@
     "schedule_text": "04.06.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Bunte Teller – Essen macht Freude",
+    "start": "2026-06-05T05:06+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/bunte-teller-essen-macht-freude-frieden",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "05.06.2026",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kafi Plus Vatertagsbrunch",
@@ -5488,7 +5462,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 3. Juli",
