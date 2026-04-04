@@ -1265,7 +1265,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Flickservice",
@@ -4952,7 +4952,7 @@
     "kind": "dated",
     "schedule_text": "05.06.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Vatertagsbrunch",
