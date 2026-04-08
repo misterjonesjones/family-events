@@ -997,28 +997,6 @@
     "is_new": false
   },
   {
-    "title": "Kafi Plus Erzähltheater Farben",
-    "start": "2026-04-07T07:04+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Frieden",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-erzaehltheater-farben-frieden",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "07.04.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-04-07T09:00+02:00",
     "end": "2026-04-07T11:00+02:00",
@@ -1175,29 +1153,6 @@
     "is_new": false
   },
   {
-    "title": "Kafi Plus Geschichtenzeit",
-    "start": "2026-04-08T16:00+02:00",
-    "end": "2026-04-08T16:30+02:00",
-    "location": "Zentrum ELCH CeCe-Areal",
-    "source": "Zentrum ELCH",
-    "center": "ELCH CeCe-Areal",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Mi, 16.00–16.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-04-09T09:00+02:00",
     "end": "2026-04-09T11:00+02:00",
@@ -1337,6 +1292,27 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Body Toning",
+    "start": "2026-04-10T09:00+02:00",
+    "end": "2026-04-10T10:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Handarbeits-Treff",
@@ -1482,6 +1458,69 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kleinkindermalen",
+    "start": "2026-04-10T15:15+02:00",
+    "end": "2026-04-10T16:45+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kleinkind",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Besuche Kleintiere/Tierpaten",
+    "start": "2026-04-10T16:30+02:00",
+    "end": "2026-04-10T17:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Ski wachsen",
+    "start": "2026-04-10T19:00+02:00",
+    "end": "2026-04-10T21:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Samariterkurse «Notfälle bei KleinkindernPLUS»",
@@ -1736,7 +1775,7 @@
     "kind": "dated",
     "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -4698,6 +4737,29 @@
     "is_new": false
   },
   {
+    "title": "Kafi Plus Geschichtenzeit",
+    "start": "2026-05-13T16:00+02:00",
+    "end": "2026-05-13T16:30+02:00",
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Mi, 16.00–16.30 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Bücherwurm",
     "start": "2026-05-18T00:00+02:00",
     "end": null,
@@ -5206,6 +5268,28 @@
     "is_new": false
   },
   {
+    "title": "Mitgliederversammlung 2026",
+    "start": "2026-06-15T15:06+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/mitgliederversammlung-2026",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "15.06.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Offener Bastelnachmittag: Sonnenfänger",
     "start": "2026-06-17T17:06+02:00",
     "end": null,
@@ -5294,6 +5378,31 @@
     "schedule_text": "19.06.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Figura Theaterfestival \"Palikkateatteri – Block Theatre\"",
+    "start": "2026-06-20T13:30+02:00",
+    "end": "2026-06-20T14:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/304/figura-theaterfestival-palikkateatteri-block-theatre/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kinderbetreuung am Abend am 20. Juni 2026",
