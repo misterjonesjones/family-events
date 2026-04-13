@@ -1342,89 +1342,13 @@
   },
   {
     "title": "Madame Frigo Altstetten",
-    "start": "2026-04-12T00:00+02:00",
-    "end": "2026-04-12T23:00+02:00",
+    "start": "2026-04-13T00:00+02:00",
+    "end": "2026-04-13T23:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
     "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "selbstständige Werkstattnutzung-SWN",
-    "start": "2026-04-12T09:00+02:00",
-    "end": "2026-04-12T22:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Flohmarkt für Kindersachen",
-    "start": "2026-04-12T10:00+02:00",
-    "end": "2026-04-12T16:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Flohmarkt für Kindersachen",
-    "start": "2026-04-12T13:00+02:00",
-    "end": "2026-04-12T17:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kampagnen Bücherwand",
-    "start": "2026-04-13T06:00+02:00",
-    "end": "2026-04-13T00:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -1579,6 +1503,26 @@
     "is_new": false
   },
   {
+    "title": "selbstständige Werkstattnutzung-SWN",
+    "start": "2026-04-13T09:00+02:00",
+    "end": "2026-04-13T22:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "De Früehlig isch da!",
     "start": "2026-04-13T09:30+02:00",
     "end": "2026-04-13T11:30+02:00",
@@ -1672,32 +1616,6 @@
     },
     "kind": "dated",
     "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Femmes-Tisch in albanischer Sprache",
-    "start": "2026-04-13T10:00+02:00",
-    "end": "2026-04-13T11:30+02:00",
-    "location": "Zentrum ELCH Krokodil",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Krokodil",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-albanischer-sprache",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "gratis",
-      "kleinkind",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Mo (div), 10.00–11.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -1841,7 +1759,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spielraum für Kinder bis 7 J.",
@@ -2316,6 +2234,26 @@
     "is_new": false
   },
   {
+    "title": "Kampagnen Bücherwand",
+    "start": "2026-04-14T06:00+02:00",
+    "end": "2026-04-14T00:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Spielgruppe Heuried",
     "start": "2026-04-14T08:30+02:00",
     "end": "2026-04-14T11:30+02:00",
@@ -2576,7 +2514,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sprach-Café Deutsch",
@@ -2654,7 +2592,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Schul- und Kinderbibliothek",
@@ -2674,7 +2612,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -2733,6 +2671,24 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Tiere hautnah: Di, 16:00–18:00 Uhr",
+    "start": "2026-04-14T16:00+02:00",
+    "end": "2026-04-14T18:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kreativer Kindertanz von 4–7 Jahre",
@@ -2848,7 +2804,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rücken Pilates",
@@ -2907,7 +2863,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sprach-Café Französisch",
@@ -2945,7 +2901,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Funktionelle Gymnastik",
@@ -2965,7 +2921,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -3005,7 +2961,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sprachcafé Deutsch",
@@ -3016,6 +2972,28 @@
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Rückbildung fitdankbaby®",
+    "start": "2026-04-15T09:45+02:00",
+    "end": "2026-04-15T10:50+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "baby",
+      "bewegung",
+      "eltern"
+    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -3041,7 +3019,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -5462,6 +5440,32 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Femmes-Tisch in albanischer Sprache",
+    "start": "2026-05-04T10:00+02:00",
+    "end": "2026-05-04T11:30+02:00",
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-albanischer-sprache",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Mo (div), 10.00–11.30 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Mama Core & Pelvic Floor – Kraft für den Alltag mit Baby",
