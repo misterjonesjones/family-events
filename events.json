@@ -165,31 +165,6 @@
     "is_new": false
   },
   {
-    "title": "Winter-Singen",
-    "start": "2025-12-19T09:10+01:00",
-    "end": "2025-12-19T10:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/176/winter-singen/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2025-12-22T08:20+01:00",
     "end": "2025-12-22T09:50+01:00",
@@ -566,7 +541,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend",
@@ -727,7 +702,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -742,31 +717,6 @@
     ],
     "flags": {
       "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Eltern-Kind-Singen",
-    "start": "2026-05-01T09:20+02:00",
-    "end": "2026-05-01T10:10+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/12/eltern-kind-singen/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
@@ -790,7 +740,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -808,7 +758,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -826,7 +776,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "AtoZ English",
@@ -844,7 +794,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Trage-Workshop",
@@ -862,7 +812,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -880,7 +830,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -900,7 +850,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babymassage",
@@ -920,7 +870,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Femmes-Tisch in albanischer Sprache",
@@ -964,7 +914,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rückbildungs-Pilates – mit Babybetreuung",
@@ -984,7 +934,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Playgroup «Sanrays»",
@@ -1002,7 +952,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -1022,7 +972,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Pilates Mattentraining mit Baby-/Kinderbetreuung",
@@ -1042,7 +992,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -1062,7 +1012,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -1080,7 +1030,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -1098,7 +1048,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -1120,7 +1070,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -1140,7 +1090,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -1160,7 +1110,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mama Core & Pelvic Floor – Kraft für den Alltag mit Baby",
@@ -1231,7 +1181,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kindercoiffeuse",
@@ -1249,7 +1199,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -1269,7 +1219,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -1287,7 +1237,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -1307,7 +1257,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Playgroup «Sanrays»",
@@ -1325,7 +1275,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Aerobic für Erwachsene",
@@ -1343,7 +1293,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Ein Geschenk für Mama",
@@ -1454,7 +1404,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -1469,6 +1419,31 @@
     ],
     "flags": {
       "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Eltern-Kind-Singen",
+    "start": "2026-05-06T09:20+02:00",
+    "end": "2026-05-06T10:10+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/12/eltern-kind-singen/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
@@ -1492,7 +1467,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -1510,7 +1485,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -1528,7 +1503,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -1548,7 +1523,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -1566,7 +1541,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -1584,7 +1559,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Individuelle Beratung zur Arbeitsmarktintegration",
@@ -1604,7 +1579,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -1624,7 +1599,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babys entdecken die Welt",
@@ -1644,7 +1619,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Singen",
@@ -1665,7 +1640,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -1683,7 +1658,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babys entdecken die Welt",
@@ -1703,7 +1678,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Singen",
@@ -1724,7 +1699,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Farbige Wolle",
@@ -1766,7 +1741,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderhütedienst",
@@ -1784,7 +1759,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Näh- und Flickatelier",
@@ -1804,7 +1779,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -1824,7 +1799,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -1842,7 +1817,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -1860,7 +1835,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Lerntreff Baden",
@@ -1878,7 +1853,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Muttertagsbrunch",
@@ -2013,7 +1988,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Handarbeits-Treff",
@@ -2031,7 +2006,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -2051,7 +2026,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Stillberatung",
@@ -2093,7 +2068,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Tanzen rund um Elemente aus der Natur",
@@ -2113,7 +2088,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -2131,7 +2106,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treff für Eltern von Kindern mit Autismus und Asperger-Syndrom",
@@ -2151,7 +2126,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Samstagsverkauf im Secondhandshop",
@@ -2190,7 +2165,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Geburtstagsfest Frau Frieda Was",
@@ -2298,7 +2273,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Reunión de Lactancia en Español",
@@ -2338,7 +2313,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -2358,7 +2333,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babymassage",
@@ -2378,7 +2353,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -2396,7 +2371,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rückbildungs-Pilates – mit Babybetreuung",
@@ -2416,7 +2391,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Playgroup «Sanrays»",
@@ -2434,7 +2409,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -2454,7 +2429,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Pilates Mattentraining mit Baby-/Kinderbetreuung",
@@ -2474,7 +2449,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -2494,7 +2469,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -2512,7 +2487,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -2530,7 +2505,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -2552,7 +2527,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -2572,7 +2547,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -2592,7 +2567,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -2614,7 +2589,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Backspass für kleine Hände im Mai",
@@ -2678,7 +2653,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -2696,7 +2671,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -2716,7 +2691,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Playgroup «Sanrays»",
@@ -2734,7 +2709,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Aerobic Kids",
@@ -2752,7 +2727,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -2770,7 +2745,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -2790,7 +2765,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Music Together",
@@ -2808,7 +2783,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -2826,7 +2801,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -2844,7 +2819,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -2864,7 +2839,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -2882,7 +2857,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -2900,7 +2875,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Geschichtenzeit",
@@ -2941,7 +2916,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Flickservice",
@@ -2959,7 +2934,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -2977,7 +2952,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -2997,7 +2972,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -3015,7 +2990,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -3033,7 +3008,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Bücherwurm",
@@ -3073,7 +3048,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -3093,7 +3068,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -3111,7 +3086,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rückbildungs-Pilates – mit Babybetreuung",
@@ -3131,7 +3106,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Playgroup «Sanrays»",
@@ -3149,7 +3124,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -3169,7 +3144,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Pilates Mattentraining mit Baby-/Kinderbetreuung",
@@ -3189,7 +3164,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -3209,7 +3184,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -3227,7 +3202,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spielen mit Wasser \"Götsche & Pflotsche\"",
@@ -3245,7 +3220,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -3263,7 +3238,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -3285,7 +3260,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -3305,7 +3280,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -3325,7 +3300,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -3347,7 +3322,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kindercoiffeuse",
@@ -3365,7 +3340,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -3385,7 +3360,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -3403,7 +3378,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -3423,7 +3398,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Playgroup «Sanrays»",
@@ -3441,7 +3416,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Aerobic für Erwachsene",
@@ -3459,7 +3434,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -3477,7 +3452,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -3497,7 +3472,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
@@ -3520,7 +3495,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frühe Ausdrucksformen -  Baby-Signale verstehen",
@@ -3540,7 +3515,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -3558,7 +3533,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -3576,7 +3551,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -3596,7 +3571,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -3614,7 +3589,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -3632,7 +3607,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Schenk mir eine Geschichte Portugiesisch",
@@ -3650,7 +3625,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Bastelatelier",
@@ -3736,7 +3711,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babys entdecken die Welt",
@@ -3756,7 +3731,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Singen",
@@ -3777,7 +3752,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -3795,7 +3770,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babys entdecken die Welt",
@@ -3815,7 +3790,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Singen",
@@ -3836,7 +3811,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Flickservice",
@@ -3854,7 +3829,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderhütedienst",
@@ -3872,7 +3847,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Näh- und Flickatelier",
@@ -3892,7 +3867,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -3912,7 +3887,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -3930,7 +3905,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -3948,7 +3923,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -3968,7 +3943,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -3988,7 +3963,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -4006,7 +3981,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -4024,7 +3999,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 22. Mai 2026",
@@ -4064,7 +4039,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Workshop zum Thema Übergängen",
@@ -4127,7 +4102,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -4147,7 +4122,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -4169,7 +4144,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -4189,7 +4164,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -4209,7 +4184,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -4231,7 +4206,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -4251,7 +4226,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -4269,7 +4244,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -4289,7 +4264,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Playgroup «Sanrays»",
@@ -4307,7 +4282,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Aerobic Kids",
@@ -4325,7 +4300,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -4343,7 +4318,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -4363,7 +4338,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Music Together",
@@ -4381,7 +4356,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -4399,7 +4374,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -4417,7 +4392,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -4437,7 +4412,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -4455,7 +4430,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -4473,7 +4448,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Geschichten im «Karussell»",
@@ -4491,7 +4466,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Schenk mir eine Geschichte Ukrainisch",
@@ -4509,7 +4484,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Geschichten im «Karussell»",
@@ -4527,7 +4502,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Beratungstreff für getrenntlebende Eltern",
@@ -4547,7 +4522,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -4567,7 +4542,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babys entdecken die Welt",
@@ -4587,7 +4562,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Singen",
@@ -4608,7 +4583,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -4626,7 +4601,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babys entdecken die Welt",
@@ -4646,7 +4621,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Singen",
@@ -4667,7 +4642,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Flickservice",
@@ -4685,7 +4660,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderhütedienst",
@@ -4703,7 +4678,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Näh- und Flickatelier",
@@ -4723,7 +4698,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -4743,7 +4718,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -4761,7 +4736,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -4779,7 +4754,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Lerntreff Baden",
@@ -4797,7 +4772,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -4817,7 +4792,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauentreff",
@@ -4835,7 +4810,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -4855,7 +4830,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderhütedienst",
@@ -4899,7 +4874,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Schenk mir eine Geschichte Spanisch",
@@ -4917,7 +4892,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -4935,7 +4910,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Vortrag: Neurodivergenz bei Kindern",
@@ -4953,7 +4928,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "AtoZ English",
@@ -4971,7 +4946,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Väter-Kinder-Frühstück",
@@ -4989,7 +4964,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Beratungstreff für mehrsprachige Familien",
@@ -5010,7 +4985,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Vatertags-Basteln",
