@@ -214,31 +214,6 @@
     "is_new": false
   },
   {
-    "title": "Trage-Workshop",
-    "start": "2026-01-17T10:00+01:00",
-    "end": "2026-01-17T12:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/172/trage-workshop/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Schenk mir eine Geschichte Portugiesisch",
     "start": "2026-01-21T15:30+01:00",
     "end": "2026-01-21T17:00+01:00",
@@ -1449,7 +1424,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Music Together",
