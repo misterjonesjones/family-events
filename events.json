@@ -1086,31 +1086,6 @@
     "is_new": false
   },
   {
-    "title": "PEKiP® für dich und dein Kind (Start im Mai)",
-    "start": "2026-05-05T09:30+02:00",
-    "end": "2026-05-05T11:00+02:00",
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/pekipr-fuer-dich-und-dein-kind-start-im-mai",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Di, 9.30–11.00 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-05-05T10:10+02:00",
     "end": "2026-05-05T11:00+02:00",
@@ -2517,6 +2492,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "PEKiP® für dich und dein Kind (Start im Mai)",
+    "start": "2026-05-12T09:30+02:00",
+    "end": "2026-05-12T11:00+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/pekipr-fuer-dich-und-dein-kind-start-im-mai",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -5192,7 +5192,7 @@
     "kind": "dated",
     "schedule_text": "Mo (div), 10.00–11.30 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kreative Vasen-Werkstatt",
