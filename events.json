@@ -214,30 +214,6 @@
     "is_new": false
   },
   {
-    "title": "Frühe Ausdrucksformen -  Baby-Signale verstehen",
-    "start": "2026-01-28T09:30+01:00",
-    "end": "2026-01-28T11:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/270/fruehe-ausdrucksformen-baby-signale-verstehen/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Babysitting-Kurs",
     "start": "2026-02-22T09:00+01:00",
     "end": "2026-02-22T15:00+01:00",
@@ -2723,24 +2699,6 @@
     "is_new": false
   },
   {
-    "title": "Madame Frigo Altstetten",
-    "start": "2026-05-20T00:00+02:00",
-    "end": "2026-05-20T23:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2026-05-20T08:20+02:00",
     "end": "2026-05-20T09:50+02:00",
@@ -2759,66 +2717,6 @@
     "is_new": false
   },
   {
-    "title": "Spielgruppe Heuried",
-    "start": "2026-05-20T08:30+02:00",
-    "end": "2026-05-20T11:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "SPIELGRUPPEN 25 / 26",
-    "start": "2026-05-20T08:45+02:00",
-    "end": "2026-05-20T11:45+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Fit/Gym für Senior*innen",
-    "start": "2026-05-20T09:00+02:00",
-    "end": "2026-05-20T10:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-05-20T09:00+02:00",
     "end": "2026-05-20T11:00+02:00",
@@ -2826,127 +2724,6 @@
     "source": "Karussell Baden",
     "center": "Karussell Baden",
     "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
-    "tags": [
-      "baby"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Nachhaltigkeit – So ein Mist!",
-    "start": "2026-05-20T09:00+02:00",
-    "end": "2026-05-20T18:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Offene Nähwerkstatt",
-    "start": "2026-05-20T09:00+02:00",
-    "end": "2026-05-20T11:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Spielraum für Kinder bis 7 J.",
-    "start": "2026-05-20T09:00+02:00",
-    "end": "2026-05-20T12:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "selbstständige Werkstattnutzung-SWN",
-    "start": "2026-05-20T09:00+02:00",
-    "end": "2026-05-20T22:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
-    "start": "2026-05-20T09:30+02:00",
-    "end": "2026-05-20T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/",
-    "tags": [
-      "baby",
-      "eltern",
-      "familie",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Französische Krabbelgruppe",
-    "start": "2026-05-20T09:30+02:00",
-    "end": "2026-05-20T12:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
     "tags": [
       "baby"
     ],
@@ -2980,102 +2757,6 @@
     "is_new": false
   },
   {
-    "title": "Sprachcafé Deutsch",
-    "start": "2026-05-20T09:30+02:00",
-    "end": "2026-05-20T10:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Rückbildung fitdankbaby®",
-    "start": "2026-05-20T09:45+02:00",
-    "end": "2026-05-20T10:50+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "baby",
-      "bewegung",
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Cafeteria",
-    "start": "2026-05-20T10:00+02:00",
-    "end": "2026-05-20T17:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Mobiles Naturzentrum",
-    "start": "2026-05-20T10:00+02:00",
-    "end": "2026-05-20T19:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Sprach-Café Englisch",
-    "start": "2026-05-20T10:00+02:00",
-    "end": "2026-05-20T11:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2026-05-20T10:10+02:00",
     "end": "2026-05-20T11:40+02:00",
@@ -3092,280 +2773,6 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
-  },
-  {
-    "title": "Postnatal Pilates Class with Baby",
-    "start": "2026-05-20T10:30+02:00",
-    "end": "2026-05-20T11:45+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "baby",
-      "bewegung",
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Prenatal Yoga Class",
-    "start": "2026-05-20T12:00+02:00",
-    "end": "2026-05-20T13:15+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "bewegung",
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Türkisches Essen",
-    "start": "2026-05-20T12:00+02:00",
-    "end": "2026-05-20T13:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Everdance",
-    "start": "2026-05-20T13:30+02:00",
-    "end": "2026-05-20T14:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Ganzheitliche Bildung, in polnisch",
-    "start": "2026-05-20T13:30+02:00",
-    "end": "2026-05-20T18:45+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "AbenteuerStadtnatur",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T16:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "COMPI-HILF",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T16:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Flex",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T17:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Geräteausleihe Sharely",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Holzwerkstatt",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T21:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Krimi- und Romanbibliothek",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T17:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Nachhaltigkeit – Pflanzentausch",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T18:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Nachhaltigkeit – Upcycling im Jugi",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T16:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Offenes Spielzimmer",
-    "start": "2026-05-20T14:00+02:00",
-    "end": "2026-05-20T17:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -3395,106 +2802,6 @@
     "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
     "tags": [
       "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Offenes Werkatelier",
-    "start": "2026-05-20T14:30+02:00",
-    "end": "2026-05-20T17:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Schul- und Kinderbibliothek",
-    "start": "2026-05-20T14:30+02:00",
-    "end": "2026-05-20T17:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Spiel- und Werkaktionen",
-    "start": "2026-05-20T14:30+02:00",
-    "end": "2026-05-20T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "WERKFUNKE – Offenes Kreativatelier",
-    "start": "2026-05-20T14:30+02:00",
-    "end": "2026-05-20T17:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Zirkusakrobatik, Mi 14.45h (ab 5 J)",
-    "start": "2026-05-20T14:45+02:00",
-    "end": "2026-05-20T15:45+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
     ],
     "flags": {
       "anmeldung": false,
@@ -3560,245 +2867,9 @@
     "is_new": false
   },
   {
-    "title": "Karate für Kinder",
-    "start": "2026-05-20T16:00+02:00",
-    "end": "2026-05-20T17:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kindertanzen 2",
-    "start": "2026-05-20T16:00+02:00",
-    "end": "2026-05-20T16:40+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Offener Treff Oberstufe",
-    "start": "2026-05-20T16:00+02:00",
-    "end": "2026-05-20T18:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Tiere hautnah: Mi, 16:00–18:00 Uhr",
-    "start": "2026-05-20T16:00+02:00",
-    "end": "2026-05-20T18:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kindertanzen 1",
-    "start": "2026-05-20T16:45+02:00",
-    "end": "2026-05-20T17:25+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Pre-Kindertanzen",
-    "start": "2026-05-20T17:30+02:00",
-    "end": "2026-05-20T18:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Qigong",
-    "start": "2026-05-20T17:30+02:00",
-    "end": "2026-05-20T18:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kinder-Vertikaltuch-Kurs",
-    "start": "2026-05-20T18:00+02:00",
-    "end": "2026-05-20T19:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Sommergrill 2026",
-    "start": "2026-05-20T18:00+02:00",
-    "end": "2026-05-20T20:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "FunTone®",
-    "start": "2026-05-20T18:30+02:00",
-    "end": "2026-05-20T19:25+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Infoabend Weibliche Kraft",
-    "start": "2026-05-20T18:30+02:00",
-    "end": "2026-05-20T19:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Schmücken mit Keramik",
-    "start": "2026-05-20T18:30+02:00",
-    "end": "2026-05-20T21:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Sprach-Café Deutsch",
-    "start": "2026-05-20T18:30+02:00",
-    "end": "2026-05-20T19:30+02:00",
+    "title": "Madame Frigo Altstetten",
+    "start": "2026-05-21T00:00+02:00",
+    "end": "2026-05-21T23:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
@@ -3811,98 +2882,18 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Bauch, Beine und Po",
-    "start": "2026-05-20T19:00+02:00",
-    "end": "2026-05-20T20:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Pilates / Rücken",
-    "start": "2026-05-20T19:30+02:00",
-    "end": "2026-05-20T20:25+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Tibetische Meditation und Yoga",
-    "start": "2026-05-20T19:30+02:00",
-    "end": "2026-05-20T20:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
     "is_new": true
   },
   {
-    "title": "Yoga – Iyengar",
-    "start": "2026-05-20T19:30+02:00",
-    "end": "2026-05-20T21:00+02:00",
+    "title": "Spielgruppe Heuried",
+    "start": "2026-05-21T08:30+02:00",
+    "end": "2026-05-21T11:30+02:00",
     "location": "GZ Heuried",
     "source": "GZ Zürich",
     "center": "GZ Heuried",
     "url": "https://gz-zh.ch/gz-heuried/programm/",
     "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Erwachsenen-Vertikaltuch-Kurs",
-    "start": "2026-05-20T19:45+02:00",
-    "end": "2026-05-20T21:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
+      "kleinkind"
     ],
     "flags": {
       "anmeldung": false,
@@ -3914,15 +2905,15 @@
     "is_new": true
   },
   {
-    "title": "Faszien-Fitness-Training",
-    "start": "2026-05-20T20:00+02:00",
-    "end": "2026-05-20T21:00+02:00",
-    "location": "GZ Bachwiesen",
+    "title": "SPIELGRUPPEN 25 / 26",
+    "start": "2026-05-21T08:45+02:00",
+    "end": "2026-05-21T11:45+02:00",
+    "location": "GZ Loogarten",
     "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [
-      "bewegung"
+      "kleinkind"
     ],
     "flags": {
       "anmeldung": false,
@@ -3932,51 +2923,6 @@
     "schedule_text": "",
     "description": "",
     "is_new": true
-  },
-  {
-    "title": "Kreativwerkstatt im Mai",
-    "start": "2026-05-20T20:05+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kreativwerkstatt-mai-reg",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "20.05.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Workshop „Weniger Zucker im Alltag“",
-    "start": "2026-05-20T20:05+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/workshop-weniger-zucker-im-alltag-regensbergstrasse",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "20.05.2026",
-    "description": "",
-    "is_new": false
   },
   {
     "title": "Familienberatung",
@@ -3997,7 +2943,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kaffeebar im Atrium",
@@ -4015,7 +2961,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -4055,6 +3001,26 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Nachhaltigkeit – So ein Mist!",
+    "start": "2026-05-21T09:00+02:00",
+    "end": "2026-05-21T18:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
     "is_new": true
   },
   {
@@ -4073,7 +3039,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spielgruppe Dussädinä",
@@ -4085,6 +3051,44 @@
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [
       "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielraum für Kinder bis 7 J.",
+    "start": "2026-05-21T09:00+02:00",
+    "end": "2026-05-21T12:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "selbstständige Werkstattnutzung-SWN",
+    "start": "2026-05-21T09:00+02:00",
+    "end": "2026-05-21T22:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kreativ"
     ],
     "flags": {
       "anmeldung": false,
@@ -4155,6 +3159,24 @@
     "is_new": false
   },
   {
+    "title": "Cafeteria",
+    "start": "2026-05-21T10:00+02:00",
+    "end": "2026-05-21T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Eltern-Kind-Treff",
     "start": "2026-05-21T10:00+02:00",
     "end": "2026-05-21T11:30+02:00",
@@ -4165,6 +3187,26 @@
     "tags": [
       "eltern",
       "familie"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Mobiles Naturzentrum",
+    "start": "2026-05-21T10:00+02:00",
+    "end": "2026-05-21T19:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern"
     ],
     "flags": {
       "anmeldung": false,
@@ -4217,28 +3259,22 @@
     "is_new": false
   },
   {
-    "title": "Farbige Wolle",
-    "start": "2026-05-21T13:30+02:00",
+    "title": "Flex",
+    "start": "2026-05-21T14:00+02:00",
     "end": "2026-05-21T17:00+02:00",
-    "location": "Zentrum ELCH Krokodil",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Krokodil",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/farbige-wolle",
-    "tags": [
-      "anmeldung",
-      "bewegung",
-      "familie",
-      "gratis",
-      "outdoor"
-    ],
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
     "flags": {
-      "anmeldung": true,
-      "gratis": true
+      "anmeldung": false,
+      "gratis": false
     },
     "kind": "dated",
-    "schedule_text": "Das Kafi Plus, der Indoorspielplatz und die Gartenterrasse sind in den Sport-, Frühlings- und Herbstferien am Montag, Mittwoch und Freitag von 13.30–17.00 Uhr geöffnet.",
+    "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Flickservice",
@@ -4257,6 +3293,44 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Geräteausleihe Sharely",
+    "start": "2026-05-21T14:00+02:00",
+    "end": "2026-05-21T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Holzwerkstatt",
+    "start": "2026-05-21T14:00+02:00",
+    "end": "2026-05-21T18:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kinderhütedienst",
@@ -4294,6 +3368,26 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Nachhaltigkeit – Pflanzentausch",
+    "start": "2026-05-21T14:00+02:00",
+    "end": "2026-05-21T18:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
     "is_new": true
   },
   {
@@ -4317,6 +3411,24 @@
     "is_new": false
   },
   {
+    "title": "Offenes Spielzimmer",
+    "start": "2026-05-21T14:00+02:00",
+    "end": "2026-05-21T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Spielnachmittag für Erwachsene",
     "start": "2026-05-21T14:00+02:00",
     "end": "2026-05-21T16:00+02:00",
@@ -4325,6 +3437,46 @@
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Offenes Werkatelier",
+    "start": "2026-05-21T14:30+02:00",
+    "end": "2026-05-21T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Schul- und Kinderbibliothek",
+    "start": "2026-05-21T14:30+02:00",
+    "end": "2026-05-21T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern"
+    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -4352,7 +3504,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -4410,7 +3562,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Babysitting-Vermittlung",
@@ -4431,7 +3583,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Girls Treff im Jugi Loogi",
@@ -4442,6 +3594,26 @@
     "center": "GZ Loogarten",
     "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Quartierspaziergang Nachhaltigkeit",
+    "start": "2026-05-21T16:00+02:00",
+    "end": "2026-05-21T19:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "outdoor"
+    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -4487,7 +3659,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kindertanz 2. KiGa / 1. Klasse",
@@ -4507,7 +3679,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Tiergruppe",
@@ -4525,7 +3697,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Klangreise",
@@ -4543,7 +3715,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Yoga für Anfänger",
@@ -4563,7 +3735,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Keramik für Erwachsene",
@@ -4573,6 +3745,64 @@
     "source": "GZ Zürich",
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Keramik für Erwachsene am Do",
+    "start": "2026-05-21T18:30+02:00",
+    "end": "2026-05-21T20:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "KickPower",
+    "start": "2026-05-21T19:00+02:00",
+    "end": "2026-05-21T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Samba Treff",
+    "start": "2026-05-21T19:00+02:00",
+    "end": "2026-05-21T22:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
     "tags": [],
     "flags": {
       "anmeldung": false,
@@ -4602,7 +3832,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Yoga & Meditation",
@@ -4614,6 +3844,27 @@
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [
       "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Gymnastik für Körper und Seele",
+    "start": "2026-05-22T08:30+02:00",
+    "end": "2026-05-22T09:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
     ],
     "flags": {
       "anmeldung": false,
@@ -4645,6 +3896,27 @@
     "is_new": false
   },
   {
+    "title": "Body Toning",
+    "start": "2026-05-22T09:00+02:00",
+    "end": "2026-05-22T10:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-05-22T09:00+02:00",
     "end": "2026-05-22T11:00+02:00",
@@ -4665,6 +3937,152 @@
     "is_new": false
   },
   {
+    "title": "Stricktreff",
+    "start": "2026-05-22T09:00+02:00",
+    "end": "2026-05-22T11:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Zumba® Fitness",
+    "start": "2026-05-22T09:00+02:00",
+    "end": "2026-05-22T09:55+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Französische Krabbelgruppe",
+    "start": "2026-05-22T09:30+02:00",
+    "end": "2026-05-22T12:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "baby",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Selbstbedienung Cafeteria",
+    "start": "2026-05-22T09:30+02:00",
+    "end": "2026-05-22T12:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "ShapeXpress",
+    "start": "2026-05-22T10:00+02:00",
+    "end": "2026-05-22T10:55+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Spielgruppe „Les Zébulons“",
+    "start": "2026-05-22T13:30+02:00",
+    "end": "2026-05-22T16:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Krimi- und Romanbibliothek",
+    "start": "2026-05-22T14:00+02:00",
+    "end": "2026-05-22T17:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Russische Gruppe «Umka»",
     "start": "2026-05-22T14:00+02:00",
     "end": "2026-05-22T18:00+02:00",
@@ -4683,6 +4101,48 @@
     "is_new": false
   },
   {
+    "title": "Japanische Kalligraphie",
+    "start": "2026-05-22T15:00+02:00",
+    "end": "2026-05-22T17:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Spielwagen Kollerwiese",
+    "start": "2026-05-22T15:00+02:00",
+    "end": "2026-05-22T19:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Treffpunktcafé",
     "start": "2026-05-22T15:00+02:00",
     "end": "2026-05-22T17:00+02:00",
@@ -4699,6 +4159,173 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kleinkindermalen",
+    "start": "2026-05-22T15:15+02:00",
+    "end": "2026-05-22T16:45+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kleinkind",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Nachhaltigkeit – Aus Alt mach Neu",
+    "start": "2026-05-22T15:30+02:00",
+    "end": "2026-05-22T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "CNC-Frässtudio",
+    "start": "2026-05-22T16:00+02:00",
+    "end": "2026-05-22T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Offene Holzwerkstatt … Fr + Sa",
+    "start": "2026-05-22T16:00+02:00",
+    "end": "2026-05-22T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Besuche Kleintiere/Tierpaten",
+    "start": "2026-05-22T16:30+02:00",
+    "end": "2026-05-22T17:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Stress & Spannungen lösen",
+    "start": "2026-05-22T16:30+02:00",
+    "end": "2026-05-22T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "MAL-Chill Abende für Erwachsene",
+    "start": "2026-05-22T18:30+02:00",
+    "end": "2026-05-22T21:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Offenes Training",
+    "start": "2026-05-22T18:30+02:00",
+    "end": "2026-05-22T21:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kinderbetreuung am Abend am 22. Mai 2026",
@@ -4823,6 +4450,106 @@
     "is_new": false
   },
   {
+    "title": "Capoeira für Kinder Kindergarten 1",
+    "start": "2026-05-25T15:00+02:00",
+    "end": "2026-05-25T15:45+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Capoeira für Kinder Kindergarten 2",
+    "start": "2026-05-25T16:00+02:00",
+    "end": "2026-05-25T16:45+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Capoeira für Kinder 1.-2. Klasse",
+    "start": "2026-05-25T16:45+02:00",
+    "end": "2026-05-25T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Ukrainische Bücher-Bibliothek",
+    "start": "2026-05-25T17:00+02:00",
+    "end": "2026-05-25T18:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Capoeira für Kinder 3.-5. Klasse",
+    "start": "2026-05-25T17:30+02:00",
+    "end": "2026-05-25T18:15+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-05-26T09:00+02:00",
     "end": "2026-05-26T09:50+02:00",
@@ -4845,6 +4572,26 @@
     "is_new": false
   },
   {
+    "title": "Funktionelle Gymnastik",
+    "start": "2026-05-26T09:00+02:00",
+    "end": "2026-05-26T09:55+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-05-26T09:00+02:00",
     "end": "2026-05-26T11:00+02:00",
@@ -4863,6 +4610,27 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "fitdankbaby® mini/maxi",
+    "start": "2026-05-26T09:10+02:00",
+    "end": "2026-05-26T10:20+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "baby",
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -4910,6 +4678,45 @@
     "is_new": false
   },
   {
+    "title": "Offenes Nähcafé",
+    "start": "2026-05-26T10:00+02:00",
+    "end": "2026-05-26T12:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Sprach-Café Spanisch",
+    "start": "2026-05-26T10:00+02:00",
+    "end": "2026-05-26T11:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-05-26T10:10+02:00",
     "end": "2026-05-26T11:00+02:00",
@@ -4932,6 +4739,47 @@
     "is_new": false
   },
   {
+    "title": "fitdankbaby® KIDS",
+    "start": "2026-05-26T10:35+02:00",
+    "end": "2026-05-26T11:40+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "baby",
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "QI GONG",
+    "start": "2026-05-26T12:15+02:00",
+    "end": "2026-05-26T13:15+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Spiel- und Lerngruppe «Mischutka»",
     "start": "2026-05-26T14:00+02:00",
     "end": "2026-05-26T15:30+02:00",
@@ -4950,6 +4798,44 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Sprach-Café Deutsch",
+    "start": "2026-05-26T14:00+02:00",
+    "end": "2026-05-26T15:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kreativangebote ab 2,5 Jahren",
+    "start": "2026-05-26T14:30+02:00",
+    "end": "2026-05-26T16:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Treffpunktcafé",
@@ -5024,6 +4910,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Hatha Yoga",
+    "start": "2026-05-26T18:30+02:00",
+    "end": "2026-05-26T19:45+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -5709,6 +5615,29 @@
     "is_new": false
   },
   {
+    "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
+    "start": "2026-05-29T19:00+02:00",
+    "end": "2026-05-29T21:30+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/",
+    "tags": [
+      "baby",
+      "eltern",
+      "familie",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Vortrag: Neurodivergenz bei Kindern",
     "start": "2026-05-29T19:00+02:00",
     "end": "2026-05-29T21:30+02:00",
@@ -5901,7 +5830,7 @@
     "kind": "dated",
     "schedule_text": "Mi, 16.00–17.00 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Elternbildungsreihe 1",
@@ -6204,6 +6133,30 @@
     "schedule_text": "11.06.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Farbige Wolle",
+    "start": "2026-06-11T13:30+02:00",
+    "end": "2026-06-11T17:00+02:00",
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/farbige-wolle",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Das Kafi Plus, der Indoorspielplatz und die Gartenterrasse sind in den Sport-, Frühlings- und Herbstferien am Montag, Mittwoch und Freitag von 13.30–17.00 Uhr geöffnet.",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Besuch bei den Stadtgeissli",
