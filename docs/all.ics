@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d29826fdc676788494faec111e279499946e5b48@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20240222T093000
 DTEND:20240222T113000
 SUMMARY:Beratungstreff für mehrsprachige Familien
@@ -15,7 +15,7 @@ URL:https://www.karussell-baden.ch/angebote/event/206/beratungstreff-fuer-mehrsp
 END:VEVENT
 BEGIN:VEVENT
 UID:9e0c2a28a1b306f1dd736f0d7834dd776454b18f@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20251211T090000
 DTEND:20251211T120000
 SUMMARY:Individuelle Beratung zur Arbeitsmarktintegration
@@ -25,7 +25,7 @@ URL:https://www.karussell-baden.ch/angebote/event/62/individuelle-beratung-zur-a
 END:VEVENT
 BEGIN:VEVENT
 UID:4710d8cbab7ab3b2fd831f45643510f97603065d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20251212T140000
 DTEND:20251212T153000
 SUMMARY:Schenk mir eine Geschichte Spanisch
@@ -35,7 +35,7 @@ URL:https://www.karussell-baden.ch/angebote/event/35/schenk-mir-eine-geschichte-
 END:VEVENT
 BEGIN:VEVENT
 UID:28d1f67adc46f0906a28640fa86790ead0c5dfb4@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20251217T153000
 DTEND:20251217T170000
 SUMMARY:Schenk mir eine Geschichte Ukrainisch
@@ -45,7 +45,7 @@ URL:https://www.karussell-baden.ch/angebote/event/37/schenk-mir-eine-geschichte-
 END:VEVENT
 BEGIN:VEVENT
 UID:afe20e2cbdcf2dddd871af94ac5d9d1d9969de4b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20251222T082000
 DTEND:20251222T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -55,7 +55,7 @@ URL:https://www.karussell-baden.ch/angebote/event/111/frauen-deutschkurs-mit-kin
 END:VEVENT
 BEGIN:VEVENT
 UID:2e540485ad765b11501df89b9adb5958d06fe0e6@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260109T193000
 DTEND:20260109T220000
 SUMMARY:Treff für Eltern von Kindern mit Autismus und Asperger-Syndrom
@@ -65,7 +65,7 @@ URL:https://www.karussell-baden.ch/angebote/event/56/treff-fuer-eltern-von-kinde
 END:VEVENT
 BEGIN:VEVENT
 UID:d4e7f9d72b04959b45b07832a11d7b7c31234c3e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260121T153000
 DTEND:20260121T170000
 SUMMARY:Schenk mir eine Geschichte Portugiesisch
@@ -75,7 +75,7 @@ URL:https://www.karussell-baden.ch/angebote/event/36/schenk-mir-eine-geschichte-
 END:VEVENT
 BEGIN:VEVENT
 UID:90f4affb0b16aaf2daed63416ab6d80d85532269@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260125T093000
 DTEND:20260125T113000
 SUMMARY:Zwillingseltern-Treff
@@ -85,7 +85,7 @@ URL:https://www.karussell-baden.ch/angebote/event/23/zwillingseltern-treff/
 END:VEVENT
 BEGIN:VEVENT
 UID:f98bfb23d68fb8be3d825acd8e54033c7d7f476a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260222T090000
 DTEND:20260222T150000
 SUMMARY:Babysitting-Kurs
@@ -95,7 +95,7 @@ URL:https://www.karussell-baden.ch/angebote/event/94/babysitting-kurs/
 END:VEVENT
 BEGIN:VEVENT
 UID:9845349e64f28c50aa506c9fb9f25c33a52f0bd8@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260226T173000
 DTEND:20260226T193000
 SUMMARY:Lerntreff Baden
@@ -104,17 +104,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/event/301/lerntreff-baden/
 END:VEVENT
 BEGIN:VEVENT
-UID:5dc5ddeb799ff4e0b99b90812c8e0df3587f4494@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260228T120000
-SUMMARY:Kinderbetreuung am Abend
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-cece
-END:VEVENT
-BEGIN:VEVENT
 UID:f91ab85b5d912ac874869334baea6d4a6d1fe40d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260306T150000
 DTEND:20260306T170000
 SUMMARY:Briobahn-Nachmittag
@@ -124,7 +115,7 @@ URL:https://www.karussell-baden.ch/angebote/event/30/briobahn-nachmittag/
 END:VEVENT
 BEGIN:VEVENT
 UID:c6b8f1398f345e88c53d99ce928768780fe403bc@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260310T140000
 DTEND:20260310T170000
 SUMMARY:Kindercoiffeuse
@@ -134,7 +125,7 @@ URL:https://www.karussell-baden.ch/angebote/event/74/kindercoiffeuse/
 END:VEVENT
 BEGIN:VEVENT
 UID:5cd641114e82f5b5d4b04006b0e4be85d0bdf187@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260310T180000
 DTEND:20260310T190000
 SUMMARY:Aerobic für Erwachsene
@@ -144,7 +135,7 @@ URL:https://www.karussell-baden.ch/angebote/event/284/aerobic-fuer-erwachsene/
 END:VEVENT
 BEGIN:VEVENT
 UID:417660624b04308d0bc3b35f6b7fef8ef47ca540@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260313T090000
 DTEND:20260313T120000
 SUMMARY:Handarbeits-Treff
@@ -154,7 +145,7 @@ URL:https://www.karussell-baden.ch/angebote/event/27/handarbeits-treff/
 END:VEVENT
 BEGIN:VEVENT
 UID:4b0dcd7141b0b45281ecd89568116bd3a75afce0@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260317T173000
 DTEND:20260317T183000
 SUMMARY:Aerobic Kids
@@ -164,7 +155,7 @@ URL:https://www.karussell-baden.ch/angebote/event/283/aerobic-kids/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b5a2754a1226fd6d54f8b5cc2f65131f5dce19e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260330T130000
 DTEND:20260330T140000
 SUMMARY:Rückbildungs-Pilates – mit Babybetreuung
@@ -174,7 +165,7 @@ URL:https://www.karussell-baden.ch/angebote/event/138/rueckbildungs-pilates-mit-
 END:VEVENT
 BEGIN:VEVENT
 UID:9a5c8fa9fc5ae3920c097933041ad7e3b0efb18e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260409T140000
 DTEND:20260409T170000
 SUMMARY:Näh- und Flickatelier
@@ -183,17 +174,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/event/26/naeh-und-flickatelier/
 END:VEVENT
 BEGIN:VEVENT
-UID:b9c84600b33cadb79cd1a85ada78bf1c30664aee@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260417T170000
-SUMMARY:Kinderbetreuung am Abend
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-accu
-URL:https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-accu
-END:VEVENT
-BEGIN:VEVENT
 UID:8da711228a6fe8c17c468aaae83b405bcbe70a09@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260423T140000
 DTEND:20260423T160000
 SUMMARY:Femmes-Tische «Spanisch»
@@ -202,48 +184,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/event/42/femmes-tische-spanisch/
 END:VEVENT
 BEGIN:VEVENT
-UID:30b39efdc226246b6e494ea30f08c3d0f651b0bb@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260425T103000
-DTEND:20260425T113000
-SUMMARY:StrongME — Move. Play. Restore.
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/strongme-move-play-restore-accu
-URL:https://zentrumelch.ch/angebote-accu/detail/strongme-move-play-restore-accu
-END:VEVENT
-BEGIN:VEVENT
-UID:507ef8ce09e37a867757ff590541b2e55b7a41b3@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260505T093000
-DTEND:20260505T103000
-SUMMARY:Mama Core & Pelvic Floor – Kraft für den Alltag mit Baby
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/mama-core-pelvic-floor-reg
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/mama-core-pelvic-floor-reg
-END:VEVENT
-BEGIN:VEVENT
-UID:3f09e199cb78c70ea6a5407f1125c5ce76673740@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260527T083000
-DTEND:20260527T113000
-SUMMARY:Lernstube «Schreibdienst & Beratung»
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-schreibdienst-beratung-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-schreibdienst-beratung-cece
-END:VEVENT
-BEGIN:VEVENT
-UID:d21df42f85df719221153a0d0ed250b968225c03@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260528T130000
-DTEND:20260528T160000
-SUMMARY:Lernstube Schreibdienst
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/lernstube-schreibdienst-krokodil
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/lernstube-schreibdienst-krokodil
-END:VEVENT
-BEGIN:VEVENT
 UID:94d0d11baafc9118fbcb2fdca56c1657dec2c910@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260529T090000
 DTEND:20260529T110000
 SUMMARY:Frauentreff
@@ -253,7 +195,7 @@ URL:https://www.karussell-baden.ch/angebote/event/60/frauentreff/
 END:VEVENT
 BEGIN:VEVENT
 UID:94af741c871c0bc2d9519406181933b2ba12e01b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T082000
 DTEND:20260601T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -263,7 +205,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ffce160c17e3d02e6625a5f132f6deff42445b06@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T090000
 DTEND:20260601T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -273,7 +215,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:59fc1d8973d105019b117f293aae56c04cd41d67@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T101000
 DTEND:20260601T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -283,7 +225,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:19ce18b43eae7aae158023a0fadaf02e3a817535@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T130000
 DTEND:20260601T163000
 SUMMARY:Rückbildungs-Pilates – mit Babybetreuung
@@ -293,7 +235,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f15e2cf6ee815fb92b8f5f2c08ea2530c7869c61@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T134500
 DTEND:20260601T160000
 SUMMARY:Playgroup «Sanrays»
@@ -302,18 +244,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:6790b1ae6609000e95fe558e02ec792bb3dfb151@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260601T140000
-DTEND:20260601T170000
-SUMMARY:Flickservice
-LOCATION:Karussell Familienzentrum Region Baden
-DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/240/flickservice/
-URL:https://www.karussell-baden.ch/angebote/event/240/flickservice/
-END:VEVENT
-BEGIN:VEVENT
 UID:48a4ee2091cef0340cc6a88ab77b1f1faba99951@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T140000
 DTEND:20260601T160000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -323,7 +255,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:8593782cadb920729f6186a95c2b7c2e1d628f26@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T141500
 DTEND:20260601T151500
 SUMMARY:Pilates Mattentraining mit Baby-/Kinderbetreuung
@@ -333,7 +265,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:5e5ca30a4ebbdecb89e35f0e9763ad73a472f386@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T143000
 DTEND:20260601T170000
 SUMMARY:Mütter- und Väterberatung
@@ -343,7 +275,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:d8fc2590c29f28859ee2c10f230df224a6205878@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T143000
 DTEND:20260601T160000
 SUMMARY:Vatertags-Basteln
@@ -353,7 +285,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ba71b6e1651f05717ce532920281f4440aaf0e03@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T150000
 DTEND:20260601T163000
 SUMMARY:Kinderbrocki
@@ -363,7 +295,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:6947d59b2d4620c43e75188de92eced8bedfd3ee@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260601T150000
 DTEND:20260601T170000
 SUMMARY:Treffpunktcafé
@@ -372,17 +304,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:833565abf85562069ac02cc94a02b996736a6a6f@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260602T020600
-SUMMARY:Kinderatelier: Insektenhotel mit Naturmaterialien
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kinderatelier-insektenhotel-mit-naturmaterialien
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kinderatelier-insektenhotel-mit-naturmaterialien
-END:VEVENT
-BEGIN:VEVENT
 UID:2a31d77558b5150253082df20442c5f6f4c4ffde@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T090000
 DTEND:20260602T095000
 SUMMARY:Eltern-Kind-Turnen
@@ -392,7 +315,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c81828b8da16d73ad62b99e55fccca1c2b718886@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T090000
 DTEND:20260602T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -402,7 +325,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ffc56aabf60cc2caad2db4a8c6385f45c636a59b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T092000
 DTEND:20260602T112000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -411,18 +334,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:dfd666a544a8cc550241300cc9a0ee21d264155c@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260602T093000
-DTEND:20260602T110000
-SUMMARY:PEKiP® für dich und dein Kind (Start im Mai)
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/pekipr-fuer-dich-und-dein-kind-start-im-mai
-URL:https://zentrumelch.ch/angebote-accu/detail/pekipr-fuer-dich-und-dein-kind-start-im-mai
-END:VEVENT
-BEGIN:VEVENT
 UID:1cf2679573646c63ee5a67b3e5a7f7d18463f495@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T101000
 DTEND:20260602T110000
 SUMMARY:Eltern-Kind-Turnen
@@ -432,7 +345,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:d778c0b36fedf2749e50c6df22cda93c12bfaf02@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T140000
 DTEND:20260602T170000
 SUMMARY:Kindercoiffeuse
@@ -442,7 +355,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:21fa0a4a6ad7a062851486dafa4d1b76a0be9f9f@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T140000
 DTEND:20260602T153000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -452,7 +365,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:333f0d8dc56d301286f22517c71ead742c5c6d4d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T150000
 DTEND:20260602T170000
 SUMMARY:Treffpunktcafé
@@ -462,7 +375,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7d4f9bcf9567871af04d0d80f1eaf30ea6b49f60@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T151500
 DTEND:20260602T164500
 SUMMARY:Krabbelgruppe "Karussell"
@@ -472,7 +385,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ff74ab4f6973d3ab08e01d38add6b5b182e0c17c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T170000
 DTEND:20260602T180000
 SUMMARY:Playgroup «Sanrays»
@@ -482,7 +395,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0f0dda77d35527052863f0083ec9066e1e4659a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260602T180000
 DTEND:20260602T190000
 SUMMARY:Aerobic für Erwachsene
@@ -491,26 +404,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:e77f7dd118788de67981efe032742d9163b38b54@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260603T030600
-SUMMARY:Der Geschichtenraum
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/der-geschichtenraum
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/der-geschichtenraum
-END:VEVENT
-BEGIN:VEVENT
-UID:ca780f12984971225f5e0dd495bac400ba03f809@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260603T030600
-SUMMARY:Kasperli-Theater
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kasperli-theater-2
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kasperli-theater-2
-END:VEVENT
-BEGIN:VEVENT
 UID:d904fb6dd10d9becbb79b3b0b59ff5a809cfc38e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T082000
 DTEND:20260603T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -520,7 +415,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:5e8c7181871114735ee723512463941fd9a538df@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T090000
 DTEND:20260603T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -530,7 +425,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e19532c54585462fc24fc23a991eb889ca33abab@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T092000
 DTEND:20260603T101000
 SUMMARY:Eltern-Kind-Singen
@@ -540,7 +435,7 @@ URL:https://www.karussell-baden.ch/angebote/event/12/eltern-kind-singen/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d308c22c52ad432560adebeb42865423d0765a4@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T093000
 DTEND:20260603T101500
 SUMMARY:Music Together
@@ -550,7 +445,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:d6f69a064f0b82ed05cdb5966aeb6264a2713590@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T101000
 DTEND:20260603T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -560,7 +455,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:5443cc00b887a8d8c8100277620f49078f969010@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T140000
 DTEND:20260603T180000
 SUMMARY:Russische Gruppe «Umka»
@@ -570,7 +465,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:bd5a1707bbd962e396fe8b57f3dece5b3b21b627@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T143000
 DTEND:20260603T170000
 SUMMARY:Mütter- und Väterberatung
@@ -580,7 +475,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:42434332661aebb39d24ccb227d12735f70bbd59@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T150000
 DTEND:20260603T163000
 SUMMARY:Kinderbrocki
@@ -590,7 +485,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c0a35b910f142d731128ac8f8cea262d040752b4@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260603T150000
 DTEND:20260603T170000
 SUMMARY:Treffpunktcafé
@@ -599,27 +494,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:5a39dc0cba2e328c8cfde5b69e9c2e97d2cc4dd4@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260603T160000
-DTEND:20260603T170000
-SUMMARY:Kafi Plus Bastelatelier
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-bastelatelier
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-bastelatelier
-END:VEVENT
-BEGIN:VEVENT
-UID:264071651ca09bf82d024ff06833187f73f56ae5@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260604T040600
-SUMMARY:Elternbildungsreihe 1
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/elternbildungsreihe-1-rituale-sicherheit-oder-langeweile
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/elternbildungsreihe-1-rituale-sicherheit-oder-langeweile
-END:VEVENT
-BEGIN:VEVENT
 UID:b50beab63a6c6fdc2ebebfba7742831cae060e4a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260604T090000
 DTEND:20260604T120000
 SUMMARY:Individuelle Beratung zur Arbeitsmarktintegration
@@ -629,7 +505,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:63951c3e1417403bf80d5122ee11f613e5564204@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260604T093000
 DTEND:20260604T113000
 SUMMARY:Russische Gruppe «Umka»
@@ -639,7 +515,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:51a6a565ecb78b2727077bcc0e7e6b93e6b58b9d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260604T160000
 DTEND:20260604T173000
 SUMMARY:Russische Gruppe «Umka»
@@ -648,35 +524,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:9de6a89dd7b8aded4c734fec4ed16243e2bac4dd@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260605T050600
-SUMMARY:Bunte Teller – Essen macht Freude
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/bunte-teller-essen-macht-freude-frieden
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/bunte-teller-essen-macht-freude-frieden
-END:VEVENT
-BEGIN:VEVENT
-UID:1178eb100ee036c7ea7bddeffcf7f5ab71561e03@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260605T050600
-SUMMARY:Kafi Plus Vatertagsbrunch
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-vatertagsbrunch
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-vatertagsbrunch
-END:VEVENT
-BEGIN:VEVENT
-UID:c86bcad62763019b6790c54837bd7e2c9f8b3c14@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260605T050600
-SUMMARY:Kinderbetreuung am Abend am 5. Juni
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-5-juni
-URL:https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-5-juni
-END:VEVENT
-BEGIN:VEVENT
 UID:36ea5d34f3e073bc9ba81a20e723a7a38db0770a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260605T083000
 DTEND:20260605T113000
 SUMMARY:Mütter- und Väterberatung
@@ -686,7 +535,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:bb2f0cdbec67b1bd2849a3e565b65b197557857c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260605T090000
 DTEND:20260605T120000
 SUMMARY:Handarbeits-Treff
@@ -696,7 +545,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2625888040f6e48835df11a99cd3542712aa750d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260605T090000
 DTEND:20260605T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -705,18 +554,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:6ded5cfbdc708283b6eddec0e3ef60bb084807be@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260605T093000
-DTEND:20260605T110000
-SUMMARY:Stillberatung
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/stillberatung
-URL:https://zentrumelch.ch/angebote-accu/detail/stillberatung
-END:VEVENT
-BEGIN:VEVENT
 UID:0972ea4d25be6298e4f7bf95729b1fcc334277b7@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260605T140000
 DTEND:20260605T180000
 SUMMARY:Russische Gruppe «Umka»
@@ -726,7 +565,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:40a1e56d7d6ec6603282779a35b3299f5c881a54@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260605T150000
 DTEND:20260605T170000
 SUMMARY:Treffpunktcafé
@@ -735,27 +574,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:4750acd3636da31482829745a3872aa25c649497@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260606T060600
-SUMMARY:Kinderbetreuung am Abend am 6. Juni 2026
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-6-juni-2026-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-6-juni-2026-cece
-END:VEVENT
-BEGIN:VEVENT
-UID:4d4724d4850847cad4ca1a910d2a892d1bc86488@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260606T083000
-DTEND:20260606T113000
-SUMMARY:Samstagsverkauf im Secondhandshop
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/samstagsverkauf-im-secondhandshop
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/samstagsverkauf-im-secondhandshop
-END:VEVENT
-BEGIN:VEVENT
 UID:192860171f9488ae96bc46646afeb5d05661e639@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260606T084500
 DTEND:20260606T121500
 SUMMARY:AtoZ English
@@ -765,7 +585,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:3466c2012bedcfe2f7e6f3469f1c2de81480eb7c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260606T090000
 DTEND:20260606T150000
 SUMMARY:Babysitting-Kurs
@@ -775,7 +595,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2aa0fe071900247fec47055f35f5049d9597c156@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260606T093000
 DTEND:20260606T113000
 SUMMARY:Zwillingseltern-Treff
@@ -784,17 +604,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:96d3772d57cfacf8e1344d2210da9428f49e2648@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260608T080600
-SUMMARY:Kafi Plus Backspass für kleine Hände im Juni
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/backspass-fuer-kleine-haende-juni-reg
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/backspass-fuer-kleine-haende-juni-reg
-END:VEVENT
-BEGIN:VEVENT
 UID:0d4d486361245d8dd778468e038c3251a76f48df@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T082000
 DTEND:20260608T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -804,7 +615,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:3f897507ba351a7d47baaa8c7b48d532b0c7dee1@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T090000
 DTEND:20260608T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -813,18 +624,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:daadc09816b6ee82c74ca2496c0a1795ffc89510@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260608T100000
-DTEND:20260608T113000
-SUMMARY:Femmes-Tisch in albanischer Sprache
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-albanischer-sprache
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-albanischer-sprache
-END:VEVENT
-BEGIN:VEVENT
 UID:1b63f02eeeb48169e53eb5dfaf168b3fa454e766@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T101000
 DTEND:20260608T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -834,7 +635,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2ec96852f97f6f26f30b76723ce2cc99317a03f0@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T130000
 DTEND:20260608T163000
 SUMMARY:Rückbildungs-Pilates – mit Babybetreuung
@@ -844,7 +645,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ba43003f07a36150c08d8154c7b714d7b223745a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T134500
 DTEND:20260608T160000
 SUMMARY:Playgroup «Sanrays»
@@ -854,7 +655,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:08b84b3ba303eaae4701cac2c47072fb4b1e85cc@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T140000
 DTEND:20260608T160000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -864,7 +665,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:20d23a5887c117a87470b97a3dcb674c83186bc6@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T141500
 DTEND:20260608T151500
 SUMMARY:Pilates Mattentraining mit Baby-/Kinderbetreuung
@@ -874,7 +675,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e54a1af09780566c19bdbb423b2b022832d1e07@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T143000
 DTEND:20260608T170000
 SUMMARY:Mütter- und Väterberatung
@@ -884,7 +685,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:72c38c87bbab647db876786216f44f9c6a2f4176@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T150000
 DTEND:20260608T163000
 SUMMARY:Kinderbrocki
@@ -894,7 +695,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e0b48b92c2afdb9d998f23f3ba6effaf55afc906@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260608T150000
 DTEND:20260608T170000
 SUMMARY:Treffpunktcafé
@@ -904,7 +705,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:bad24a377c5bc4ad71643c3d3fa93acd2c96f6d1@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T090000
 DTEND:20260609T095000
 SUMMARY:Eltern-Kind-Turnen
@@ -914,7 +715,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f335775245cf67a0d7942c391ad12f544540ab33@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T090000
 DTEND:20260609T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -924,7 +725,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:1f6d74d09d83aa1d838eca163117f33a24cb0749@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T092000
 DTEND:20260609T112000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -934,7 +735,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa62f6cb2e9b9a49162643027e3143506d11ee9@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T101000
 DTEND:20260609T110000
 SUMMARY:Eltern-Kind-Turnen
@@ -944,7 +745,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:1ddbb2afdfa9c53b109aa198c6e3b67d36eba250@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T140000
 DTEND:20260609T153000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -954,7 +755,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:46ebe39909e8816b5d820f9405f2765519cda805@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T150000
 DTEND:20260609T170000
 SUMMARY:Treffpunktcafé
@@ -964,7 +765,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:d581dc053f3367e9bedddcf3fb120b2eb884d653@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T151500
 DTEND:20260609T164500
 SUMMARY:Krabbelgruppe "Karussell"
@@ -974,7 +775,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:b166b386eeb6a6eba8517b35f52efd5a2d856f13@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T170000
 DTEND:20260609T180000
 SUMMARY:Playgroup «Sanrays»
@@ -984,7 +785,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:41dbcfcfa176bdd6578309c8909f1d1708336657@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260609T173000
 DTEND:20260609T183000
 SUMMARY:Aerobic Kids
@@ -994,7 +795,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3a12b3e150d17b3f4b8c25cb0d3aa3650f7e7b6@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T082000
 DTEND:20260610T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1004,7 +805,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e097d98adc36487c00241a4948ab323c9ece3720@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T090000
 DTEND:20260610T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1014,7 +815,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f0b13c1ba766819a2b7038966e85faa4280eb944@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T093000
 DTEND:20260610T101500
 SUMMARY:Music Together
@@ -1023,26 +824,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:b63eae4cfdcd704b4cf7b45384f3152a65e7d25c@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260610T100600
-SUMMARY:Kids-Workshop "Stark gegen Mobbing"
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kids-workshop-stark-gegen-mobbing-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kids-workshop-stark-gegen-mobbing-cece
-END:VEVENT
-BEGIN:VEVENT
-UID:24fc9c6ca8f397f32b47957c6c2cc6b4c73ef9d3@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260610T100600
-SUMMARY:Kreative Vasen-Werkstatt
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kreative-vasen-werkstatt
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kreative-vasen-werkstatt
-END:VEVENT
-BEGIN:VEVENT
 UID:b81680f664ac4f52a444524e78ae020f83cbe28a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T101000
 DTEND:20260610T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1052,7 +835,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a956723e9093affb022c3c999c99b79863ae387d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T140000
 DTEND:20260610T180000
 SUMMARY:Russische Gruppe «Umka»
@@ -1062,7 +845,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:d6b2c02243c4809c63c3f288db585007a96d947e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T143000
 DTEND:20260610T170000
 SUMMARY:Mütter- und Väterberatung
@@ -1072,7 +855,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:feed50e42bb399519eebc828a67a84195116025d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T150000
 DTEND:20260610T163000
 SUMMARY:Kinderbrocki
@@ -1082,7 +865,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ddd65ec724af69db1db8c264602ec77d1e1efea9@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260610T150000
 DTEND:20260610T170000
 SUMMARY:Treffpunktcafé
@@ -1091,18 +874,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:b00db666e397d16576eb98c8818050b91b62e6a9@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260610T160000
-DTEND:20260610T163000
-SUMMARY:Kafi Plus Geschichtenzeit
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece
-END:VEVENT
-BEGIN:VEVENT
 UID:4452935e0acb698096372596e9bef775bc6f5a8a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T090000
 DTEND:20260611T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1112,7 +885,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a6ea40bec2176ccc5205d7d6584b59db20209ba3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T092000
 DTEND:20260611T102000
 SUMMARY:Babys entdecken die Welt
@@ -1122,7 +895,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e094a00331fdcdbd06acd9495f63b4fd7f135742@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T092000
 DTEND:20260611T101000
 SUMMARY:Eltern-Kind-Singen
@@ -1132,7 +905,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0f7ccca085691d1d7f5b0ce8b7bc4ba23f0b1a0@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T093000
 DTEND:20260611T113000
 SUMMARY:Russische Gruppe «Umka»
@@ -1142,7 +915,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:884519fc994813c693c70918386d364fef7367d4@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T103000
 DTEND:20260611T113000
 SUMMARY:Babys entdecken die Welt
@@ -1152,7 +925,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:1872e67daae2af10499634761f2d1eb048426fa3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T103000
 DTEND:20260611T112000
 SUMMARY:Eltern-Kind-Singen
@@ -1161,36 +934,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:41011a7eec8bc74889337776f2abdb4acb629475@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260611T110600
-SUMMARY:Elternbildungsreihe 2
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/elternbildungsreihe-2-lernen-ist-ein-kinderspiel
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/elternbildungsreihe-2-lernen-ist-ein-kinderspiel
-END:VEVENT
-BEGIN:VEVENT
-UID:638dbec9305b2e725b084d6ac8852e2bfb5c5593@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260611T110600
-SUMMARY:Schiffe basteln auf dem Spielplatz
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/schiffe-basteln-auf-dem-spielplatz-krokodil
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/schiffe-basteln-auf-dem-spielplatz-krokodil
-END:VEVENT
-BEGIN:VEVENT
-UID:93949ca035fd5e14fc9a7aa1cbd19638e95dec57@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260611T133000
-DTEND:20260611T170000
-SUMMARY:Farbige Wolle
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/farbige-wolle
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/farbige-wolle
-END:VEVENT
-BEGIN:VEVENT
 UID:9f2ebc753038d5be569450b6b0ab6381094be692@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T140000
 DTEND:20260611T160000
 SUMMARY:Femmes-Tische «Spanisch»
@@ -1200,7 +945,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:71c769e5085eee9b1d590cb774892f2697348ce3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T140000
 DTEND:20260611T170000
 SUMMARY:Flickservice
@@ -1210,7 +955,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2ddc9ab1ec2a240fd5560e4b2127154339d7b37@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T140000
 DTEND:20260611T170000
 SUMMARY:Kinderhütedienst
@@ -1220,7 +965,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:96eca2b4e2674877f6ab3a7a09cd61f9bd519e0e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T140000
 DTEND:20260611T170000
 SUMMARY:Näh- und Flickatelier
@@ -1230,7 +975,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:60775900a9883b33ebeda1b14ff8b898ff5bb72b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T150000
 DTEND:20260611T180000
 SUMMARY:Mütter- und Väterberatung
@@ -1240,7 +985,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:4642b6b749d6abe81f8a56647c68a95ccbc8b018@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T150000
 DTEND:20260611T170000
 SUMMARY:Treffpunktcafé
@@ -1250,7 +995,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:76cabbc476e41b7f5052404195fb8cea440ed816@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T160000
 DTEND:20260611T173000
 SUMMARY:Russische Gruppe «Umka»
@@ -1260,7 +1005,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c5b1350a9602fa9804e1703f4d3343bda194a306@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260611T173000
 DTEND:20260611T193000
 SUMMARY:Lerntreff Baden
@@ -1270,7 +1015,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a432433c3f5311d33991ec4b5f4c26aae94ed74c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260612T083000
 DTEND:20260612T113000
 SUMMARY:Mütter- und Väterberatung
@@ -1280,7 +1025,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:0e1ed1bb57cbaeca99183b75ced20a2656e00f71@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260612T090000
 DTEND:20260612T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1289,35 +1034,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:98c779fd65c43c866b9f788c31c767473760b50e@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260612T120600
-SUMMARY:Besuch bei den Stadtgeissli
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/besuch-bei-den-stadtgeissli
-URL:https://zentrumelch.ch/angebote-accu/detail/besuch-bei-den-stadtgeissli
-END:VEVENT
-BEGIN:VEVENT
-UID:c9242806ae0734aa7eb75c9b0e42f2ea44b55d4a@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260612T120600
-SUMMARY:Kinderbetreuung am Abend am 12. Juni
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-12-juni
-URL:https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-12-juni
-END:VEVENT
-BEGIN:VEVENT
-UID:d5436173eb2e2da66d6116157b49663583d617c1@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260612T120600
-SUMMARY:Kinderbetreuung am Abend am 12. Juni 2026
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-am-abend-12-juni-2026-reg
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-am-abend-12-juni-2026-reg
-END:VEVENT
-BEGIN:VEVENT
 UID:6b0a9dfc5685813aadad26c166692cb5c98e260e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260612T140000
 DTEND:20260612T180000
 SUMMARY:Russische Gruppe «Umka»
@@ -1327,7 +1045,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:888c946309331028c8244859387cf68e45254b24@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260612T150000
 DTEND:20260612T164500
 SUMMARY:AquaPlay-Nachmittag
@@ -1337,7 +1055,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:bffd92e2659002653ddc224ea6e47bab3e88fd47@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260612T150000
 DTEND:20260612T170000
 SUMMARY:Treffpunktcafé
@@ -1347,7 +1065,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7b16fae0f9197ec5d3870c451f1d0b6295dc9f15@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260613T084500
 DTEND:20260613T121500
 SUMMARY:AtoZ English
@@ -1357,7 +1075,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:0577041d44ea63a5e83fe779844d8bbbb0ef77df@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260613T090000
 DTEND:20260613T150000
 SUMMARY:Babysitting-Kurs
@@ -1367,7 +1085,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ec205768496b849622ebf437e71232e5c58d7002@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T082000
 DTEND:20260615T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1377,7 +1095,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:013bad53c18d046bf0533a8b8700daf36ed0cbe3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T090000
 DTEND:20260615T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1387,7 +1105,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:8518eebd374976b713352a463a297730bead2c26@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T101000
 DTEND:20260615T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1397,7 +1115,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:26c8f84149a30f81bee42c74a41425e2a3d22538@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T130000
 DTEND:20260615T163000
 SUMMARY:Rückbildungs-Pilates – mit Babybetreuung
@@ -1407,7 +1125,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:5966dbebb6e86d8767cbc033aca1cddddcbc1fed@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T134500
 DTEND:20260615T160000
 SUMMARY:Playgroup «Sanrays»
@@ -1417,7 +1135,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:d751c6b214c3223d9cd395ede56455ecec14261a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T140000
 DTEND:20260615T160000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -1427,7 +1145,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2007cdf02d917d2c5b1b31d2e85e5b063b2e07c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T141500
 DTEND:20260615T151500
 SUMMARY:Pilates Mattentraining mit Baby-/Kinderbetreuung
@@ -1437,7 +1155,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f09716fb5480d577945a4eb2b39626c5a097c5bc@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T143000
 DTEND:20260615T170000
 SUMMARY:Mütter- und Väterberatung
@@ -1447,7 +1165,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7307c76ed2355a120516c691f35e632fffa94299@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T150000
 DTEND:20260615T163000
 SUMMARY:Kinderbrocki
@@ -1457,7 +1175,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:0ff2fb8dcb8852774fe7de39dfb84369a9411c02@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260615T150000
 DTEND:20260615T170000
 SUMMARY:Treffpunktcafé
@@ -1466,26 +1184,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:01c4d4906eead45537984c6b78b75ea5588fbb57@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260615T150600
-SUMMARY:Kafi Plus Geschichtenzeit im Juni
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-geschichtenzeit-juni-reg
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-geschichtenzeit-juni-reg
-END:VEVENT
-BEGIN:VEVENT
-UID:f54bb96d0f65277eac710523411ebdc8be7c3dd4@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260615T150600
-SUMMARY:Mitgliederversammlung 2026
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/mitgliederversammlung-2026
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/mitgliederversammlung-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:9a747e6a8f79194aa6ccd03473861345ac1d9a77@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T090000
 DTEND:20260616T095000
 SUMMARY:Eltern-Kind-Turnen
@@ -1495,7 +1195,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:be933d0eeef7bb00e3d8a65a4d2cb9038b10ef06@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T090000
 DTEND:20260616T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1505,7 +1205,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:b3db966f3e307235d66f95014b21dd00ef72d4ae@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T092000
 DTEND:20260616T112000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -1515,7 +1215,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9423d0ab8d1135ec3e9d7f7cf0f8f98f5a860c52@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T101000
 DTEND:20260616T110000
 SUMMARY:Eltern-Kind-Turnen
@@ -1525,7 +1225,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f4135a97bc70d326169c3b98c39a3762e53c2ae4@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T140000
 DTEND:20260616T170000
 SUMMARY:Kindercoiffeuse
@@ -1535,7 +1235,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:d08b68e27c08ae97e02beb2672f7488affc3a4b5@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T140000
 DTEND:20260616T153000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -1545,7 +1245,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3d3e0e074497fb3066a8862a599106b33379e81@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T150000
 DTEND:20260616T170000
 SUMMARY:Treffpunktcafé
@@ -1555,7 +1255,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:cfe35b54f5f77d6829346e75ca90dbf6e89f4ec9@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T151500
 DTEND:20260616T164500
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1565,7 +1265,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:28b80eb06e01d1cf6b74891b327365a8bc4f5bd8@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T170000
 DTEND:20260616T180000
 SUMMARY:Playgroup «Sanrays»
@@ -1575,7 +1275,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:b018259ae13845d3953d00da65542e1a420ad4c7@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260616T180000
 DTEND:20260616T190000
 SUMMARY:Aerobic für Erwachsene
@@ -1585,7 +1285,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:dbddd64dec6c499d9897d9d07ce0b1338594fb73@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T082000
 DTEND:20260617T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1595,7 +1295,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e367127ce65346c2b4af32606375ff726447058e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T090000
 DTEND:20260617T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1605,7 +1305,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:204b68e68fd0d511b438cc41aab0647d224b2f91@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T093000
 DTEND:20260617T101500
 SUMMARY:Music Together
@@ -1615,7 +1315,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c4033a210776a4c36bc19cbfa67094555cc53c8a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T101000
 DTEND:20260617T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1625,7 +1325,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9e078ea4def2c99da101b4de377a95d1cf144203@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T140000
 DTEND:20260617T180000
 SUMMARY:Russische Gruppe «Umka»
@@ -1635,7 +1335,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7c5547a41dedd5159d323f0a28b1ad6a44eb0331@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T143000
 DTEND:20260617T170000
 SUMMARY:Mütter- und Väterberatung
@@ -1645,7 +1345,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:62eade744a02b76d3abf82c251bda1f25bc86e32@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T150000
 DTEND:20260617T163000
 SUMMARY:Kinderbrocki
@@ -1655,7 +1355,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:23aca60a7a1b53eea969b99980202227bed57752@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T150000
 DTEND:20260617T170000
 SUMMARY:Treffpunktcafé
@@ -1665,7 +1365,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:10782d07cd28176642e6aaf9b6dd202048ac829f@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260617T153000
 DTEND:20260617T170000
 SUMMARY:Schenk mir eine Geschichte Portugiesisch
@@ -1674,26 +1374,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:208b345757fe4b61e78b479c0d178b3062a14528@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260617T170600
-SUMMARY:Offener Bastelnachmittag: Sonnenfänger
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/offener-bastelnachmittag-sonnenfaenger
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/offener-bastelnachmittag-sonnenfaenger
-END:VEVENT
-BEGIN:VEVENT
-UID:20c2fbd1c5dd9ba9d9bad04153e9030dbc630a4a@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260617T170600
-SUMMARY:Spielfest
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/spielfest-schwamendingen
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/spielfest-schwamendingen
-END:VEVENT
-BEGIN:VEVENT
 UID:5ef8175d4a2856349c9553cef48fc4242694f90c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T090000
 DTEND:20260618T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1703,7 +1385,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:0c856dd78817ba7687cd9e7e8afa31090ec4707b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T092000
 DTEND:20260618T102000
 SUMMARY:Babys entdecken die Welt
@@ -1713,7 +1395,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:36b5ea752253477b27b169561fe9fd4b67b1a996@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T092000
 DTEND:20260618T101000
 SUMMARY:Eltern-Kind-Singen
@@ -1723,7 +1405,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2be52523dd11baa75f58e08fa68cb28df866df1d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T093000
 DTEND:20260618T113000
 SUMMARY:Russische Gruppe «Umka»
@@ -1733,7 +1415,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2c316e0606ab1f8b948496dd8c4f145a9daf8895@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T103000
 DTEND:20260618T113000
 SUMMARY:Babys entdecken die Welt
@@ -1743,7 +1425,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:93a388ef194442a62698de1d176d40033c5e669a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T103000
 DTEND:20260618T112000
 SUMMARY:Eltern-Kind-Singen
@@ -1753,7 +1435,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:acf7b5c67c58660381dba8f64cd0f3390258b52a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T140000
 DTEND:20260618T170000
 SUMMARY:Flickservice
@@ -1763,7 +1445,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:68bc454d4da99d2e6d10b2de215d62c7da6e8229@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T140000
 DTEND:20260618T170000
 SUMMARY:Kinderhütedienst
@@ -1773,7 +1455,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:cc02cec67f46ab7806eedbf2f4f0b548c8318df3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T140000
 DTEND:20260618T170000
 SUMMARY:Näh- und Flickatelier
@@ -1783,7 +1465,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:8f58b1dc1baea8e26ddfef683adfac195962c4c6@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T150000
 DTEND:20260618T180000
 SUMMARY:Mütter- und Väterberatung
@@ -1793,7 +1475,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:6f5d3da4aa90f57f1fee2800a82dd0e70984d706@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T150000
 DTEND:20260618T170000
 SUMMARY:Treffpunktcafé
@@ -1803,7 +1485,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a47fd0c74eff1d4e518e9c987d08318f2ad9c91@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260618T160000
 DTEND:20260618T173000
 SUMMARY:Russische Gruppe «Umka»
@@ -1812,17 +1494,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:65f0b62629d0682c470af3ca8a564c8659b22d37@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260618T180600
-SUMMARY:Elternbildungsreihe 3 mit Apéro
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/elternbildungsreihe-3-bewegung-macht-spass
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/elternbildungsreihe-3-bewegung-macht-spass
-END:VEVENT
-BEGIN:VEVENT
 UID:354765dcfb1e15de19eab0cc3a9a95d11b62a8de@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260619T083000
 DTEND:20260619T113000
 SUMMARY:Mütter- und Väterberatung
@@ -1832,7 +1505,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:778b24b03a62100798b5b42f3c3f6169ab4c2830@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260619T090000
 DTEND:20260619T120000
 SUMMARY:Handarbeits-Treff
@@ -1842,7 +1515,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9238401c9eab407598971b52822699aa5e525cb1@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260619T090000
 DTEND:20260619T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1852,7 +1525,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ee27f1fbfd7653b9ce3d825877abde7952cbbf5@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260619T140000
 DTEND:20260619T180000
 SUMMARY:Russische Gruppe «Umka»
@@ -1862,7 +1535,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:8b3faa800cd78f084414c505895eb720f527211a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260619T150000
 DTEND:20260619T170000
 SUMMARY:Treffpunktcafé
@@ -1871,17 +1544,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:33bd218ac51341f18f42b32196e4f31ec4b390a8@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260619T190600
-SUMMARY:ABGESAGT: Kinderbetreuung am Abend am 19. Juni
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-19-juni
-URL:https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-19-juni
-END:VEVENT
-BEGIN:VEVENT
 UID:29a1f0676c1f89942429ce687a1ea7f907012e3a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260620T084500
 DTEND:20260620T121500
 SUMMARY:AtoZ English
@@ -1891,7 +1555,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:46b467455c30cb33eea7a7733457a5bd305686f1@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260620T090000
 DTEND:20260620T110000
 SUMMARY:Väter-Kinder-Frühstück
@@ -1900,18 +1564,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:ce8d7f40fc1889d974533ab0e599ec577ce7de54@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260620T103000
-DTEND:20260620T123000
-SUMMARY:Reunión de Lactancia en Español
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/reunion-de-lactancia-en-espanol
-URL:https://zentrumelch.ch/angebote-accu/detail/reunion-de-lactancia-en-espanol
-END:VEVENT
-BEGIN:VEVENT
 UID:dd6e6affd02fcbeda669b0cfbd37c79bb4145a0b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260620T133000
 DTEND:20260620T140000
 SUMMARY:Figura Theaterfestival "Palikkateatteri – Block Theatre"
@@ -1921,7 +1575,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9b512a8d0127bb363c44dae8a19d5af7f27bed19@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260620T150000
 DTEND:20260620T153000
 SUMMARY:Figura Theaterfestival "Palikkateatteri – Block Theatre"
@@ -1930,17 +1584,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:55db315b374e9110664c744ee971e6178b820f92@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260620T200600
-SUMMARY:Kinderbetreuung am Abend am 20. Juni 2026
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-20-juni-2026-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-20-juni-2026-cece
-END:VEVENT
-BEGIN:VEVENT
 UID:a013ee2eb67cf7471e488891355882ae713db43c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260621T100000
 DTEND:20260621T103000
 SUMMARY:Figura Theaterfestival "Palikkateatteri – Block Theatre"
@@ -1950,7 +1595,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:35f12bebdf94b927e78d1005a8fe4f456f6002bb@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T082000
 DTEND:20260622T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1960,7 +1605,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:4a1325ce927ef0e8ad6c59a531ee0400180ce02f@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T090000
 DTEND:20260622T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -1970,7 +1615,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e6680a8fb9f6b4fd6a7a551fb3fe7a5ba61e952d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T101000
 DTEND:20260622T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -1980,7 +1625,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:502824e988f82d2d0add6fe12e5208f68ddf10ea@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T130000
 DTEND:20260622T163000
 SUMMARY:Rückbildungs-Pilates – mit Babybetreuung
@@ -1990,7 +1635,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:4eb79110d465140381a698af7a0bc04bf5bc7882@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T134500
 DTEND:20260622T160000
 SUMMARY:Playgroup «Sanrays»
@@ -2000,7 +1645,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c9747bd96642f3af3194e59d2d927f1f900f6b26@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T140000
 DTEND:20260622T160000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -2010,7 +1655,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:8f88f2d3a527a3a6098bc0c618dff60fa85a233f@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T141500
 DTEND:20260622T151500
 SUMMARY:Pilates Mattentraining mit Baby-/Kinderbetreuung
@@ -2020,7 +1665,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:599d9adb6eb0ed54e94130f097c58ecd9d2755cf@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T143000
 DTEND:20260622T170000
 SUMMARY:Mütter- und Väterberatung
@@ -2030,7 +1675,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d01d757fff975b1b5453a084d358ead15bf6bba@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T150000
 DTEND:20260622T163000
 SUMMARY:Kinderbrocki
@@ -2040,7 +1685,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:eba0f8b10b4c2bf56ec5d4948910d4f610aed9b8@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260622T150000
 DTEND:20260622T170000
 SUMMARY:Treffpunktcafé
@@ -2050,7 +1695,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:fcde28bd12d892ef7395e59113f961d0b7de5c35@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T090000
 DTEND:20260623T095000
 SUMMARY:Eltern-Kind-Turnen
@@ -2060,7 +1705,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:dda6f5f81ab5781f8cc4001f8539bc909001b9d7@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T090000
 DTEND:20260623T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2070,7 +1715,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a48b59c057b89ac4324658bbb72349cd89131216@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T092000
 DTEND:20260623T112000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -2080,7 +1725,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:92bdeac38677c46cbe3e8bbc1c2dc641572ebd26@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T101000
 DTEND:20260623T110000
 SUMMARY:Eltern-Kind-Turnen
@@ -2090,7 +1735,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a14b6f544ff551cab65d38a0d8a4a06f0acc9c5c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T140000
 DTEND:20260623T153000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -2100,7 +1745,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7f4bc2760f0d432a1ac96cfa5ebb6b2949e36b67@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T150000
 DTEND:20260623T170000
 SUMMARY:Treffpunktcafé
@@ -2110,7 +1755,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:3e878754a2603001d6d692c12872e342a1d9371b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T151500
 DTEND:20260623T164500
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2120,7 +1765,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:774fc1cc48e4cacd050ac29fb593fa77ba6442b5@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T170000
 DTEND:20260623T180000
 SUMMARY:Playgroup «Sanrays»
@@ -2130,7 +1775,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:1ebd16e4d7e7dccfeda70bafac64fc4c0e468265@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260623T173000
 DTEND:20260623T183000
 SUMMARY:Aerobic Kids
@@ -2140,7 +1785,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:300fd5a3dcee3a4744ab95a51b89355b2d3ff1b8@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T082000
 DTEND:20260624T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -2150,7 +1795,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:6dbf443f6a652164d5e90e343e8085772773fb88@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T090000
 DTEND:20260624T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2160,7 +1805,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:b7b95a13987c32b4616c23cd318255f48752031f@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T093000
 DTEND:20260624T101500
 SUMMARY:Music Together
@@ -2170,7 +1815,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:495cf5db55f9fdd7e9627c308c9c89cf987cd66a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T101000
 DTEND:20260624T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -2180,7 +1825,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:61c9b83185d961566abd9f452e1baa8a63ffd27e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T140000
 DTEND:20260624T180000
 SUMMARY:Russische Gruppe «Umka»
@@ -2190,7 +1835,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a3db2cf31a6464c5eef52fec7bb3243ecf59242e@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T143000
 DTEND:20260624T170000
 SUMMARY:Mütter- und Väterberatung
@@ -2200,7 +1845,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:592efc09cbcae47d4a916bcc882b63f5d1283658@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T150000
 DTEND:20260624T163000
 SUMMARY:Kinderbrocki
@@ -2210,7 +1855,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:38b51a5e84e87fc9d903cd7f4d25e63af2c4c2de@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T150000
 DTEND:20260624T170000
 SUMMARY:Treffpunktcafé
@@ -2220,7 +1865,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:b7e15f78e51315860b59c5bf40fe416405eb7009@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260624T153000
 DTEND:20260624T170000
 SUMMARY:Schenk mir eine Geschichte Ukrainisch
@@ -2230,7 +1875,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2827e7fe24ee4f460fbcd9c5abb10e957c96be57@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T090000
 DTEND:20260625T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2240,7 +1885,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:cab72ee975857a9d9d72b782b11c77031d45695a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T092000
 DTEND:20260625T102000
 SUMMARY:Babys entdecken die Welt
@@ -2250,7 +1895,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:1a71ce07ae867837e829fe93c4d29697a77f4d6c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T092000
 DTEND:20260625T101000
 SUMMARY:Eltern-Kind-Singen
@@ -2259,18 +1904,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:4b667cc11542191ce11f10319b9d8f2ae111a49c@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260625T093000
-DTEND:20260625T110000
-SUMMARY:Femmes-Tisch in tamilischer und englischer Sprache
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-tamilischer-und-englischer-sprache
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-tamilischer-und-englischer-sprache
-END:VEVENT
-BEGIN:VEVENT
 UID:8a402f5e8452edb8bc481b7e24924c53000903c8@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T093000
 DTEND:20260625T113000
 SUMMARY:Russische Gruppe «Umka»
@@ -2280,7 +1915,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e9f38e2f289f83d3a565aebfed28cd43f7c06e2@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T103000
 DTEND:20260625T113000
 SUMMARY:Babys entdecken die Welt
@@ -2290,7 +1925,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:88c31bfbe2804042750b5837133741fa7d167757@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T103000
 DTEND:20260625T112000
 SUMMARY:Eltern-Kind-Singen
@@ -2300,7 +1935,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:6ef82aa030652051a8a869835a7c1eb0a6818c47@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T140000
 DTEND:20260625T170000
 SUMMARY:Flickservice
@@ -2310,7 +1945,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2632f80cb3f7d4ea4cdccaf8caf3e9d8777021e6@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T140000
 DTEND:20260625T170000
 SUMMARY:Kinderhütedienst
@@ -2320,7 +1955,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3f5fd77725bfec453aac1fcd322c5eb316c2d83@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T140000
 DTEND:20260625T170000
 SUMMARY:Näh- und Flickatelier
@@ -2330,7 +1965,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7a1f21015d3fbfa9e9f42953ed522d841991fbce@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T150000
 DTEND:20260625T180000
 SUMMARY:Mütter- und Väterberatung
@@ -2340,7 +1975,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2df94c9a2488e20975a5f5402fd0a4e3b158ebd@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T150000
 DTEND:20260625T170000
 SUMMARY:Treffpunktcafé
@@ -2350,7 +1985,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:9c957fa994e2516097cae82f91707ba93fe8d085@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T160000
 DTEND:20260625T173000
 SUMMARY:Russische Gruppe «Umka»
@@ -2360,7 +1995,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:61b7f2782971cdd2474394c1afcaaebe983624f2@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260625T173000
 DTEND:20260625T193000
 SUMMARY:Lerntreff Baden
@@ -2370,7 +2005,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:182d6674a4b2c980886cf80e79fcbb5d0107f0c6@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260626T083000
 DTEND:20260626T113000
 SUMMARY:Mütter- und Väterberatung
@@ -2380,7 +2015,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e1ba541a30c462470d735c6e036841f46b00f73a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260626T090000
 DTEND:20260626T110000
 SUMMARY:Frauentreff
@@ -2390,7 +2025,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:79bfcd865ec439d50688592c8b0937db42e0e137@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260626T090000
 DTEND:20260626T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2400,7 +2035,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:eccc10831813718578dd3ffa00d3fceb43932993@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260626T140000
 DTEND:20260626T170000
 SUMMARY:Kinderhütedienst
@@ -2410,7 +2045,7 @@ URL:https://www.karussell-baden.ch/angebote/event/51/kinderhuetedienst/
 END:VEVENT
 BEGIN:VEVENT
 UID:b9a1dce61e229e57c62df3fdd8c83000f339dfc5@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260626T140000
 DTEND:20260626T153000
 SUMMARY:Schenk mir eine Geschichte Spanisch
@@ -2420,7 +2055,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:5621b7ec0070754006e805071885c5c0ca8fff6f@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260626T150000
 DTEND:20260626T170000
 SUMMARY:Treffpunktcafé
@@ -2430,7 +2065,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:4478f907eb591025fcbf8e72cda205eedc632c9a@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260627T080000
 DTEND:20260627T120000
 SUMMARY:Samariterkurse «Notfälle bei KleinkindernPLUS»
@@ -2440,7 +2075,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e62344b1ee042f2174b52b3082b54b3e6a0eabd5@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260627T084500
 DTEND:20260627T121500
 SUMMARY:AtoZ English
@@ -2450,7 +2085,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:307c14afcf2458a191c8c2efc401641fa65662f5@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T082000
 DTEND:20260629T095000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -2460,7 +2095,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2aaaa04bd1cbd13c8022af2df79b93b45d5722b4@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T090000
 DTEND:20260629T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2470,7 +2105,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e0c887591d48d1b059ac64e99359481a7f8ccb3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T101000
 DTEND:20260629T114000
 SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
@@ -2480,7 +2115,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2d805929429a4da839b5740b074c05900033321@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T130000
 DTEND:20260629T163000
 SUMMARY:Rückbildungs-Pilates – mit Babybetreuung
@@ -2490,7 +2125,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f568ad3d0255385d906ed8dc3a94e3facd5c3d22@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T134500
 DTEND:20260629T160000
 SUMMARY:Playgroup «Sanrays»
@@ -2500,7 +2135,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f75bd096a0f2c7e5e64f00645062dab6f08956b4@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T140000
 DTEND:20260629T160000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -2510,7 +2145,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:85a3c600448ec018053bc005ee7aa7dd779edf3c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T141500
 DTEND:20260629T151500
 SUMMARY:Pilates Mattentraining mit Baby-/Kinderbetreuung
@@ -2520,7 +2155,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d66ed50e8974812302d359204efe034f09388aa@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T143000
 DTEND:20260629T170000
 SUMMARY:Mütter- und Väterberatung
@@ -2530,7 +2165,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:aa1ee5b24894df8fd229fd07762d878d83333e37@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T150000
 DTEND:20260629T163000
 SUMMARY:Kinderbrocki
@@ -2540,7 +2175,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:cd3b7990b0fc25a1ec686832b29083401f1b0c01@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260629T150000
 DTEND:20260629T170000
 SUMMARY:Treffpunktcafé
@@ -2550,7 +2185,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac53ec0f2dacfe94938862abd475a7b1f3f89562@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T090000
 DTEND:20260630T095000
 SUMMARY:Eltern-Kind-Turnen
@@ -2560,7 +2195,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e69f552325e00d49cc41baf65ecba41298b40a6@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T090000
 DTEND:20260630T110000
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2570,7 +2205,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7bd0a5d4f29250ef8046b334bfe723212b489a3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T092000
 DTEND:20260630T112000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -2580,7 +2215,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:dae97f0e9f883277aba3dc591d7def912166a6e0@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T101000
 DTEND:20260630T110000
 SUMMARY:Eltern-Kind-Turnen
@@ -2590,7 +2225,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7940723cebf2318fd3aab437eb691d7ba2501d23@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T140000
 DTEND:20260630T170000
 SUMMARY:Kindercoiffeuse
@@ -2600,7 +2235,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:627f18b4f2cd6cf20ae7fb386499abbec20deabd@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T140000
 DTEND:20260630T153000
 SUMMARY:Spiel- und Lerngruppe «Mischutka»
@@ -2610,7 +2245,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ade8b21d08f25c684eae14ab450f1d4fc51da9c3@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T150000
 DTEND:20260630T170000
 SUMMARY:Treffpunktcafé
@@ -2620,7 +2255,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f00cfc5e48adb1096f0e49e23486cb2c3659282d@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T151500
 DTEND:20260630T164500
 SUMMARY:Krabbelgruppe "Karussell"
@@ -2630,7 +2265,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:a3a94a9bb692a46359bd86d9882ab0198dcf9b09@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T170000
 DTEND:20260630T180000
 SUMMARY:Playgroup «Sanrays»
@@ -2640,7 +2275,7 @@ URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
 UID:0aca3d15fce9fb098bc2501577d62668a01b7356@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260630T180000
 DTEND:20260630T190000
 SUMMARY:Aerobic für Erwachsene
@@ -2649,26 +2284,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
 END:VEVENT
 BEGIN:VEVENT
-UID:af0b14969a474ce0eb0165552238959ccc0737b6@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260701T010700
-SUMMARY:Kafi Plus Sommerplausch
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/kafi-plus-sommerplausch-1
-URL:https://zentrumelch.ch/angebote-accu/detail/kafi-plus-sommerplausch-1
-END:VEVENT
-BEGIN:VEVENT
-UID:024856ac809dd5a683431042c117786848135bb9@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260701T010700
-SUMMARY:Naturbasteln im Wald
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/naturbasteln-im-wald
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/naturbasteln-im-wald
-END:VEVENT
-BEGIN:VEVENT
 UID:5b7666c02e344b081d8651e428547d55cfd49acb@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260701T100000
 DTEND:20260701T110000
 SUMMARY:Theater Try-Out "Zeitfresser"
@@ -2678,7 +2295,7 @@ URL:https://www.karussell-baden.ch/angebote/event/303/theater-try-out-zeitfresse
 END:VEVENT
 BEGIN:VEVENT
 UID:0abe7a5602478283947d4eb0ca274aa818b42e74@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260702T092000
 DTEND:20260702T102000
 SUMMARY:Babys entdecken die Welt
@@ -2687,63 +2304,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/event/209/babys-entdecken-die-welt/
 END:VEVENT
 BEGIN:VEVENT
-UID:811468275c0b2779896146bbeea5f675658fa73b@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260703T030700
-SUMMARY:Kinderbetreuung am Abend am 3. Juli
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-3-juli
-URL:https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-3-juli
-END:VEVENT
-BEGIN:VEVENT
-UID:5bb933490d18df02048445c50093a03d6e31d052@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260703T030700
-SUMMARY:Kinderbetreuung am Abend am 3. Juli 2026
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-am-abend-3-juli-2026-reg
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-am-abend-3-juli-2026-reg
-END:VEVENT
-BEGIN:VEVENT
-UID:0227cd85832f09dd3065944138da583001e11478@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260704T040700
-SUMMARY:Kinderbetreuung am Abend am 4. Juli 2026
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-4-juli-2026-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-4-juli-2026-cece
-END:VEVENT
-BEGIN:VEVENT
-UID:cb8af85c2512bf8549ed03a96c31024d11737bd3@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260706T000000
-SUMMARY:Bücherwurm
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/buecherwurm
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/buecherwurm
-END:VEVENT
-BEGIN:VEVENT
-UID:c858c2a4808c44533b5cf3e9819c52962b53dbcc@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260706T060700
-SUMMARY:Kafi Plus Geschichtenzeit im Juli
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-geschichtenzeit-juli-reg
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-geschichtenzeit-juli-reg
-END:VEVENT
-BEGIN:VEVENT
-UID:487c0443ca2e766cd382256ab3e51f744fe0d297@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260814T083000
-DTEND:20260814T113000
-SUMMARY:Kinderbetreuung in den Sommerferien
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kinderbetreuung-sommerferien-frieden
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kinderbetreuung-sommerferien-frieden
-END:VEVENT
-BEGIN:VEVENT
 UID:1674faf278e0ce6587ce53d6ee512c9b9de26540@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260822T110000
 DTEND:20260822T170000
 SUMMARY:Karussell-Fest
@@ -2752,47 +2314,8 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/event/218/karussell-fest/
 END:VEVENT
 BEGIN:VEVENT
-UID:e3f66eb0230c70b5b3fad460166340df71584e55@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260822T140000
-DTEND:20260822T170000
-SUMMARY:Ludothek Zürich Nord
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/ludothek-zuerich-nord
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/ludothek-zuerich-nord
-END:VEVENT
-BEGIN:VEVENT
-UID:cd9f920aac95a7db0dc2b6f2a68720384240524f@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260822T143000
-DTEND:20260822T173000
-SUMMARY:Kafi Plus
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-frieden
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-frieden
-END:VEVENT
-BEGIN:VEVENT
-UID:e44ab959a4e5d6d497d5881b4498cd5b83042b46@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260822T220800
-SUMMARY:Kinderbetreuung am Abend am 22. August 2026
-LOCATION:Zentrum ELCH CeCe-Areal
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH CeCe-Areal | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-22-august-2026-cece
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-22-august-2026-cece
-END:VEVENT
-BEGIN:VEVENT
-UID:65371083135d69c78ef19cec3de11edbfacb254b@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260828T093000
-DTEND:20260828T110000
-SUMMARY:Femmes-Tisch in russischer Sprache
-LOCATION:Zentrum ELCH Krokodil
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Krokodil | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-russischer-sprache
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-russischer-sprache
-END:VEVENT
-BEGIN:VEVENT
 UID:beea27b156398121895b8e64223858f78456bec0@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260828T190000
 DTEND:20260828T210000
 SUMMARY:Elternrunde: Elternbildung Bezirk Baden/Wettingen
@@ -2802,7 +2325,7 @@ URL:https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-
 END:VEVENT
 BEGIN:VEVENT
 UID:140c6c7534b3cb7de272245eb19dd76e8e42dd7b@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20260828T190000
 DTEND:20260828T210000
 SUMMARY:Liebe ohne Bedienungsanleitung
@@ -2811,51 +2334,23 @@ DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://w
 URL:https://www.karussell-baden.ch/angebote/event/305/liebe-ohne-bedienungsanleitung/
 END:VEVENT
 BEGIN:VEVENT
-UID:78ad2da411f21a954a238b783d4496106f480cbf@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260901T093000
-DTEND:20260901T110000
-SUMMARY:PEKiP® für dich und dein Kind (Start im Herbst)
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-herbst
-URL:https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-herbst
-END:VEVENT
-BEGIN:VEVENT
-UID:98906f20493a62e2951d29bf7e6a1b85b67e9b92@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260919T190900
-SUMMARY:Zentrumsfest im Zentrum ELCH Regensbergstrasse
-LOCATION:Zentrum ELCH Regensbergstrasse
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Regensbergstrasse | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/zentrumsfest-regensbergstrasse
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/zentrumsfest-regensbergstrasse
-END:VEVENT
-BEGIN:VEVENT
-UID:dc6a6d44719f9b212a2e0c9e78df1b56776817bd@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20260923T230900
-SUMMARY:Zentrumsfest im Zentrum ELCH Frieden
-LOCATION:Zentrum ELCH Frieden
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Frieden | Link: https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/zentrumsfest
-URL:https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/zentrumsfest
+UID:3feaf3cbd9c4984faaccb875c9e9235fdc4f4e91@family-events
+DTSTAMP:20260602T084730Z
+DTSTART:20260907T100000
+DTEND:20260907T110000
+SUMMARY:Babymassage
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/52/babymassage/
+URL:https://www.karussell-baden.ch/angebote/event/52/babymassage/
 END:VEVENT
 BEGIN:VEVENT
 UID:8a6bdbee0eb41f1c4f324b718dc786be4091827c@family-events
-DTSTAMP:20260601T093918Z
+DTSTAMP:20260602T084730Z
 DTSTART:20261005T141500
 DTEND:20261005T151500
 SUMMARY:Pilates Mattentraining mit Baby-/Kinderbetreuung
 LOCATION:Karussell Familienzentrum Region Baden
 DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/157/pilates-mattentraining-mit-baby-kinderbetreuung/
 URL:https://www.karussell-baden.ch/angebote/event/157/pilates-mattentraining-mit-baby-kinderbetreuung/
-END:VEVENT
-BEGIN:VEVENT
-UID:12dfe06ecdf31a2f96b107e6b2dac11f41f4bc8a@family-events
-DTSTAMP:20260601T093918Z
-DTSTART:20261103T093000
-DTEND:20261103T110000
-SUMMARY:PEKiP® für dich und dein Kind (Start im Winter)
-LOCATION:Zentrum ELCH Accu
-DESCRIPTION:Quelle: Zentrum ELCH | Zentrum: ELCH Accu | Link: https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-winter
-URL:https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-winter
 END:VEVENT
 END:VCALENDAR
