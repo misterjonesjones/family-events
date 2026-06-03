@@ -94,31 +94,6 @@
     "is_new": false
   },
   {
-    "title": "Frauen-Deutschkurs mit Kinderbetreuung",
-    "start": "2025-12-22T08:20+01:00",
-    "end": "2025-12-22T09:50+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/111/frauen-deutschkurs-mit-kinderbetreuung/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "gratis",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Treff für Eltern von Kindern mit Autismus und Asperger-Syndrom",
     "start": "2026-01-09T19:30+01:00",
     "end": "2026-01-09T22:00+01:00",
@@ -4572,6 +4547,30 @@
     "is_new": false
   },
   {
+    "title": "Frauen-Deutschkurs mit Kinderbetreuung",
+    "start": "2026-09-06T10:10+02:00",
+    "end": "2026-09-06T11:40+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/111/frauen-deutschkurs-mit-kinderbetreuung/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Babymassage",
     "start": "2026-09-07T10:00+02:00",
     "end": "2026-09-07T11:00+02:00",
@@ -4593,7 +4592,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Pilates Mattentraining mit Baby-/Kinderbetreuung",
