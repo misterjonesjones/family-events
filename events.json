@@ -24,30 +24,6 @@
     "is_new": false
   },
   {
-    "title": "Individuelle Beratung zur Arbeitsmarktintegration",
-    "start": "2025-12-11T09:00+01:00",
-    "end": "2025-12-11T12:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/62/individuelle-beratung-zur-arbeitsmarktintegration/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Schenk mir eine Geschichte Spanisch",
     "start": "2025-12-12T14:00+01:00",
     "end": "2025-12-12T15:30+01:00",
@@ -445,54 +421,6 @@
     },
     "kind": "dated",
     "schedule_text": "Di, 9.30–10.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Lernstube «Schreibdienst & Beratung»",
-    "start": "2026-05-27T08:30+02:00",
-    "end": "2026-05-27T11:30+02:00",
-    "location": "Zentrum ELCH CeCe-Areal",
-    "source": "Zentrum ELCH",
-    "center": "ELCH CeCe-Areal",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-schreibdienst-beratung-cece",
-    "tags": [
-      "anmeldung",
-      "eltern",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Mi, 8.30–11.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Lernstube Schreibdienst",
-    "start": "2026-05-28T13:00+02:00",
-    "end": "2026-05-28T16:00+02:00",
-    "location": "Zentrum ELCH Krokodil",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Krokodil",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/lernstube-schreibdienst-krokodil",
-    "tags": [
-      "anmeldung",
-      "bewegung",
-      "eltern",
-      "familie",
-      "gratis",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Donnerstag, 13.00–16.00 Uhr Beratung ohne Anmeldung",
     "description": "",
     "is_new": false
   },
@@ -1282,30 +1210,6 @@
     "is_new": false
   },
   {
-    "title": "Stillberatung",
-    "start": "2026-06-05T09:30+02:00",
-    "end": "2026-06-05T11:00+02:00",
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/stillberatung",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Fr (div.), 9.30–11.00 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Russische Gruppe «Umka»",
     "start": "2026-06-05T14:00+02:00",
     "end": "2026-06-05T18:00+02:00",
@@ -1765,7 +1669,7 @@
     "kind": "dated",
     "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -1944,7 +1848,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Music Together",
@@ -3282,7 +3186,7 @@
     "kind": "dated",
     "schedule_text": "Mi, 16.00–17.00 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Offener Bastelnachmittag: Sonnenfänger",
@@ -4819,7 +4723,7 @@
     "kind": "dated",
     "schedule_text": "Samstag/Sontag, 10.30–11.30 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -5347,6 +5251,30 @@
     "schedule_text": "03.07.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Stillberatung",
+    "start": "2026-07-03T09:30+02:00",
+    "end": "2026-07-03T11:00+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/stillberatung",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Fr (div.), 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kinderbetreuung am Abend am 4. Juli 2026",
@@ -6956,6 +6884,31 @@
     "is_new": false
   },
   {
+    "title": "Lernstube Schreibdienst",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/lernstube-schreibdienst-krokodil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Donnerstag, 13.00–16.00 Uhr Beratung ohne Anmeldung",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Lernstube «Bewerbungswerkstatt» (nur mit Anmeldung)",
     "start": null,
     "end": null,
@@ -7062,6 +7015,29 @@
     },
     "kind": "recurring",
     "schedule_text": "Sa, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Schreibdienst & Beratung»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-schreibdienst-beratung-cece",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 8.30–11.30 Uhr",
     "description": "",
     "is_new": false
   },
