@@ -1085,73 +1085,6 @@
     "is_new": false
   },
   {
-    "title": "Bunte Teller – Essen macht Freude",
-    "start": "2026-06-05T05:06+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Frieden",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/bunte-teller-essen-macht-freude-frieden",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "05.06.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kafi Plus Vatertagsbrunch",
-    "start": "2026-06-05T05:06+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-vatertagsbrunch",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "05.06.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kinderbetreuung am Abend am 5. Juni",
-    "start": "2026-06-05T05:06+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-5-juni",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "05.06.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Mütter- und Väterberatung",
     "start": "2026-06-05T08:30+02:00",
     "end": "2026-06-05T11:30+02:00",
@@ -1264,27 +1197,6 @@
     },
     "kind": "dated",
     "schedule_text": "06.06.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Samstagsverkauf im Secondhandshop",
-    "start": "2026-06-06T08:30+02:00",
-    "end": "2026-06-06T11:30+02:00",
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/samstagsverkauf-im-secondhandshop",
-    "tags": [
-      "anmeldung",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "8.30–11.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -1849,6 +1761,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Französische Krabbelgruppe",
+    "start": "2026-06-10T09:30+02:00",
+    "end": "2026-06-10T12:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "baby"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Music Together",
@@ -5274,7 +5206,7 @@
     "kind": "dated",
     "schedule_text": "Fr (div.), 9.30–11.00 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 4. Juli 2026",
@@ -5297,6 +5229,27 @@
     "schedule_text": "04.07.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Samstagsverkauf im Secondhandshop",
+    "start": "2026-07-04T08:30+02:00",
+    "end": "2026-07-04T11:30+02:00",
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/samstagsverkauf-im-secondhandshop",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "8.30–11.30 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Bücherwurm",
