@@ -117,30 +117,6 @@
     "is_new": false
   },
   {
-    "title": "Zwillingseltern-Treff",
-    "start": "2026-01-25T09:30+01:00",
-    "end": "2026-01-25T11:30+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/23/zwillingseltern-treff/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Babysitting-Kurs",
     "start": "2026-02-22T09:00+01:00",
     "end": "2026-02-22T15:00+01:00",
@@ -1179,28 +1155,6 @@
     "is_new": false
   },
   {
-    "title": "Kinderbetreuung am Abend am 6. Juni 2026",
-    "start": "2026-06-06T06:06+02:00",
-    "end": null,
-    "location": "Zentrum ELCH CeCe-Areal",
-    "source": "Zentrum ELCH",
-    "center": "ELCH CeCe-Areal",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-6-juni-2026-cece",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "06.06.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "AtoZ English",
     "start": "2026-06-06T08:45+02:00",
     "end": "2026-06-06T12:15+02:00",
@@ -1780,7 +1734,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Music Together",
@@ -1863,6 +1817,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Everdance",
+    "start": "2026-06-10T13:30+02:00",
+    "end": "2026-06-10T14:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Russische Gruppe «Umka»",
@@ -5249,7 +5223,7 @@
     "kind": "dated",
     "schedule_text": "8.30–11.30 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Bücherwurm",
