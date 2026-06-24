@@ -262,30 +262,6 @@
     "is_new": false
   },
   {
-    "title": "Aerobic Kids",
-    "start": "2026-03-17T17:30+01:00",
-    "end": "2026-03-17T18:30+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/283/aerobic-kids/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Rückbildungs-Pilates – mit Babybetreuung",
     "start": "2026-03-30T13:00+02:00",
     "end": "2026-03-30T14:00+02:00",
@@ -305,6 +281,30 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Mama Core & Pelvic Floor – Kraft für den Alltag mit Baby",
+    "start": "2026-05-05T09:30+02:00",
+    "end": "2026-05-05T10:30+02:00",
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/mama-core-pelvic-floor-reg",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–10.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -1783,9 +1783,9 @@
     "is_new": false
   },
   {
-    "title": "AquaPlay-Nachmittag",
+    "title": "Treffpunktcafé",
     "start": "2026-06-12T15:00+02:00",
-    "end": "2026-06-12T16:45+02:00",
+    "end": "2026-06-12T17:00+02:00",
     "location": "Karussell Familienzentrum Region Baden",
     "source": "Karussell Baden",
     "center": "Karussell Baden",
@@ -1801,20 +1801,24 @@
     "is_new": false
   },
   {
-    "title": "Treffpunktcafé",
-    "start": "2026-06-12T15:00+02:00",
-    "end": "2026-06-12T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
-    "tags": [],
+    "title": "Kinderbetreuung am Abend",
+    "start": "2026-06-12T17:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
     "flags": {
-      "anmeldung": false,
+      "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
-    "schedule_text": "",
+    "schedule_text": "Fr (div.), 17.00–21 Uhr",
     "description": "",
     "is_new": false
   },
@@ -2957,65 +2961,6 @@
     "is_new": false
   },
   {
-    "title": "Madame Frigo Altstetten",
-    "start": "2026-06-23T00:00+02:00",
-    "end": "2026-06-23T23:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "SPIELGRUPPEN 26 / 27",
-    "start": "2026-06-23T08:45+02:00",
-    "end": "2026-06-23T11:45+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Begleiteter Bewegungsraum",
-    "start": "2026-06-23T09:00+02:00",
-    "end": "2026-06-23T12:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung",
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-06-23T09:00+02:00",
     "end": "2026-06-23T09:50+02:00",
@@ -3058,85 +3003,6 @@
     "is_new": false
   },
   {
-    "title": "Mandarin Pre-school",
-    "start": "2026-06-23T09:00+02:00",
-    "end": "2026-06-23T16:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Spielgruppe Dussädinä",
-    "start": "2026-06-23T09:00+02:00",
-    "end": "2026-06-23T13:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "selbstständige Werkstattnutzung-SWN",
-    "start": "2026-06-23T09:00+02:00",
-    "end": "2026-06-23T22:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "fitdankbaby® mini/maxi",
-    "start": "2026-06-23T09:10+02:00",
-    "end": "2026-06-23T10:20+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "baby",
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Spiel- und Lerngruppe «Mischutka»",
     "start": "2026-06-23T09:20+02:00",
     "end": "2026-06-23T11:20+02:00",
@@ -3147,63 +3013,6 @@
     "tags": [
       "kleinkind"
     ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Cafeteria",
-    "start": "2026-06-23T10:00+02:00",
-    "end": "2026-06-23T17:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Offenes Nähcafé",
-    "start": "2026-06-23T10:00+02:00",
-    "end": "2026-06-23T12:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "eltern",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Sprach-Café Spanisch",
-    "start": "2026-06-23T10:00+02:00",
-    "end": "2026-06-23T11:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -3236,121 +3045,6 @@
     "is_new": false
   },
   {
-    "title": "fitdankbaby® KIDS",
-    "start": "2026-06-23T10:35+02:00",
-    "end": "2026-06-23T11:40+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "baby",
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Flex",
-    "start": "2026-06-23T14:00+02:00",
-    "end": "2026-06-23T17:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Geräteausleihe Sharely",
-    "start": "2026-06-23T14:00+02:00",
-    "end": "2026-06-23T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Holzwerkstatt",
-    "start": "2026-06-23T14:00+02:00",
-    "end": "2026-06-23T17:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Krimi- und Romanbibliothek",
-    "start": "2026-06-23T14:00+02:00",
-    "end": "2026-06-23T17:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Offenes Spielzimmer",
-    "start": "2026-06-23T14:00+02:00",
-    "end": "2026-06-23T17:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Spiel- und Lerngruppe «Mischutka»",
     "start": "2026-06-23T14:00+02:00",
     "end": "2026-06-23T15:30+02:00",
@@ -3360,142 +3054,6 @@
     "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
     "tags": [
       "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Spielraum für Kinder bis 7 J.",
-    "start": "2026-06-23T14:00+02:00",
-    "end": "2026-06-23T17:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Sprach-Café Deutsch",
-    "start": "2026-06-23T14:00+02:00",
-    "end": "2026-06-23T15:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Bunte Raketenkerzen gestalten",
-    "start": "2026-06-23T14:30+02:00",
-    "end": "2026-06-23T17:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kindertanz VorKiga & 1. Kiga",
-    "start": "2026-06-23T14:30+02:00",
-    "end": "2026-06-23T15:20+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kreativangebote ab 2,5 Jahren",
-    "start": "2026-06-23T14:30+02:00",
-    "end": "2026-06-23T16:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Offenes Werkatelier",
-    "start": "2026-06-23T14:30+02:00",
-    "end": "2026-06-23T17:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Schul- und Kinderbibliothek",
-    "start": "2026-06-23T14:30+02:00",
-    "end": "2026-06-23T17:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
     ],
     "flags": {
       "anmeldung": false,
@@ -3545,84 +3103,6 @@
     "is_new": false
   },
   {
-    "title": "Kindertanz 1 . Kindergarten",
-    "start": "2026-06-23T15:30+02:00",
-    "end": "2026-06-23T16:20+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Tiere hautnah: Di, 16:00–18:00 Uhr",
-    "start": "2026-06-23T16:00+02:00",
-    "end": "2026-06-23T18:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kreativer Kindertanz von 4–7 Jahre",
-    "start": "2026-06-23T16:15+02:00",
-    "end": "2026-06-23T17:15+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kindertanz 2. KiGa / 1. Kl.",
-    "start": "2026-06-23T16:30+02:00",
-    "end": "2026-06-23T17:20+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Playgroup «Sanrays»",
     "start": "2026-06-23T17:00+02:00",
     "end": "2026-06-23T18:00+02:00",
@@ -3659,209 +3139,14 @@
     "is_new": false
   },
   {
-    "title": "Spanisch für Kinder",
-    "start": "2026-06-23T17:30+02:00",
-    "end": "2026-06-23T18:15+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kinder-Vertikaltuch-Kurs",
-    "start": "2026-06-23T18:00+02:00",
-    "end": "2026-06-23T19:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "OFFENES KERAMIKATELIER",
-    "start": "2026-06-23T18:00+02:00",
-    "end": "2026-06-23T21:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Hatha Yoga",
-    "start": "2026-06-23T18:30+02:00",
-    "end": "2026-06-23T19:45+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Keramik für Erwachsene am Dienstag",
-    "start": "2026-06-23T18:30+02:00",
-    "end": "2026-06-23T20:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Literarisches Schreiben",
-    "start": "2026-06-23T18:30+02:00",
-    "end": "2026-06-23T20:00+02:00",
+    "title": "Madame Frigo Altstetten",
+    "start": "2026-06-24T00:00+02:00",
+    "end": "2026-06-24T23:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
     "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Rücken Pilates",
-    "start": "2026-06-23T18:30+02:00",
-    "end": "2026-06-23T19:45+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Schach spielen",
-    "start": "2026-06-23T18:30+02:00",
-    "end": "2026-06-23T20:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Reparaturwerkstatt+Textil",
-    "start": "2026-06-23T19:00+02:00",
-    "end": "2026-06-23T21:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "eltern",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Sprach-Café Französisch",
-    "start": "2026-06-23T19:00+02:00",
-    "end": "2026-06-23T20:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Erwachsenen-Vertikaltuch-Kurs",
-    "start": "2026-06-23T19:45+02:00",
-    "end": "2026-06-23T21:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -3890,15 +3175,40 @@
     "is_new": false
   },
   {
-    "title": "Fit/Gym für Senior*innen",
-    "start": "2026-06-24T09:00+02:00",
-    "end": "2026-06-24T10:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
+    "start": "2026-06-24T08:45+02:00",
+    "end": "2026-06-24T09:40+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
     "tags": [
-      "bewegung"
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "SPIELGRUPPEN 26 / 27",
+    "start": "2026-06-24T08:45+02:00",
+    "end": "2026-06-24T11:45+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kleinkind"
     ],
     "flags": {
       "anmeldung": false,
@@ -3907,16 +3217,16 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
-    "title": "Funktionelle Gymnastik",
+    "title": "Fit/Gym für Senior*innen",
     "start": "2026-06-24T09:00+02:00",
-    "end": "2026-06-24T09:55+02:00",
-    "location": "GZ Loogarten",
+    "end": "2026-06-24T10:00+02:00",
+    "location": "GZ Bachwiesen",
     "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [
       "bewegung"
     ],
@@ -3953,6 +3263,44 @@
     "title": "Offene Nähwerkstatt",
     "start": "2026-06-24T09:00+02:00",
     "end": "2026-06-24T11:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielraum für Kinder bis 7 J.",
+    "start": "2026-06-24T09:00+02:00",
+    "end": "2026-06-24T12:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "selbstständige Werkstattnutzung-SWN",
+    "start": "2026-06-24T09:00+02:00",
+    "end": "2026-06-24T22:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
@@ -4073,6 +3421,24 @@
     "is_new": false
   },
   {
+    "title": "Cafeteria",
+    "start": "2026-06-24T10:00+02:00",
+    "end": "2026-06-24T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Sprach-Café Englisch",
     "start": "2026-06-24T10:00+02:00",
     "end": "2026-06-24T11:00+02:00",
@@ -4167,7 +3533,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Türkisches Essen",
@@ -4226,17 +3592,75 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Flex",
+    "start": "2026-06-24T14:00+02:00",
+    "end": "2026-06-24T17:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
     "is_new": true
   },
   {
-    "title": "Besuche Kleintiere/Tierpaten",
+    "title": "Geräteausleihe Sharely",
     "start": "2026-06-24T14:00+02:00",
-    "end": "2026-06-24T14:30+02:00",
+    "end": "2026-06-24T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Holzwerkstatt",
+    "start": "2026-06-24T14:00+02:00",
+    "end": "2026-06-24T21:00+02:00",
     "location": "GZ Bachwiesen",
     "source": "GZ Zürich",
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Krimi- und Romanbibliothek",
+    "start": "2026-06-24T14:00+02:00",
+    "end": "2026-06-24T17:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern"
+    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -4254,6 +3678,24 @@
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
     "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Offenes Spielzimmer",
+    "start": "2026-06-24T14:00+02:00",
+    "end": "2026-06-24T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
     "tags": [],
     "flags": {
       "anmeldung": false,
@@ -4283,6 +3725,26 @@
     "is_new": false
   },
   {
+    "title": "Bunte Raketenkerzen gestalten",
+    "start": "2026-06-24T14:30+02:00",
+    "end": "2026-06-24T17:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Mütter- und Väterberatung",
     "start": "2026-06-24T14:30+02:00",
     "end": "2026-06-24T17:00+02:00",
@@ -4303,6 +3765,26 @@
     "is_new": false
   },
   {
+    "title": "Offenes Werkatelier",
+    "start": "2026-06-24T14:30+02:00",
+    "end": "2026-06-24T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Repair Café",
     "start": "2026-06-24T14:30+02:00",
     "end": "2026-06-24T17:30+02:00",
@@ -4310,6 +3792,26 @@
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
     "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Schul- und Kinderbibliothek",
+    "start": "2026-06-24T14:30+02:00",
+    "end": "2026-06-24T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
     "tags": [
       "eltern"
     ],
@@ -4340,7 +3842,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "WERKFUNKE – Offenes Kreativatelier",
@@ -4360,7 +3862,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Zirkusakrobatik, Mi 14.45h (ab 5 J)",
@@ -4380,7 +3882,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -4454,7 +3956,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Offener Treff Oberstufe",
@@ -4474,7 +3976,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rotes Büecherwägeli 2026",
@@ -4494,7 +3996,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Tiere hautnah: Mi, 16:00–18:00 Uhr",
@@ -4512,7 +4014,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Qigong",
@@ -4522,6 +4024,26 @@
     "source": "GZ Zürich",
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinder-Vertikaltuch-Kurs",
+    "start": "2026-06-24T18:00+02:00",
+    "end": "2026-06-24T19:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
     "tags": [
       "bewegung"
     ],
@@ -4550,7 +4072,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sprach-Café Deutsch",
@@ -4568,7 +4090,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Bauch, Beine und Po",
@@ -4588,7 +4110,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Gymnastik für Körper und Seele",
@@ -4608,7 +4130,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Yoga – Iyengar",
@@ -4621,6 +4143,85 @@
     "tags": [
       "bewegung"
     ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Erwachsenen-Vertikaltuch-Kurs",
+    "start": "2026-06-24T19:45+02:00",
+    "end": "2026-06-24T21:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Faszien-Fitness-Training",
+    "start": "2026-06-24T20:00+02:00",
+    "end": "2026-06-24T21:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Familienberatung",
+    "start": "2026-06-25T09:00+02:00",
+    "end": "2026-06-25T12:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kaffeebar im Atrium",
+    "start": "2026-06-25T09:00+02:00",
+    "end": "2026-06-25T11:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -4668,7 +4269,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rollender Donnerstag",
@@ -4679,6 +4280,26 @@
     "center": "GZ Heuried",
     "url": "https://gz-zh.ch/gz-heuried/programm/",
     "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielgruppe Dussädinä",
+    "start": "2026-06-25T09:00+02:00",
+    "end": "2026-06-25T13:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kleinkind"
+    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -4726,6 +4347,30 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Femmes-Tisch in tamilischer und englischer Sprache",
+    "start": "2026-06-25T09:30+02:00",
+    "end": "2026-06-25T11:00+02:00",
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-tamilischer-und-englischer-sprache",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Do. (div.), 9.30–11.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -4789,6 +4434,30 @@
     "is_new": false
   },
   {
+    "title": "Farbige Wolle",
+    "start": "2026-06-25T13:30+02:00",
+    "end": "2026-06-25T17:00+02:00",
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/farbige-wolle",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Das Kafi Plus, der Indoorspielplatz und die Gartenterrasse sind in den Sport-, Frühlings- und Herbstferien am Montag, Mittwoch und Freitag von 13.30–17.00 Uhr geöffnet.",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Flickservice",
     "start": "2026-06-25T14:00+02:00",
     "end": "2026-06-25T17:00+02:00",
@@ -4825,6 +4494,26 @@
     "is_new": false
   },
   {
+    "title": "Kindertanz Vor-KiGa (ab 3 J)",
+    "start": "2026-06-25T14:00+02:00",
+    "end": "2026-06-25T14:50+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Näh- und Flickatelier",
     "start": "2026-06-25T14:00+02:00",
     "end": "2026-06-25T17:00+02:00",
@@ -4843,6 +4532,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kindertanz 1. KiGa",
+    "start": "2026-06-25T15:00+02:00",
+    "end": "2026-06-25T15:50+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -4901,6 +4610,64 @@
     "is_new": false
   },
   {
+    "title": "Yoga über 60ig",
+    "start": "2026-06-25T16:00+02:00",
+    "end": "2026-06-25T17:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kindertanz 2. KiGa / 1. Klasse",
+    "start": "2026-06-25T16:10+02:00",
+    "end": "2026-06-25T17:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Klangreise",
+    "start": "2026-06-25T17:30+02:00",
+    "end": "2026-06-25T18:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Lerntreff Baden",
     "start": "2026-06-25T17:30+02:00",
     "end": "2026-06-25T19:30+02:00",
@@ -4919,6 +4686,26 @@
     "is_new": false
   },
   {
+    "title": "Yoga für Anfänger",
+    "start": "2026-06-25T17:30+02:00",
+    "end": "2026-06-25T18:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "KickPower",
     "start": "2026-06-25T19:00+02:00",
     "end": "2026-06-25T20:00+02:00",
@@ -4926,6 +4713,65 @@
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
     "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Samba Treff",
+    "start": "2026-06-25T19:00+02:00",
+    "end": "2026-06-25T22:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Velowerkstatt",
+    "start": "2026-06-25T19:00+02:00",
+    "end": "2026-06-25T21:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Yoga & Meditation",
+    "start": "2026-06-25T19:30+02:00",
+    "end": "2026-06-25T20:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [
       "bewegung"
     ],
@@ -4957,6 +4803,27 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Body Toning",
+    "start": "2026-06-26T09:00+02:00",
+    "end": "2026-06-26T10:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Frauentreff",
@@ -5015,7 +4882,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "ShapeXpress",
@@ -5036,7 +4903,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderhütedienst",
@@ -5101,6 +4968,132 @@
     "is_new": false
   },
   {
+    "title": "Kleinkindermalen",
+    "start": "2026-06-26T15:15+02:00",
+    "end": "2026-06-26T16:45+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kleinkind",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "CNC-Frässtudio",
+    "start": "2026-06-26T16:00+02:00",
+    "end": "2026-06-26T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Offene Holzwerkstatt … Fr + Sa",
+    "start": "2026-06-26T16:00+02:00",
+    "end": "2026-06-26T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Selbst-Hypnose",
+    "start": "2026-06-26T16:15+02:00",
+    "end": "2026-06-26T17:45+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "„Mami’s Club“-Für Mami’s, Vo Mami’s",
+    "start": "2026-06-26T18:00+02:00",
+    "end": "2026-06-26T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "MAL-Chill für Erwachsene",
+    "start": "2026-06-26T18:30+02:00",
+    "end": "2026-06-26T21:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Samariterkurse «Notfälle bei KleinkindernPLUS»",
     "start": "2026-06-27T08:00+02:00",
     "end": "2026-06-27T12:00+02:00",
@@ -5135,6 +5128,45 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kreativ-weekend Kids & Teen",
+    "start": "2026-06-27T10:30+02:00",
+    "end": "2026-06-27T12:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "StrongME — Move. Play. Restore.",
+    "start": "2026-06-27T10:30+02:00",
+    "end": "2026-06-27T11:30+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/strongme-move-play-restore-accu",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Samstag/Sontag, 10.30–11.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -5329,6 +5361,86 @@
     "is_new": false
   },
   {
+    "title": "Zirkusakrobatik, Mo 15.45h ab KIGA",
+    "start": "2026-06-29T15:45+02:00",
+    "end": "2026-06-29T16:45+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Zirkusakrobatik, Mo 16.45h (ab 5 J)",
+    "start": "2026-06-29T16:45+02:00",
+    "end": "2026-06-29T17:45+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Ukrainische Bücher-Bibliothek",
+    "start": "2026-06-29T17:00+02:00",
+    "end": "2026-06-29T18:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Zirkusakrobatik, Mo 17.45h (ab 7 J)",
+    "start": "2026-06-29T17:45+02:00",
+    "end": "2026-06-29T18:45+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-06-30T09:00+02:00",
     "end": "2026-06-30T09:50+02:00",
@@ -5389,6 +5501,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "PEKiP® für dich und dein Kind (Start im Mai)",
+    "start": "2026-06-30T09:30+02:00",
+    "end": "2026-06-30T11:00+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/pekipr-fuer-dich-und-dein-kind-start-im-mai",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -5525,6 +5662,75 @@
     "is_new": false
   },
   {
+    "title": "Kafi Plus Sommerplausch",
+    "start": "2026-07-01T01:07+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kafi-plus-sommerplausch-1",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "01.07.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Mückensalbe herstellen",
+    "start": "2026-07-01T01:07+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/mueckensalbe-herstellen-krokodil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "01.07.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Naturbasteln im Wald",
+    "start": "2026-07-01T01:07+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/naturbasteln-im-wald",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "01.07.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Theater Try-Out \"Zeitfresser\"",
     "start": "2026-07-01T10:00+02:00",
     "end": "2026-07-01T11:00+02:00",
@@ -5549,6 +5755,29 @@
     "is_new": false
   },
   {
+    "title": "Kafi Plus Bastelatelier",
+    "start": "2026-07-01T16:00+02:00",
+    "end": "2026-07-01T17:00+02:00",
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-bastelatelier",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Mi, 16.00–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Babys entdecken die Welt",
     "start": "2026-07-02T09:20+02:00",
     "end": "2026-07-02T10:20+02:00",
@@ -5559,6 +5788,7 @@
     "tags": [
       "anmeldung",
       "baby",
+      "bewegung",
       "eltern",
       "familie",
       "gratis",
@@ -5573,6 +5803,185 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 3. Juli",
+    "start": "2026-07-03T03:07+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-am-3-juli",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "03.07.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 3. Juli 2026",
+    "start": "2026-07-03T03:07+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-am-abend-3-juli-2026-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "03.07.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Stillberatung",
+    "start": "2026-07-03T09:30+02:00",
+    "end": "2026-07-03T11:00+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/stillberatung",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Fr (div.), 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 4. Juli 2026",
+    "start": "2026-07-04T04:07+02:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-4-juli-2026-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "04.07.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Samstagsverkauf im Secondhandshop",
+    "start": "2026-07-04T08:30+02:00",
+    "end": "2026-07-04T11:30+02:00",
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/samstagsverkauf-im-secondhandshop",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Bücherwurm",
+    "start": "2026-07-06T00:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/buecherwurm",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Geschichtenzeit im Juli",
+    "start": "2026-07-06T06:07+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-geschichtenzeit-juli-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "06.07.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Geschichtenzeit",
+    "start": "2026-07-08T16:00+02:00",
+    "end": "2026-07-08T16:30+02:00",
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Mi, 16.00–16.30 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Individuelle Beratung zur Arbeitsmarktintegration",
@@ -5599,6 +6008,79 @@
     "is_new": false
   },
   {
+    "title": "Kinderbetreuung in den Sommerferien",
+    "start": "2026-08-14T08:30+02:00",
+    "end": "2026-08-14T11:30+02:00",
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kinderbetreuung-sommerferien-frieden",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Montag bis Donnerstag, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "AquaPlay-Nachmittag",
+    "start": "2026-08-14T15:00+02:00",
+    "end": "2026-08-14T16:45+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/160/aquaplay-nachmittag/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Theater-Karussell \"Chlytheater\"",
+    "start": "2026-08-22T10:30+02:00",
+    "end": "2026-08-22T11:15+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/309/theater-karussell-chlytheater/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Karussell-Fest",
     "start": "2026-08-22T11:00+02:00",
     "end": "2026-08-22T17:00+02:00",
@@ -5609,7 +6091,8 @@
     "tags": [
       "baby",
       "eltern",
-      "familie"
+      "familie",
+      "kosten"
     ],
     "flags": {
       "anmeldung": false,
@@ -5617,6 +6100,75 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Ludothek Zürich Nord",
+    "start": "2026-08-22T14:00+02:00",
+    "end": "2026-08-22T17:00+02:00",
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/ludothek-zuerich-nord",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Mittwoch, 14.00–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus",
+    "start": "2026-08-22T14:30+02:00",
+    "end": "2026-08-22T17:30+02:00",
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-frieden",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Mo–Fr, 14.30–17.30 Uhr | Selbstbedienung Mo–Fr, 8.30–11.15 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 22. August 2026",
+    "start": "2026-08-22T22:08+02:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-am-abend-22-august-2026-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "22.08.2026",
     "description": "",
     "is_new": false
   },
@@ -5641,6 +6193,55 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Elternkurs: mit Gelassenheit erziehen (nach STEP)",
+    "start": "2026-08-28T08:30+02:00",
+    "end": "2026-08-28T11:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Femmes-Tisch in russischer Sprache",
+    "start": "2026-08-28T09:30+02:00",
+    "end": "2026-08-28T11:00+02:00",
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-russischer-sprache",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Fr. (div.), 9.30–11.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -5678,6 +6279,7 @@
     "tags": [
       "anmeldung",
       "baby",
+      "eltern",
       "familie",
       "kosten"
     ],
@@ -5687,6 +6289,31 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "PEKiP® für dich und dein Kind (Start im Herbst)",
+    "start": "2026-09-01T09:30+02:00",
+    "end": "2026-09-01T11:00+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-herbst",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -5763,6 +6390,79 @@
     "is_new": false
   },
   {
+    "title": "Spielen mit Wasser \"Götsche & Pflotsche\"",
+    "start": "2026-09-07T15:00+02:00",
+    "end": "2026-09-07T16:45+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/300/spielen-mit-wasser-goetsche-pflotsche/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Museums-Karussell",
+    "start": "2026-09-08T15:00+02:00",
+    "end": "2026-09-08T16:30+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/169/museums-karussell/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kafi Plus Herbstbasteln",
+    "start": "2026-09-09T09:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/herbstbasteln-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "09.09.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Innenwelten: Das Haus",
     "start": "2026-09-18T19:00+02:00",
     "end": "2026-09-18T21:30+02:00",
@@ -5773,6 +6473,7 @@
     "tags": [
       "anmeldung",
       "baby",
+      "eltern",
       "familie",
       "kosten"
     ],
@@ -5782,6 +6483,71 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Reunión de Lactancia en Español",
+    "start": "2026-09-19T10:30+02:00",
+    "end": "2026-09-19T12:30+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/reunion-de-lactancia-en-espanol",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Sabado, 10.30–12.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Zentrumsfest im Zentrum ELCH Regensbergstrasse",
+    "start": "2026-09-19T19:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/zentrumsfest-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "19.09.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Zentrumsfest im Zentrum ELCH Frieden",
+    "start": "2026-09-23T23:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/zentrumsfest",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "23.09.2026",
     "description": "",
     "is_new": false
   },
@@ -5796,6 +6562,7 @@
     "tags": [
       "anmeldung",
       "baby",
+      "eltern",
       "familie",
       "kosten"
     ],
@@ -5843,6 +6610,7 @@
     "tags": [
       "anmeldung",
       "baby",
+      "eltern",
       "familie",
       "kosten"
     ],
@@ -5852,6 +6620,53 @@
     },
     "kind": "dated",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "PEKiP® für dich und dein Kind (Start im Winter)",
+    "start": "2026-11-03T09:30+01:00",
+    "end": "2026-11-03T11:00+01:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-winter",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Räbeliechtli schnitzen",
+    "start": "2026-11-07T07:11+01:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/raebeliechtli-schnitzen-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "07.11.2026",
     "description": "",
     "is_new": false
   },
@@ -5880,6 +6695,163 @@
     "is_new": false
   },
   {
+    "title": "Adventsfest mit Samichlaus",
+    "start": "2026-12-05T05:12+01:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/adventsfest-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "05.12.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Weihnachtsbacken",
+    "start": "2026-12-16T16:12+01:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/weihnachtsbacken-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "16.12.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Kasperli-Theater im Januar",
+    "start": "2027-01-23T23:01+01:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kasperli-theater-cece-januar",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "23.01.2027",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Fasnacht",
+    "start": "2027-02-10T10:02+01:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/fasnacht-cece",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "10.02.2027",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Frühlingsbasteln",
+    "start": "2027-04-07T07:04+02:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/fruehlingsbasteln-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "07.04.2027",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Muttertagsbasteln",
+    "start": "2027-04-21T21:04+02:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/muttertagsbasteln-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "21.04.2027",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Anlaufstelle Wohnungssuche von Caritas Zürich",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/anlaufstelle-wohnungssuche-von-caritas-zuerich",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Do, 13.30–15.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "AtoZ English",
     "start": null,
     "end": null,
@@ -5898,6 +6870,53 @@
     },
     "kind": "recurring",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "AtoZ English – For Native and Non-Native Speaking Children",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/atoz-english-for-english-speaking-children",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Wednesday, between 13.30 and 18.45 h",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Babymassage",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/babymassage-krokodil",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 14.00-15.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -5921,6 +6940,172 @@
     },
     "kind": "recurring",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Ballett für Erwachsene",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/ballett-fuer-erwachsene",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 18.30–19.20 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Ballett, Gymnastik und kreativer Tanz für Kinder",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/ballett-gymnastik-und-kreativer-tanz-fuer-kinder",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Sa, 13.30–14.15 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Begleiteter Bewegungsraum",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/begleiteter-bewegungsraum",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 9.00–11.45 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Capoeira für Kinder",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/capoeira-fuer-kinder",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 16.45–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Copilot Infocafé – Eltern & Schule",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/copilot-infocafe-eltern-schule",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 9.15–10.45 Uhr + Do, 14.30–16.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Eltern-Kind-Gruppe Zauberkiste",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/eltern-kind-gruppe-zauberkiste-cece",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 9.00-11.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Eltern-Kind-Turnen",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/eltern-kind-turnen",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Samstag, 10.00–11.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -5950,6 +7135,223 @@
     "is_new": false
   },
   {
+    "title": "Eltern-Kind-Yoga",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/eltern-kind-yoga",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 14.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Estia Spielspass & Lernwelt",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/estia-spielspass-lernwelt",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Sa, 9.00–12.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Fadenspule",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/fadenspule",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Freitag, 14.30 –17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Familienberatung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/quartierberatung-frieden",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Do, 9.00 – 12.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Familienberatung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/familienberatung-krokodil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 13.30–16.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Feldenkrais",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/feldenkrais-bewegungsuebungen",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 18.30–19.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Flamenco für Kinder",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/flamenco-fuer-kinder",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 16.30–17.20 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Fokus Handgemacht",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/fokus-handgemacht-reg",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 19.30–21.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Geschichten-Kiste",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/geschichten-kiste",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 9.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Gesprächsgruppe «Schmetterlingsseelen»",
     "start": null,
     "end": null,
@@ -5970,6 +7372,460 @@
     },
     "kind": "recurring",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Hatha Flow Yoga",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/flow-yoga",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 9.30–10.45 Uhr | 18.30–19.45 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Indoorspielplatz",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/indoorspielplatz-krokodil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo–Fr, 8.30–11.30 Uhr und 13.30–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Indoorspielplatz mit Bewegungsparcours",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/indoorspielplatz-mit-bewegungsparcours",
+    "tags": [
+      "bewegung",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 15.00–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Innenhof-Spielplatz",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/innenhof-spielplatz-frieden",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, Mi, Fr, 14.30–16.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Innenhof-Spielplatz Accu",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/innenhof-spielplatz-accu",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, Mi, Fr, 15.00–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kafi-plus-accu",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, Mi, Fr, 15.00–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-cece-areal",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di,Mi+Fr, 15.30–18.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/kafi-plus-krokodil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo–Fr, 8.30–11.30 Uhr und 13.30–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kafi-plus-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, Mi-Fr, 8.30–11.30 Uhr | Di, Mi+Fr, 15.00–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Basteltisch",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kafi-plus-basteltisch-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Fr, 15.00–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Geschichtenzeit",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kafi-plus-geschichtenzeit-accu",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Kindergeburtstag",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kafi-plus-kindergeburtstag-1",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo & Fr, 15.00–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Kindergeburtstag",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-kindergeburtstag",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo–Fr, 15.00–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kafi Plus Krabbeltreff",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kafi-plus-krabbeltreff",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "gratis",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Montag, 15.00 – 17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, Mi, Fr, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kinderbetreuung-elch-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Dienstag, Mittwoch, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kinderbetreuung-elch-frieden",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Montag bis Donnerstag, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/kinderbetreuung-krokodil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mittwoch bis Freitag, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-elch-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Montag bis Samstag 8.30–11.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -5996,6 +7852,401 @@
     "is_new": false
   },
   {
+    "title": "Kindergeburtstag im Kafi Plus",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kindergeburtstag-im-kafi-plus-cece",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 15.30–18.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kindersingen",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kindersingen-elch-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Do, 9.00–9.45 und 10.00–10.45 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kindersingen und Babysingen",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kindersingen-elch-accu",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 9.15–10.00 Uhr & 10.00–10.45 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Klassisches Ballett für Kinder",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/klassisches-ballett-fuer-kinder",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 17.25–18.15 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Klassisches Ballett, Kreativer Kindertanz und Modern Dance",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/klassisches-ballett-kreativer-kindertanz-und-modern-dance",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 16.30–18.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Krabbelgruppe",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/krabbelgruppe",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Fr, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-cece",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mittwoch, 11.45 – 14.45 Uhr (ausser während der Schulferien)",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Dienstag, 14.00–17.00 Uhr (allfällige Schliesstage findest du auf unserer Website)",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube Schreibdienst",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/lernstube-schreibdienst-krokodil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Donnerstag, 13.00–16.00 Uhr Beratung ohne Anmeldung",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Bewerbungswerkstatt» (nur mit Anmeldung)",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-bewerbungswerkstatt",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Dienstag, 14.00–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Computer & Handy im Alltag»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-computer-handy-im-alltag-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 11.45–14.45 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Computer & Handy im Alltag»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-computer-handy-im-alltag-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Donnerstag, 14.00–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Lesen & Schreiben»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-lesen-schreiben-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Lesen & Schreiben»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-lesen-schreiben-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Sa, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Schreibdienst & Beratung»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-schreibdienst-beratung-cece",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Lernstube «Schreibdienst & Beratung»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-schreibdienst-beratung-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Sa, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Melodica (Keyboard Harmonica) für Anfänger",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/melodica-keyboard-harmonica",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Do, 19.00–20.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Mentale Geburtsvorbereitung mit HypnoBirthing®",
     "start": null,
     "end": null,
@@ -6015,6 +8266,56 @@
     },
     "kind": "recurring",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Minispielmobil",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/minispielmobil",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 9.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Mobile Sozialberatung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/mobile-sozialberatung",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 14.00–18.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -6044,6 +8345,54 @@
     "is_new": false
   },
   {
+    "title": "Pilates",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/pilates-frieden",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 18.30–19.20 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Pilates",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/pilates-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mittwoch, 9.00–9.50 Uhr mit Angela",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Playgroup «Sanrays»",
     "start": null,
     "end": null,
@@ -6061,6 +8410,76 @@
     },
     "kind": "recurring",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Polnische Spielgruppe \"Podróze z usmiechem\"",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/polnische-spielgruppe-podroze-z-usmiechem",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 15.30–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Polnische Sprachgruppe «Pierwsza klasa na medal»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/polnische-sprachgruppe-pierwsza-klasa-na-medal",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 16.00–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Russisch für Kinder",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/russisch-fuer-kinder",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Freitag,  9.15–11.45 Uhr (für 2- bis 3-Jährige)",
     "description": "",
     "is_new": false
   },
@@ -6087,6 +8506,76 @@
     "is_new": false
   },
   {
+    "title": "Russischunterricht für zweisprachige Kinder (HSK)",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/russischunterricht-fuer-zweisprachige-kinder-hsk",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Fr, 16.30–18.10 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Rückbildungsgymnastik nach Pilates",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/rueckbildungsgymnastik-nach-pilates",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 17.00–17.50 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Rückbildungsturnen",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/rueckbildungsturnen",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 20.00–20.50 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "SPIELwiese",
     "start": null,
     "end": null,
@@ -6105,6 +8594,123 @@
     },
     "kind": "recurring",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Sanrays - Englisches Aktivitätszentrum für Kinder",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/sanrays-englisches-aktivitaetszentrum-fuer-kinder",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mi, 13.30 – 16.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Schachkurs für Kinder «Chess Kings»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/schachkurs-fuer-kinder-chess-kings",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Freitag, 15.20 Uhr Anfängergruppe",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Schwangerschaftsgymnastik und Yoga",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/schwangerschaftsgymnastik-und-yoga",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 18.45–19.45 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Selbstbedienungscafé",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/selbstbedienungscafe",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, Mi + Fr, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spanisch für Kinder – Contando y jugando aprendemos español",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/spanisch-fuer-kinder-contando-y-jugando-aprendemos-espanol-1",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 15.45–16.30 und 16:45 –17.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -6134,6 +8740,295 @@
     "is_new": false
   },
   {
+    "title": "Spielgruppe Colibri",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/spielgruppe-colibri",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, Do, 8.45–11.45 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielgruppe Delfin",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/spielgruppe-delfin",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, Do, 8.30–11.15 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielgruppe Qui Quo Qua",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/spielgruppe-qui-quo-qua",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Do, 15.00–17.30 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielgruppe Stadtzwergli",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/spielgruppe-stadtzwergli",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo–Do, 8.30–11.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielgruppe «Frau Frieda Was»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/spielgruppe-frau-frieda-was",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo–Fr, 8.30–11.30 Uhr + Do, 14.15-17.15 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielgruppe «Zwerg»",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/spielgruppe-zwerg",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Montag bis Mittwoch, 8.45–11.15 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielplatz Zentrum ELCH CeCe-Areal",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/spielplatz-zentrum-elch-cece-areal",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Spielplatz auf der Gartenterrasse des Krokodils",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/spielplatz-auf-der-gartenterrasse-des-krokodils",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo–Fr, 8.30–11.30 Uhr und 13.30–17.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Tai Chi und Chi Kung",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/tai-chi-und-chi-kung",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "(tagsüber bis 16.00 Uhr erreichbar)",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Tanz-, Ballett-Therapie für Erwachsene",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/tanz-ballett-therapie-fuer-erwachsene",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Sa, 14.30–15.20 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Trampolinspringen in der Ofenhalle",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/indoorspielplatz-in-der-ofenhalle",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "15.30 –",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Tramuki",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/tramuki",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Do, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
     "title": "Treffpunktcafé",
     "start": null,
     "end": null,
@@ -6153,6 +9048,125 @@
     },
     "kind": "recurring",
     "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Windelturnen",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/windelturnen-elch-accu",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 9.15 – 11.15 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Windelturnen",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/windelturnen-elch-frieden",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 9.30–10.20 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Windelturnen",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/windelturnen-elch-regensbergstrasse",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Freitag, 9.00–09.50 Uhr",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Zumba Kids mit Mirta",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/zumba-kids-accu",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Dienstags, 13.30–14.25 und 14.30–15.25",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Zumba®",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/zumbar",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "recurring",
+    "schedule_text": "Mo, 19.30–20.20 Uhr | Di, 19.00–19.50 Uhr",
     "description": "",
     "is_new": false
   },
