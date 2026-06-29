@@ -3709,8 +3709,8 @@
   },
   {
     "title": "Madame Frigo Altstetten",
-    "start": "2026-06-28T00:00+02:00",
-    "end": "2026-06-28T23:00+02:00",
+    "start": "2026-06-29T00:00+02:00",
+    "end": "2026-06-29T23:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
@@ -3724,80 +3724,6 @@
     "schedule_text": "",
     "description": "",
     "is_new": true
-  },
-  {
-    "title": "selbstständige Werkstattnutzung-SWN",
-    "start": "2026-06-28T09:00+02:00",
-    "end": "2026-06-28T22:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Cafeteria",
-    "start": "2026-06-28T10:00+02:00",
-    "end": "2026-06-28T17:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Flohmarkt für Kindersachen",
-    "start": "2026-06-28T10:00+02:00",
-    "end": "2026-06-28T16:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Queerfeministischer Lesekreis",
-    "start": "2026-06-28T15:00+02:00",
-    "end": "2026-06-28T17:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -3941,15 +3867,15 @@
     "is_new": false
   },
   {
-    "title": "Musigzwergli",
-    "start": "2026-06-29T09:30+02:00",
-    "end": "2026-06-29T10:15+02:00",
-    "location": "GZ Bachwiesen",
+    "title": "selbstständige Werkstattnutzung-SWN",
+    "start": "2026-06-29T09:00+02:00",
+    "end": "2026-06-29T22:00+02:00",
+    "location": "GZ Loogarten",
     "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [
-      "bewegung"
+      "kreativ"
     ],
     "flags": {
       "anmeldung": false,
@@ -3958,7 +3884,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Selbstbedienung Cafeteria",
@@ -4020,26 +3946,6 @@
     "is_new": false
   },
   {
-    "title": "Spanisch für Kleinkinder",
-    "start": "2026-06-29T10:00+02:00",
-    "end": "2026-06-29T10:45+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2026-06-29T10:10+02:00",
     "end": "2026-06-29T11:40+02:00",
@@ -4056,6 +3962,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Musigzwergli",
+    "start": "2026-06-29T10:30+02:00",
+    "end": "2026-06-29T11:15+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Rückbildungs-Pilates – mit Babybetreuung",
@@ -4129,7 +4055,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Leihservice E-Lastenrad",
@@ -4147,7 +4073,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spiel- und Lerngruppe «Mischutka»",
@@ -4872,6 +4798,24 @@
     "is_new": false
   },
   {
+    "title": "Cafeteria",
+    "start": "2026-06-30T10:00+02:00",
+    "end": "2026-06-30T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Offenes Nähcafé",
     "start": "2026-06-30T10:00+02:00",
     "end": "2026-06-30T12:30+02:00",
@@ -5413,7 +5357,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Reparaturwerkstatt+Textil",
@@ -5434,7 +5378,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "ELCH Angebot",
@@ -5463,7 +5407,7 @@
     "kind": "dated",
     "schedule_text": "01.07.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Sommerplausch",
