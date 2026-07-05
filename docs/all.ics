@@ -3,4 +3,1124 @@ VERSION:2.0
 PRODID:-//Family Events//CH//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d29826fdc676788494faec111e279499946e5b48@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20240222T093000
+DTEND:20240222T113000
+SUMMARY:Beratungstreff für mehrsprachige Familien
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/206/beratungstreff-fuer-mehrsprachige-familien/
+URL:https://www.karussell-baden.ch/angebote/event/206/beratungstreff-fuer-mehrsprachige-familien/
+END:VEVENT
+BEGIN:VEVENT
+UID:74af34412c34f313c0d5c3ddbba8e485b8f98aac@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20251017T141500
+DTEND:20251017T163000
+SUMMARY:Wald-Nachmittag
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/134/wald-nachmittag/
+URL:https://www.karussell-baden.ch/angebote/event/134/wald-nachmittag/
+END:VEVENT
+BEGIN:VEVENT
+UID:4710d8cbab7ab3b2fd831f45643510f97603065d@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20251212T140000
+DTEND:20251212T153000
+SUMMARY:Schenk mir eine Geschichte Spanisch
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/35/schenk-mir-eine-geschichte-spanisch/
+URL:https://www.karussell-baden.ch/angebote/event/35/schenk-mir-eine-geschichte-spanisch/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e7f9d72b04959b45b07832a11d7b7c31234c3e@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260121T153000
+DTEND:20260121T170000
+SUMMARY:Schenk mir eine Geschichte Portugiesisch
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/36/schenk-mir-eine-geschichte-portugiesisch/
+URL:https://www.karussell-baden.ch/angebote/event/36/schenk-mir-eine-geschichte-portugiesisch/
+END:VEVENT
+BEGIN:VEVENT
+UID:f98bfb23d68fb8be3d825acd8e54033c7d7f476a@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260222T090000
+DTEND:20260222T150000
+SUMMARY:Babysitting-Kurs
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/94/babysitting-kurs/
+URL:https://www.karussell-baden.ch/angebote/event/94/babysitting-kurs/
+END:VEVENT
+BEGIN:VEVENT
+UID:f91ab85b5d912ac874869334baea6d4a6d1fe40d@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260306T150000
+DTEND:20260306T170000
+SUMMARY:Briobahn-Nachmittag
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/30/briobahn-nachmittag/
+URL:https://www.karussell-baden.ch/angebote/event/30/briobahn-nachmittag/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b5a2754a1226fd6d54f8b5cc2f65131f5dce19e@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260330T130000
+DTEND:20260330T140000
+SUMMARY:Rückbildungs-Pilates – mit Babybetreuung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/138/rueckbildungs-pilates-mit-babybetreuung/
+URL:https://www.karussell-baden.ch/angebote/event/138/rueckbildungs-pilates-mit-babybetreuung/
+END:VEVENT
+BEGIN:VEVENT
+UID:94d0d11baafc9118fbcb2fdca56c1657dec2c910@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260529T090000
+DTEND:20260529T110000
+SUMMARY:Frauentreff
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/60/frauentreff/
+URL:https://www.karussell-baden.ch/angebote/event/60/frauentreff/
+END:VEVENT
+BEGIN:VEVENT
+UID:d52dc303d7c27c433ad9636e16f9d77b407b2678@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260611T140000
+DTEND:20260611T170000
+SUMMARY:Näh- und Flickatelier
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/26/naeh-und-flickatelier/
+URL:https://www.karussell-baden.ch/angebote/event/26/naeh-und-flickatelier/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5fe73bd6f0e6bb4011894d05beb9f0286bddc25@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260624T093000
+DTEND:20260624T101500
+SUMMARY:Music Together
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/302/music-together/
+URL:https://www.karussell-baden.ch/angebote/event/302/music-together/
+END:VEVENT
+BEGIN:VEVENT
+UID:83fa21757c62b1e9234880e57d9d5aa4f1538393@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260624T153000
+DTEND:20260624T170000
+SUMMARY:Schenk mir eine Geschichte Ukrainisch
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/37/schenk-mir-eine-geschichte-ukrainisch/
+URL:https://www.karussell-baden.ch/angebote/event/37/schenk-mir-eine-geschichte-ukrainisch/
+END:VEVENT
+BEGIN:VEVENT
+UID:d57ce365d615722cf340d961d4fb23206430ec0c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260625T173000
+DTEND:20260625T193000
+SUMMARY:Lerntreff Baden
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/301/lerntreff-baden/
+URL:https://www.karussell-baden.ch/angebote/event/301/lerntreff-baden/
+END:VEVENT
+BEGIN:VEVENT
+UID:64383a008a50e280d62278c63559f6a7150c2c73@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260630T140000
+DTEND:20260630T170000
+SUMMARY:Kindercoiffeuse
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/74/kindercoiffeuse/
+URL:https://www.karussell-baden.ch/angebote/event/74/kindercoiffeuse/
+END:VEVENT
+BEGIN:VEVENT
+UID:8f171e750002d9e05165c0004bd249b7a5c3d07c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260701T082000
+DTEND:20260701T095000
+SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e94b366596124e346625a5627a54f848082a401@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260701T090000
+DTEND:20260701T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ac8270b1cd05b8e0f153cbffe3fbd1df84be7b@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260701T100000
+DTEND:20260701T110000
+SUMMARY:Theater Try-Out "Zeitfresser"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:f58ea7a70a5aa789051bb45f8a11b23fcde79653@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260701T101000
+DTEND:20260701T114000
+SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:d47effe6cd1fcf1ab8081caff4d80abec2609f62@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260701T143000
+DTEND:20260701T170000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:aaec445ad502edc74bceef8ec8681d73263a8678@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260701T150000
+DTEND:20260701T163000
+SUMMARY:Kinderbrocki
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:c82ae3f7a3b35931411aec946c6bc8206d646f9e@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260701T150000
+DTEND:20260701T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb578a193e40ce98a50a049f41b56b49e5ee2f57@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T090000
+DTEND:20260702T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:1aee1c4c371fbf99310b11aefa39880e5d68ef34@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T092000
+DTEND:20260702T102000
+SUMMARY:Babys entdecken die Welt
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba806ca3216c0eb6236659aed055f71b547de07a@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T103000
+DTEND:20260702T113000
+SUMMARY:Babys entdecken die Welt
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ceed3d20a40da75142e6795fee8604da16602275@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T140000
+DTEND:20260702T170000
+SUMMARY:Flickservice
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:fc7cf30605b5aa86504648398d1293e3dc9fe3a5@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T140000
+DTEND:20260702T170000
+SUMMARY:Kinderhütedienst
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:e29c372f34544630fa14a2fff74ffc9b1401328f@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T140000
+DTEND:20260702T170000
+SUMMARY:Näh- und Flickatelier
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:0cc4b83649867069aeae34a2c61ead852490a038@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T150000
+DTEND:20260702T180000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:7140777d1b21a89d7e334a928c9c1cee4cb9de6f@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260702T150000
+DTEND:20260702T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:17a8d9077918ac22da0f34eb4293c0a9877e61a5@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260703T083000
+DTEND:20260703T113000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:8257cefe12e8dec72e9106f552249f423fe948db@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260703T090000
+DTEND:20260703T120000
+SUMMARY:Handarbeits-Treff
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:d46b4a03b1a9e6daad4433c8d8a19060cf582ba3@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260703T090000
+DTEND:20260703T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:40a2f86cebbb3ff6bbc0bc6e1b1ae0c135719bc8@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260703T150000
+DTEND:20260703T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:33750c5ff937658841dc1ed9d375d1c803165048@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260703T193000
+DTEND:20260703T220000
+SUMMARY:Treff für Eltern von Kindern mit Autismus und Asperger-Syndrom
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:43cc00b93847a78e6befa530b3f2ded4da0a9bdb@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260704T080000
+DTEND:20260704T120000
+SUMMARY:Samariterkurse «Notfälle bei KleinkindernPLUS»
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:0142d35dbd2d477e8c7c7c4f23c6bffd185cae7c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260704T084500
+DTEND:20260704T121500
+SUMMARY:AtoZ English
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:226263c6dcad8574e2da71d2f590d41812afa18f@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260706T084500
+DTEND:20260706T094000
+SUMMARY:Bewegung und Spiel für 0 bis 6-monatige Babys
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/
+URL:https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ea02daa705b2a2b06e099c53913661ae7f95b7@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260706T090000
+DTEND:20260706T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:1459b4c6db7e6f185b5e134aaae34574b87d7113@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260706T150000
+DTEND:20260706T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:d168d6352ccd5dcb48c276cdf0cac3769fbf02ce@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260707T090000
+DTEND:20260707T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:683269e8d533212b10779c8a3c0ea0b22c51ca63@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260707T150000
+DTEND:20260707T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f8be2fbfecb6631c535b3d6bbadf66295b22c7b@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260707T151500
+DTEND:20260707T164500
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:006eadb9ad384020c2f83951f363302bccd8de79@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260708T090000
+DTEND:20260708T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3f1e38ccc70fd82d7f125cb1022805261f3e2f@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260708T143000
+DTEND:20260708T170000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:aad5f05f6855d038b3b89573dabed0df2eded5b7@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260708T150000
+DTEND:20260708T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:426d1ad9ae4da74387c7225e1f2f7aa27e54f3d8@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260709T090000
+DTEND:20260709T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5f6103023fa875ea4d058394a3ebc0e8eb341b@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260709T140000
+DTEND:20260709T170000
+SUMMARY:Flickservice
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/240/flickservice/
+URL:https://www.karussell-baden.ch/angebote/event/240/flickservice/
+END:VEVENT
+BEGIN:VEVENT
+UID:40878e8cd185aaad2c387cd17fc8dca82360528a@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260709T140000
+DTEND:20260709T170000
+SUMMARY:Näh- und Flickatelier
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:43a98eb4adfa5feb7d2573e7159a51ec7fa7b1a9@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260709T150000
+DTEND:20260709T180000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:abd50731be2afb9d05ac1d212ab64a1ee33e601d@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260709T150000
+DTEND:20260709T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:75718aa994af783d001fb4a46a4346c94511e961@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260710T083000
+DTEND:20260710T113000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:fe831886d7be4aaf48c7f41a7ff8465ff98b8eab@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260710T090000
+DTEND:20260710T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:836749668a3289c99872dd26f6e05a7770b90496@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260710T150000
+DTEND:20260710T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:457f05b3503d460276efeddfea30ad08e14e9a2c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260713T090000
+DTEND:20260713T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:3c860eb5b0840d569a8033f5a5b222ce63dc5d79@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260713T150000
+DTEND:20260713T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:f15418c18933a830eb3a3993cf64e1952b377ddd@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260714T090000
+DTEND:20260714T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:6db4792f192debf0b504a9d6fba885e3a12236db@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260714T150000
+DTEND:20260714T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:0812fe9d8994878d29d57e1ee5026af5c1bb981c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260714T151500
+DTEND:20260714T164500
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd61f3b01c2a2c20bb5495010c49d13039aeed7c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260715T090000
+DTEND:20260715T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:444e44bf48897a308406d3267c8aa32b5ea9495e@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260715T143000
+DTEND:20260715T170000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:61cafc60e7e7bb89932c36b15b22b6eec1664647@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260715T150000
+DTEND:20260715T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdd87b75e22c8390c2729c6dc69ea8697a39105@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260716T090000
+DTEND:20260716T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4a2aae91e7264765f84518e5ee9c91e132fe03@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260716T140000
+DTEND:20260716T170000
+SUMMARY:Näh- und Flickatelier
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c5bf2357412ae0d065e2022a41eebb1ed81c27@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260716T150000
+DTEND:20260716T180000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b6ee9e53350562db7b99316e0e08d247507663@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260716T150000
+DTEND:20260716T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:1c023f5c62fb69092d2a4d590b07a58870c18a7f@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260717T083000
+DTEND:20260717T113000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c28be750b91588eaf74996ead0655b182d3eaf@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260717T090000
+DTEND:20260717T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:37ee663239ff9ddee0ec199212a3b63dc0a1809f@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260717T150000
+DTEND:20260717T170000
+SUMMARY:Treffpunktcafé
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:92d48ad5cd1194a55e1b7d362be93ea1c86e2938@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260722T143000
+DTEND:20260722T170000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:c12356f659158d079ef126d2dc117a6c10b5fc85@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260723T140000
+DTEND:20260723T170000
+SUMMARY:Näh- und Flickatelier
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7965f48683f95e5eec9db3583881756ac1b8aea@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260723T150000
+DTEND:20260723T180000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:2467beb526545d7511eabda699461b32a333b500@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260724T083000
+DTEND:20260724T113000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:812d709f1b4461834ef4f62151d48b364b6ff559@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260729T143000
+DTEND:20260729T170000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee89c18d1e67c8a679a5d0be51dce1ba3a5c25e0@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260730T140000
+DTEND:20260730T170000
+SUMMARY:Näh- und Flickatelier
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:decd88276ae1f38182831a979955d6cb9a185360@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260730T150000
+DTEND:20260730T180000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:bd149294befcd259674a714a687831318783eb58@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260731T083000
+DTEND:20260731T113000
+SUMMARY:Mütter- und Väterberatung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/jahresprogramm/
+URL:https://www.karussell-baden.ch/angebote/jahresprogramm/
+END:VEVENT
+BEGIN:VEVENT
+UID:299384192f970cc4fe1e1579e319b32a6bbfde32@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260806T090000
+DTEND:20260806T120000
+SUMMARY:Individuelle Beratung zur Arbeitsmarktintegration
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/62/individuelle-beratung-zur-arbeitsmarktintegration/
+URL:https://www.karussell-baden.ch/angebote/event/62/individuelle-beratung-zur-arbeitsmarktintegration/
+END:VEVENT
+BEGIN:VEVENT
+UID:46cba4cc3b2bcaa89076a1cc803b6301a8b648d0@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260811T180000
+DTEND:20260811T190000
+SUMMARY:Aerobic für Erwachsene
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/284/aerobic-fuer-erwachsene/
+URL:https://www.karussell-baden.ch/angebote/event/284/aerobic-fuer-erwachsene/
+END:VEVENT
+BEGIN:VEVENT
+UID:92eddfa41c3ee30df9b8a4f4163a227a3c70f78b@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260813T090000
+DTEND:20260813T110000
+SUMMARY:Krabbelgruppe "Karussell"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/17/krabbelgruppe-karussell/
+URL:https://www.karussell-baden.ch/angebote/event/17/krabbelgruppe-karussell/
+END:VEVENT
+BEGIN:VEVENT
+UID:55ccaee7ed53c29a919751a973c22db978b6f9b9@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260814T150000
+DTEND:20260814T164500
+SUMMARY:AquaPlay-Nachmittag
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/160/aquaplay-nachmittag/
+URL:https://www.karussell-baden.ch/angebote/event/160/aquaplay-nachmittag/
+END:VEVENT
+BEGIN:VEVENT
+UID:b586c9d80dd589bcfb7b1a64da55d90683d343f5@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260818T173000
+DTEND:20260818T183000
+SUMMARY:Aerobic Kids
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/283/aerobic-kids/
+URL:https://www.karussell-baden.ch/angebote/event/283/aerobic-kids/
+END:VEVENT
+BEGIN:VEVENT
+UID:e629540ea75f81e6b98b7017d8e0145da65a3b10@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260822T103000
+DTEND:20260822T111500
+SUMMARY:Theater-Karussell "Chlytheater"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/309/theater-karussell-chlytheater/
+URL:https://www.karussell-baden.ch/angebote/event/309/theater-karussell-chlytheater/
+END:VEVENT
+BEGIN:VEVENT
+UID:af3209d1075a0d5c4668ac6a56b0c3d7668b360c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260822T103000
+DTEND:20260822T111500
+SUMMARY:Theater-Karussell "Roulé Boulé"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/314/theater-karussell-roule-boule/
+URL:https://www.karussell-baden.ch/angebote/event/314/theater-karussell-roule-boule/
+END:VEVENT
+BEGIN:VEVENT
+UID:1674faf278e0ce6587ce53d6ee512c9b9de26540@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260822T110000
+DTEND:20260822T170000
+SUMMARY:Karussell-Fest
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/218/karussell-fest/
+URL:https://www.karussell-baden.ch/angebote/event/218/karussell-fest/
+END:VEVENT
+BEGIN:VEVENT
+UID:31ad8297258b0f164ffcdac8d9c67c081b65960d@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260826T190000
+DTEND:20260826T210000
+SUMMARY:Beratungstreff für getrenntlebende Eltern
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/55/beratungstreff-fuer-getrenntlebende-eltern/
+URL:https://www.karussell-baden.ch/angebote/event/55/beratungstreff-fuer-getrenntlebende-eltern/
+END:VEVENT
+BEGIN:VEVENT
+UID:99b98f0c0140c02eff75a880b1fa075a6a6df455@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260828T083000
+DTEND:20260828T110000
+SUMMARY:Elternkurs: mit Gelassenheit erziehen (nach STEP)
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/
+URL:https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/
+END:VEVENT
+BEGIN:VEVENT
+UID:c2730bfcfd0e44eb3a54cc9543c3109037de1da2@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260828T140000
+DTEND:20260828T170000
+SUMMARY:Kinderhütedienst
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/51/kinderhuetedienst/
+URL:https://www.karussell-baden.ch/angebote/event/51/kinderhuetedienst/
+END:VEVENT
+BEGIN:VEVENT
+UID:beea27b156398121895b8e64223858f78456bec0@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260828T190000
+DTEND:20260828T210000
+SUMMARY:Elternrunde: Elternbildung Bezirk Baden/Wettingen
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/
+URL:https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/
+END:VEVENT
+BEGIN:VEVENT
+UID:140c6c7534b3cb7de272245eb19dd76e8e42dd7b@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260828T190000
+DTEND:20260828T210000
+SUMMARY:Liebe ohne Bedienungsanleitung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/305/liebe-ohne-bedienungsanleitung/
+URL:https://www.karussell-baden.ch/angebote/event/305/liebe-ohne-bedienungsanleitung/
+END:VEVENT
+BEGIN:VEVENT
+UID:dccdcb3e84caff1de467793c14cb5621c7e7f6a2@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260829T100000
+DTEND:20260829T120000
+SUMMARY:Trage-Workshop
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/172/trage-workshop/
+URL:https://www.karussell-baden.ch/angebote/event/172/trage-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:f63619b42b8d143151e77db55eaa4b4b428a48dd@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260829T131500
+DTEND:20260829T141500
+SUMMARY:Familien-Yoga
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/188/familien-yoga/
+URL:https://www.karussell-baden.ch/angebote/event/188/familien-yoga/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d282f8b7d00513775fa0d39c240305657f1a963@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260902T092000
+DTEND:20260902T101000
+SUMMARY:Eltern-Kind-Singen
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/12/eltern-kind-singen/
+URL:https://www.karussell-baden.ch/angebote/event/12/eltern-kind-singen/
+END:VEVENT
+BEGIN:VEVENT
+UID:c07fcbec2aa78af87a4697a17c364d49807fd70d@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260905T093000
+DTEND:20260905T113000
+SUMMARY:Zwillingseltern-Treff
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/23/zwillingseltern-treff/
+URL:https://www.karussell-baden.ch/angebote/event/23/zwillingseltern-treff/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3cdd21089ea442dd38ba7407b5acd4bfcdd1926@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260906T101000
+DTEND:20260906T114000
+SUMMARY:Frauen-Deutschkurs mit Kinderbetreuung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/111/frauen-deutschkurs-mit-kinderbetreuung/
+URL:https://www.karussell-baden.ch/angebote/event/111/frauen-deutschkurs-mit-kinderbetreuung/
+END:VEVENT
+BEGIN:VEVENT
+UID:b575a97c0d7b857747aa19fdb7a78804f19200df@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260907T094500
+DTEND:20260907T104500
+SUMMARY:Babymassage
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/52/babymassage/
+URL:https://www.karussell-baden.ch/angebote/event/52/babymassage/
+END:VEVENT
+BEGIN:VEVENT
+UID:d676dc237bd3f841ef4709c94b641c8d0a8256dc@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260907T150000
+DTEND:20260907T164500
+SUMMARY:Spielen mit Wasser "Götsche & Pflotsche"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/300/spielen-mit-wasser-goetsche-pflotsche/
+URL:https://www.karussell-baden.ch/angebote/event/300/spielen-mit-wasser-goetsche-pflotsche/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a31a1e45653076c08c3f260014982756297d831@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260908T150000
+DTEND:20260908T163000
+SUMMARY:Museums-Karussell
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/169/museums-karussell/
+URL:https://www.karussell-baden.ch/angebote/event/169/museums-karussell/
+END:VEVENT
+BEGIN:VEVENT
+UID:67a4034f401c96ce3d88964136de3b55fb2ed0ee@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260917T140000
+DTEND:20260917T160000
+SUMMARY:Femmes-Tische «Spanisch»
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/42/femmes-tische-spanisch/
+URL:https://www.karussell-baden.ch/angebote/event/42/femmes-tische-spanisch/
+END:VEVENT
+BEGIN:VEVENT
+UID:911e3ab550dde5cc5844d1f704877d2b5774d034@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260918T190000
+DTEND:20260918T213000
+SUMMARY:Innenwelten: Das Haus
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/306/innenwelten-das-haus/
+URL:https://www.karussell-baden.ch/angebote/event/306/innenwelten-das-haus/
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8c66696b0ce2a8d3a2c4146b4b89ec3b754aef@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260919T080000
+DTEND:20260919T120000
+SUMMARY:Samariterkurse «Notfälle bei KleinkindernPLUS»
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/89/samariterkurse-notfaelle-bei-kleinkindernplus/
+URL:https://www.karussell-baden.ch/angebote/event/89/samariterkurse-notfaelle-bei-kleinkindernplus/
+END:VEVENT
+BEGIN:VEVENT
+UID:5edad0268da130984b093d8bea2dab77c224577a@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260919T133000
+DTEND:20260919T170000
+SUMMARY:Aargauer Familientag
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/76/aargauer-familientag/
+URL:https://www.karussell-baden.ch/angebote/event/76/aargauer-familientag/
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a24e165339e18d9ba9e947d0e33fc15fa7be68@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260920T110000
+DTEND:20260920T114500
+SUMMARY:Theater-Karussell "Geisterstunde"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/312/theater-karussell-geisterstunde/
+URL:https://www.karussell-baden.ch/angebote/event/312/theater-karussell-geisterstunde/
+END:VEVENT
+BEGIN:VEVENT
+UID:bde95b32a2fb8c64c5f855344c5da59376e3767a@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260926T090000
+DTEND:20260926T110000
+SUMMARY:Väter-Kinder-Frühstück
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/6/vaeter-kinder-fruehstueck/
+URL:https://www.karussell-baden.ch/angebote/event/6/vaeter-kinder-fruehstueck/
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e382872b385ea71344591c65a5c6de571a7fd7@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20260926T190000
+DTEND:20260926T213000
+SUMMARY:Innenwelten: Die Übernehmerin
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/307/innenwelten-die-uebernehmerin/
+URL:https://www.karussell-baden.ch/angebote/event/307/innenwelten-die-uebernehmerin/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a6bdbee0eb41f1c4f324b718dc786be4091827c@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261005T141500
+DTEND:20261005T151500
+SUMMARY:Pilates Mattentraining mit Baby-/Kinderbetreuung
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/157/pilates-mattentraining-mit-baby-kinderbetreuung/
+URL:https://www.karussell-baden.ch/angebote/event/157/pilates-mattentraining-mit-baby-kinderbetreuung/
+END:VEVENT
+BEGIN:VEVENT
+UID:657290585a98975c8d96f06bc1dab63357180f08@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261008T150000
+DTEND:20261008T160000
+SUMMARY:Herbst-Singen
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/315/herbst-singen/
+URL:https://www.karussell-baden.ch/angebote/event/315/herbst-singen/
+END:VEVENT
+BEGIN:VEVENT
+UID:17982c179bc86334397b6ce996ddca96ccebec51@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261014T160000
+DTEND:20261014T170000
+SUMMARY:BilderBuchZeit
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/247/bilderbuchzeit/
+URL:https://www.karussell-baden.ch/angebote/event/247/bilderbuchzeit/
+END:VEVENT
+BEGIN:VEVENT
+UID:27519d9e3f083b0dae099f2ba869c22a7a92fe15@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261016T143000
+DTEND:20261016T153000
+SUMMARY:Klanggeschichte
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/245/klanggeschichte/
+URL:https://www.karussell-baden.ch/angebote/event/245/klanggeschichte/
+END:VEVENT
+BEGIN:VEVENT
+UID:58ec53c44b0e7b46e2cd23b21795f3ff8891158d@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261023T190000
+DTEND:20261023T213000
+SUMMARY:Näher – Ein Abend für Paare
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/308/naeher-ein-abend-fuer-paare/
+URL:https://www.karussell-baden.ch/angebote/event/308/naeher-ein-abend-fuer-paare/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d5b923347b95ecb632ca38ba968f08a39ac072@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261024T100000
+DTEND:20261024T104500
+SUMMARY:Eltern-Kind Bewegung & Tanz
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/228/eltern-kind-bewegung-tanz/
+URL:https://www.karussell-baden.ch/angebote/event/228/eltern-kind-bewegung-tanz/
+END:VEVENT
+BEGIN:VEVENT
+UID:ff5dfcc59eb43caa442adaeecc031cb5f06b61b8@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261113T150000
+DTEND:20261113T163000
+SUMMARY:Theater-Workshop "Tiere"
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/313/theater-workshop-tiere/
+URL:https://www.karussell-baden.ch/angebote/event/313/theater-workshop-tiere/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4f1955ca40914419127345226bff4779c79646@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261114T133000
+DTEND:20261114T160000
+SUMMARY:„Zwischen Wäsche\, Wut und Wünschen“
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/294/zwischen-waesche-wut-und-wuenschen/
+URL:https://www.karussell-baden.ch/angebote/event/294/zwischen-waesche-wut-und-wuenschen/
+END:VEVENT
+BEGIN:VEVENT
+UID:5fff833cb6202194bd406dbb870cc0150268ff92@family-events
+DTSTAMP:20260705T073842Z
+DTSTART:20261205T100000
+DTEND:20261205T120000
+SUMMARY:Trage-Kafi
+LOCATION:Karussell Familienzentrum Region Baden
+DESCRIPTION:Quelle: Karussell Baden | Zentrum: Karussell Baden | Link: https://www.karussell-baden.ch/angebote/event/54/trage-kafi/
+URL:https://www.karussell-baden.ch/angebote/event/54/trage-kafi/
+END:VEVENT
 END:VCALENDAR
