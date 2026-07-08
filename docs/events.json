@@ -24,31 +24,6 @@
     "is_new": false
   },
   {
-    "title": "Wald-Nachmittag",
-    "start": "2025-10-17T14:15+02:00",
-    "end": "2025-10-17T16:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/134/wald-nachmittag/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Schenk mir eine Geschichte Spanisch",
     "start": "2025-12-12T14:00+01:00",
     "end": "2025-12-12T15:30+01:00",
@@ -834,31 +809,6 @@
     "is_new": false
   },
   {
-    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
-    "start": "2026-07-07T08:45+02:00",
-    "end": "2026-07-07T09:40+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-07-07T09:00+02:00",
     "end": "2026-07-07T11:00+02:00",
@@ -917,6 +867,31 @@
     "is_new": false
   },
   {
+    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
+    "start": "2026-07-08T08:45+02:00",
+    "end": "2026-07-08T09:40+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-07-08T09:00+02:00",
     "end": "2026-07-08T11:00+02:00",
@@ -971,29 +946,6 @@
     },
     "kind": "dated",
     "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kafi Plus Geschichtenzeit",
-    "start": "2026-07-08T16:00+02:00",
-    "end": "2026-07-08T16:30+02:00",
-    "location": "Zentrum ELCH CeCe-Areal",
-    "source": "Zentrum ELCH",
-    "center": "ELCH CeCe-Areal",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Mi, 16.00–16.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -1144,6 +1096,47 @@
     "is_new": false
   },
   {
+    "title": "Body Toning",
+    "start": "2026-07-10T09:00+02:00",
+    "end": "2026-07-10T10:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "GZ-Betriebsferien",
+    "start": "2026-07-10T09:00+02:00",
+    "end": "2026-07-10T18:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-07-10T09:00+02:00",
     "end": "2026-07-10T11:00+02:00",
@@ -1164,6 +1157,89 @@
     "is_new": false
   },
   {
+    "title": "Selbstbedienung Cafeteria",
+    "start": "2026-07-10T09:30+02:00",
+    "end": "2026-07-10T12:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Cafeteria Betriebsferien",
+    "start": "2026-07-10T10:00+02:00",
+    "end": "2026-07-10T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Spielgruppe „Les Zébulons“",
+    "start": "2026-07-10T13:30+02:00",
+    "end": "2026-07-10T16:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Japanische Kalligraphie",
+    "start": "2026-07-10T15:00+02:00",
+    "end": "2026-07-10T17:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Treffpunktcafé",
     "start": "2026-07-10T15:00+02:00",
     "end": "2026-07-10T17:00+02:00",
@@ -1180,6 +1256,27 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Stress & Spannungen lösen",
+    "start": "2026-07-10T16:30+02:00",
+    "end": "2026-07-10T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -1948,7 +2045,7 @@
     "kind": "dated",
     "schedule_text": "22.08.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "ELCH Angebot",
@@ -1977,7 +2074,7 @@
     "kind": "dated",
     "schedule_text": "22.08.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 22. August 2026",
@@ -2000,6 +2097,29 @@
     "schedule_text": "22.08.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kafi Plus Geschichtenzeit",
+    "start": "2026-08-26T16:00+02:00",
+    "end": "2026-08-26T16:30+02:00",
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Mi, 16.00–16.30 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Beratungstreff für getrenntlebende Eltern",
@@ -2359,8 +2479,7 @@
       "eltern",
       "familie",
       "kosten",
-      "kreativ",
-      "outdoor"
+      "kreativ"
     ],
     "flags": {
       "anmeldung": true,
@@ -2513,6 +2632,31 @@
     "is_new": false
   },
   {
+    "title": "Gut vorbereitet für Kindergarten und Schule",
+    "start": "2026-09-19T14:00+02:00",
+    "end": "2026-09-19T15:30+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/316/gut-vorbereitet-fuer-kindergarten-und-schule/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Zentrumsfest im Zentrum ELCH Regensbergstrasse",
     "start": "2026-09-19T19:09+02:00",
     "end": null,
@@ -2653,6 +2797,55 @@
     "is_new": false
   },
   {
+    "title": "Wald-Nachmittag",
+    "start": "2026-10-05T14:30+02:00",
+    "end": "2026-10-05T16:45+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/134/wald-nachmittag/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Frühe Ausdrucksformen -  Baby-Signale verstehen",
+    "start": "2026-10-07T09:30+02:00",
+    "end": "2026-10-07T11:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/270/fruehe-ausdrucksformen-baby-signale-verstehen/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Herbst-Singen",
     "start": "2026-10-08T15:00+02:00",
     "end": "2026-10-08T16:00+02:00",
@@ -2699,6 +2892,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Mama werden, Frau bleiben",
+    "start": "2026-10-15T14:00+02:00",
+    "end": "2026-10-15T15:30+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/318/mama-werden-frau-bleiben/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Klanggeschichte",
@@ -2750,6 +2968,30 @@
     "is_new": false
   },
   {
+    "title": "Winterset nähen: Beanie & Loop",
+    "start": "2026-10-24T09:00+02:00",
+    "end": "2026-10-24T12:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/276/winterset-naehen-beanie-loop/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Eltern-Kind Bewegung & Tanz",
     "start": "2026-10-24T10:00+02:00",
     "end": "2026-10-24T10:45+02:00",
@@ -2773,6 +3015,30 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Mein Kind ist noch nicht trocken",
+    "start": "2026-10-31T14:00+01:00",
+    "end": "2026-10-31T15:30+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/317/mein-kind-ist-noch-nicht-trocken/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "PEKiP® für dich und dein Kind (Start im Winter)",
