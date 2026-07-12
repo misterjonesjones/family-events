@@ -1062,8 +1062,8 @@
   },
   {
     "title": "Madame Frigo Altstetten",
-    "start": "2026-07-11T00:00+02:00",
-    "end": "2026-07-11T23:00+02:00",
+    "start": "2026-07-12T00:00+02:00",
+    "end": "2026-07-12T23:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
@@ -1080,8 +1080,8 @@
   },
   {
     "title": "Actionbound: 65 Jahre Bachwiesen",
-    "start": "2026-07-11T09:00+02:00",
-    "end": "2026-07-11T20:00+02:00",
+    "start": "2026-07-12T09:00+02:00",
+    "end": "2026-07-12T20:00+02:00",
     "location": "GZ Bachwiesen",
     "source": "GZ Zürich",
     "center": "GZ Bachwiesen",
@@ -1098,87 +1098,12 @@
   },
   {
     "title": "GZ-Betriebsferien",
-    "start": "2026-07-11T09:00+02:00",
-    "end": "2026-07-11T18:00+02:00",
+    "start": "2026-07-12T09:00+02:00",
+    "end": "2026-07-12T18:00+02:00",
     "location": "GZ Bachwiesen",
     "source": "GZ Zürich",
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "3D-PRINT-BAR",
-    "start": "2026-07-11T10:00+02:00",
-    "end": "2026-07-11T13:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "eltern",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "3D-Print-Bar",
-    "start": "2026-07-11T10:00+02:00",
-    "end": "2026-07-11T13:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Cafeteria Betriebsferien",
-    "start": "2026-07-11T10:00+02:00",
-    "end": "2026-07-11T17:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Geräteausleihe Sharely",
-    "start": "2026-07-11T14:00+02:00",
-    "end": "2026-07-11T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [],
     "flags": {
       "anmeldung": false,
@@ -1190,13 +1115,13 @@
     "is_new": true
   },
   {
-    "title": "Leihservice E-Lastenrad",
-    "start": "2026-07-11T14:00+02:00",
-    "end": "2026-07-11T18:00+02:00",
-    "location": "GZ Loogarten",
+    "title": "Cafeteria Betriebsferien",
+    "start": "2026-07-12T10:00+02:00",
+    "end": "2026-07-12T17:30+02:00",
+    "location": "GZ Bachwiesen",
     "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [],
     "flags": {
       "anmeldung": false,
@@ -1248,7 +1173,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -1289,6 +1214,42 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Geräteausleihe Sharely",
+    "start": "2026-07-13T14:00+02:00",
+    "end": "2026-07-13T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Leihservice E-Lastenrad",
+    "start": "2026-07-13T14:00+02:00",
+    "end": "2026-07-13T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Treffpunktcafé",
@@ -1623,7 +1584,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -1845,7 +1806,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spielraum für Kinder bis 7 J.",
@@ -1863,7 +1824,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Aerobic für Erwachsene",
@@ -1953,7 +1914,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung in den Sommerferien",
@@ -2064,7 +2025,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mandarin Pre-school",
@@ -2082,7 +2043,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Musigzwergli",
@@ -2120,7 +2081,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Tüftelatelier für Kleinkinder",
@@ -2159,7 +2120,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Stress-und Spannung mit TRE® lösen",
@@ -2237,7 +2198,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Zirkusakrobatik, Mo 15.45h ab KIGA",
@@ -2338,7 +2299,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Capoeira für Kinder 3.-5. Klasse",
@@ -2474,7 +2435,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Erwachsenen-Vertikaltuch-Kurs",
@@ -2494,7 +2455,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Body Workout",
@@ -2534,7 +2495,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Begleiteter Bewegungsraum",
@@ -2555,7 +2516,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "fitdankbaby® mini/maxi",
@@ -2676,7 +2637,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krimi- und Romanbibliothek",
@@ -2696,7 +2657,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Offenes Spielzimmer",
@@ -2774,7 +2735,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Wild und Brav",
@@ -2794,7 +2755,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kreativer Kindertanz von 4–7 Jahre",
@@ -2814,7 +2775,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Aerobic Kids",
@@ -2856,7 +2817,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "OFFENES KERAMIKATELIER",
@@ -2876,7 +2837,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Fullbody HIT",
@@ -2896,7 +2857,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Keramik für Erwachsene am Dienstag",
@@ -2909,6 +2870,24 @@
     "tags": [
       "kreativ"
     ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Schach spielen",
+    "start": "2026-08-18T18:30+02:00",
+    "end": "2026-08-18T20:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -2974,7 +2953,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Back to Wholeness",
@@ -2992,7 +2971,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Offene Nähwerkstatt",
@@ -3012,7 +2991,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Französische Krabbelgruppe",
@@ -3032,7 +3011,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sprach-Café Englisch",
@@ -3050,7 +3029,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Everdance",
@@ -3070,7 +3049,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Zirkusakrobatik, Mi 13.45h (ab 8 J)",
@@ -3082,6 +3061,26 @@
     "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [
       "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "COMPI-HILF",
+    "start": "2026-08-19T14:00+02:00",
+    "end": "2026-08-19T16:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "eltern"
     ],
     "flags": {
       "anmeldung": false,
@@ -3110,7 +3109,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kafi Plus Bastelatelier",
