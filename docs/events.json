@@ -216,28 +216,6 @@
     "is_new": false
   },
   {
-    "title": "Kinderbetreuung am Abend",
-    "start": "2026-06-12T17:00+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-accu",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Fr (div.), 17.00–21 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Music Together",
     "start": "2026-06-24T09:30+02:00",
     "end": "2026-06-24T10:15+02:00",
@@ -1062,8 +1040,8 @@
   },
   {
     "title": "Madame Frigo Altstetten",
-    "start": "2026-07-12T00:00+02:00",
-    "end": "2026-07-12T23:00+02:00",
+    "start": "2026-07-13T00:00+02:00",
+    "end": "2026-07-13T23:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
@@ -1077,78 +1055,6 @@
     "schedule_text": "",
     "description": "",
     "is_new": true
-  },
-  {
-    "title": "Actionbound: 65 Jahre Bachwiesen",
-    "start": "2026-07-12T09:00+02:00",
-    "end": "2026-07-12T20:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "GZ-Betriebsferien",
-    "start": "2026-07-12T09:00+02:00",
-    "end": "2026-07-12T18:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Cafeteria Betriebsferien",
-    "start": "2026-07-12T10:00+02:00",
-    "end": "2026-07-12T17:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Queerfeministischer Lesekreis",
-    "start": "2026-07-12T15:00+02:00",
-    "end": "2026-07-12T17:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
   },
   {
     "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
@@ -1176,6 +1082,42 @@
     "is_new": false
   },
   {
+    "title": "Actionbound: 65 Jahre Bachwiesen",
+    "start": "2026-07-13T09:00+02:00",
+    "end": "2026-07-13T20:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "GZ-Betriebsferien",
+    "start": "2026-07-13T09:00+02:00",
+    "end": "2026-07-13T18:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-07-13T09:00+02:00",
     "end": "2026-07-13T11:00+02:00",
@@ -1194,6 +1136,24 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Cafeteria Betriebsferien",
+    "start": "2026-07-13T10:00+02:00",
+    "end": "2026-07-13T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Ferienangebot Zeichnen und Malen",
@@ -1231,7 +1191,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Leihservice E-Lastenrad",
@@ -1249,7 +1209,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -2895,6 +2855,27 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Reparaturwerkstatt+Textil",
+    "start": "2026-08-18T19:00+02:00",
+    "end": "2026-08-18T21:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "eltern",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
     "is_new": true
   },
   {
@@ -3089,7 +3070,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Zirkusakrobatik, Mi 14.45h (ab 5 J)",
@@ -3133,6 +3114,108 @@
     "schedule_text": "Mi, 16.00–17.00 Uhr",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend",
+    "start": "2026-08-21T17:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kinderbetreuung-am-abend-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Fr (div.), 17.00–21 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "ELCH Angebot",
+    "start": "2026-08-21T21:08+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-tamilischer-und-englischer-sprache",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "21.08.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "ELCH Angebot",
+    "start": "2026-08-21T21:08+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/samstagsverkauf-im-secondhandshop",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis",
+      "kleinkind",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "21.08.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 21. August 2026",
+    "start": "2026-08-21T21:08+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kibe-abend-21-august-2026-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "21.08.2026",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Theater-Karussell \"Chlytheater\"",
@@ -3251,64 +3334,6 @@
     },
     "kind": "dated",
     "schedule_text": "Mo–Fr, 14.30–17.30 Uhr | Selbstbedienung Mo–Fr, 8.30–11.15 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "ELCH Angebot",
-    "start": "2026-08-22T22:08+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Krokodil",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Krokodil",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/femmes-tisch-in-tamilischer-und-englischer-sprache",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "gratis",
-      "kleinkind",
-      "kosten",
-      "kreativ",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "22.08.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "ELCH Angebot",
-    "start": "2026-08-22T22:08+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/samstagsverkauf-im-secondhandshop",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "gratis",
-      "kleinkind",
-      "kosten",
-      "kreativ",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "22.08.2026",
     "description": "",
     "is_new": false
   },
@@ -3650,6 +3675,50 @@
     "is_new": false
   },
   {
+    "title": "Kinderbetreuung am Abend am 4. September 2026",
+    "start": "2026-09-04T17:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kibe-abend-4-september-2026-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "17.00–21 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 5. September 2026",
+    "start": "2026-09-05T05:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kibe-abend-5-september-2026-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "05.09.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Zwillingseltern-Treff",
     "start": "2026-09-05T09:30+02:00",
     "end": "2026-09-05T11:30+02:00",
@@ -3842,6 +3911,28 @@
     "is_new": false
   },
   {
+    "title": "Kinderbetreuung am Abend am 11. September 2026",
+    "start": "2026-09-11T17:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kibe-abend-11-september-2026-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "17.00–21 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Brio-Bahn bauen",
     "start": "2026-09-16T16:09+02:00",
     "end": null,
@@ -3888,6 +3979,28 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 18. September 2026",
+    "start": "2026-09-18T17:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kibe-abend-18-september-2026-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "17.00–21 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Innenwelten: Das Haus",
@@ -4007,6 +4120,28 @@
     "is_new": false
   },
   {
+    "title": "Kinderbetreuung am Abend am 19. September 2026",
+    "start": "2026-09-19T19:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kibe-abend-19-september-2026-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "19.09.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kurs Zwergen-Notfälle",
     "start": "2026-09-19T19:09+02:00",
     "end": null,
@@ -4099,6 +4234,28 @@
     "schedule_text": "23.09.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 25. September 2026",
+    "start": "2026-09-25T17:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/kibe-abend-25-september-2026-accu",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "17.00–21 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Väter-Kinder-Frühstück",
