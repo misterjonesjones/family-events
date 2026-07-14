@@ -1039,85 +1039,6 @@
     "is_new": false
   },
   {
-    "title": "Madame Frigo Altstetten",
-    "start": "2026-07-13T00:00+02:00",
-    "end": "2026-07-13T23:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
-    "start": "2026-07-13T08:45+02:00",
-    "end": "2026-07-13T09:40+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Actionbound: 65 Jahre Bachwiesen",
-    "start": "2026-07-13T09:00+02:00",
-    "end": "2026-07-13T20:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "GZ-Betriebsferien",
-    "start": "2026-07-13T09:00+02:00",
-    "end": "2026-07-13T18:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-07-13T09:00+02:00",
     "end": "2026-07-13T11:00+02:00",
@@ -1128,80 +1049,6 @@
     "tags": [
       "baby"
     ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Cafeteria Betriebsferien",
-    "start": "2026-07-13T10:00+02:00",
-    "end": "2026-07-13T17:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Ferienangebot Zeichnen und Malen",
-    "start": "2026-07-13T10:00+02:00",
-    "end": "2026-07-13T16:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Geräteausleihe Sharely",
-    "start": "2026-07-13T14:00+02:00",
-    "end": "2026-07-13T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Leihservice E-Lastenrad",
-    "start": "2026-07-13T14:00+02:00",
-    "end": "2026-07-13T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -1230,6 +1077,85 @@
     "is_new": false
   },
   {
+    "title": "Madame Frigo Altstetten",
+    "start": "2026-07-14T00:00+02:00",
+    "end": "2026-07-14T23:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
+    "start": "2026-07-14T08:45+02:00",
+    "end": "2026-07-14T09:40+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Actionbound: 65 Jahre Bachwiesen",
+    "start": "2026-07-14T09:00+02:00",
+    "end": "2026-07-14T20:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "GZ-Betriebsferien",
+    "start": "2026-07-14T09:00+02:00",
+    "end": "2026-07-14T18:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-07-14T09:00+02:00",
     "end": "2026-07-14T11:00+02:00",
@@ -1248,6 +1174,62 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Cafeteria Betriebsferien",
+    "start": "2026-07-14T10:00+02:00",
+    "end": "2026-07-14T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Ferienangebot Zeichnen und Malen",
+    "start": "2026-07-14T10:00+02:00",
+    "end": "2026-07-14T16:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Geräteausleihe Sharely",
+    "start": "2026-07-14T14:00+02:00",
+    "end": "2026-07-14T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Treffpunktcafé",
@@ -1306,6 +1288,24 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Leihservice E-Lastenrad",
+    "start": "2026-07-15T14:00+02:00",
+    "end": "2026-07-15T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -2876,7 +2876,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sprach-Café Französisch",
@@ -2897,26 +2897,6 @@
     "is_new": false
   },
   {
-    "title": "Zumba Feel Good & Flow",
-    "start": "2026-08-18T19:30+02:00",
-    "end": "2026-08-18T20:45+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Fullbody HIT",
     "start": "2026-08-19T08:00+02:00",
     "end": "2026-08-19T08:55+02:00",
@@ -2927,24 +2907,6 @@
     "tags": [
       "bewegung"
     ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Back to Wholeness",
-    "start": "2026-08-19T08:30+02:00",
-    "end": "2026-08-19T09:30+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -3033,6 +2995,27 @@
     "is_new": false
   },
   {
+    "title": "Ganzheitliche Bildung, in polnisch",
+    "start": "2026-08-19T13:30+02:00",
+    "end": "2026-08-19T18:45+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Zirkusakrobatik, Mi 13.45h (ab 8 J)",
     "start": "2026-08-19T13:45+02:00",
     "end": "2026-08-19T14:45+02:00",
@@ -3116,6 +3099,26 @@
     "is_new": false
   },
   {
+    "title": "Gymnastik für Körper und Seele",
+    "start": "2026-08-19T19:30+02:00",
+    "end": "2026-08-19T20:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kinderbetreuung am Abend",
     "start": "2026-08-21T17:00+02:00",
     "end": null,
@@ -3135,7 +3138,7 @@
     "kind": "dated",
     "schedule_text": "Fr (div.), 17.00–21 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "ELCH Angebot",
@@ -3164,7 +3167,7 @@
     "kind": "dated",
     "schedule_text": "21.08.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "ELCH Angebot",
@@ -3193,7 +3196,7 @@
     "kind": "dated",
     "schedule_text": "21.08.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 21. August 2026",
@@ -3206,6 +3209,29 @@
     "tags": [
       "anmeldung",
       "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "21.08.2026",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend im August",
+    "start": "2026-08-21T21:08+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kibe-abend-august-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
       "kosten"
     ],
     "flags": {
@@ -3604,6 +3630,28 @@
     "is_new": false
   },
   {
+    "title": "Besuch auf dem Bauernhof",
+    "start": "2026-09-02T02:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/besuch-auf-dem-bauernhof",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "02.09.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Mini-Labor: Eis",
     "start": "2026-09-02T02:09+02:00",
     "end": null,
@@ -3675,6 +3723,28 @@
     "is_new": false
   },
   {
+    "title": "Schwamendinger Chilbi",
+    "start": "2026-09-04T04:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Krokodil",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Krokodil",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/krokodil/angebote/detail/schwamendinger-chilbi",
+    "tags": [
+      "bewegung",
+      "familie",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "04.09.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kinderbetreuung am Abend am 4. September 2026",
     "start": "2026-09-04T17:00+02:00",
     "end": null,
@@ -3694,7 +3764,7 @@
     "kind": "dated",
     "schedule_text": "17.00–21 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 5. September 2026",
@@ -3716,7 +3786,7 @@
     "kind": "dated",
     "schedule_text": "05.09.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Zwillingseltern-Treff",
@@ -3930,7 +4000,7 @@
     "kind": "dated",
     "schedule_text": "17.00–21 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Brio-Bahn bauen",
@@ -4000,7 +4070,7 @@
     "kind": "dated",
     "schedule_text": "17.00–21 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Innenwelten: Das Haus",
@@ -4139,7 +4209,7 @@
     "kind": "dated",
     "schedule_text": "19.09.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kurs Zwergen-Notfälle",
@@ -4255,7 +4325,7 @@
     "kind": "dated",
     "schedule_text": "17.00–21 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Väter-Kinder-Frühstück",
