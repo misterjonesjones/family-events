@@ -1309,8 +1309,8 @@
   },
   {
     "title": "Madame Frigo Altstetten",
-    "start": "2026-07-18T00:00+02:00",
-    "end": "2026-07-18T23:00+02:00",
+    "start": "2026-07-19T00:00+02:00",
+    "end": "2026-07-19T23:00+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
@@ -1326,27 +1326,9 @@
     "is_new": true
   },
   {
-    "title": "Actionbound: 65 Jahre Bachwiesen",
-    "start": "2026-07-18T09:00+02:00",
-    "end": "2026-07-18T20:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "GZ-Betriebsferien",
-    "start": "2026-07-18T09:00+02:00",
-    "end": "2026-07-18T18:00+02:00",
+    "start": "2026-07-19T09:00+02:00",
+    "end": "2026-07-19T18:00+02:00",
     "location": "GZ Bachwiesen",
     "source": "GZ Zürich",
     "center": "GZ Bachwiesen",
@@ -1363,48 +1345,12 @@
   },
   {
     "title": "Cafeteria Betriebsferien",
-    "start": "2026-07-18T10:00+02:00",
-    "end": "2026-07-18T17:30+02:00",
+    "start": "2026-07-19T10:00+02:00",
+    "end": "2026-07-19T17:30+02:00",
     "location": "GZ Bachwiesen",
     "source": "GZ Zürich",
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Geräteausleihe Sharely",
-    "start": "2026-07-18T14:00+02:00",
-    "end": "2026-07-18T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Leihservice E-Lastenrad",
-    "start": "2026-07-18T14:00+02:00",
-    "end": "2026-07-18T18:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
     "tags": [],
     "flags": {
       "anmeldung": false,
@@ -1513,7 +1459,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kreativ-weekend Kids & Teen",
@@ -1676,6 +1622,24 @@
     "is_new": false
   },
   {
+    "title": "Geräteausleihe Sharely",
+    "start": "2026-08-11T14:00+02:00",
+    "end": "2026-08-11T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Aerobic für Erwachsene",
     "start": "2026-08-11T18:00+02:00",
     "end": "2026-08-11T19:00+02:00",
@@ -1722,7 +1686,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Raku-Kurs",
@@ -1836,6 +1800,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Leihservice E-Lastenrad",
+    "start": "2026-08-14T16:00+02:00",
+    "end": "2026-08-14T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Digital Café",
@@ -2868,6 +2852,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Fit/Gym für Senior*innen",
+    "start": "2026-08-19T09:00+02:00",
+    "end": "2026-08-19T10:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Offene Nähwerkstatt",
