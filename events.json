@@ -24,50 +24,29 @@
     "is_new": false
   },
   {
-    "title": "Schenk mir eine Geschichte Spanisch",
-    "start": "2025-12-12T14:00+01:00",
-    "end": "2025-12-12T15:30+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/35/schenk-mir-eine-geschichte-spanisch/",
+    "title": "Kinderbetreuung in den Herbstferien",
+    "start": "2025-10-16T12:10+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kibe-herbstferien-frieden",
     "tags": [
       "anmeldung",
-      "baby",
-      "eltern",
-      "familie"
+      "familie",
+      "gratis",
+      "kosten",
+      "kreativ",
+      "outdoor"
     ],
     "flags": {
       "anmeldung": true,
-      "gratis": false
+      "gratis": true
     },
     "kind": "dated",
-    "schedule_text": "",
+    "schedule_text": "Mo, 12.10. – Fr, 16.10.2025",
     "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Schenk mir eine Geschichte Portugiesisch",
-    "start": "2026-01-21T15:30+01:00",
-    "end": "2026-01-21T17:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/36/schenk-mir-eine-geschichte-portugiesisch/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Babysitting-Kurs",
@@ -82,54 +61,6 @@
       "baby",
       "familie",
       "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Briobahn-Nachmittag",
-    "start": "2026-03-06T15:00+01:00",
-    "end": "2026-03-06T17:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/30/briobahn-nachmittag/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "gratis",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Handarbeits-Treff",
-    "start": "2026-03-13T09:00+01:00",
-    "end": "2026-03-13T12:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/27/handarbeits-treff/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "familie",
       "kosten"
     ],
     "flags": {
@@ -158,152 +89,6 @@
     "flags": {
       "anmeldung": true,
       "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Mama Core & Pelvic Floor – Kraft für den Alltag mit Baby",
-    "start": "2026-05-05T09:30+02:00",
-    "end": "2026-05-05T10:30+02:00",
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/mama-core-pelvic-floor-reg",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Di, 9.30–10.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Frauentreff",
-    "start": "2026-05-29T09:00+02:00",
-    "end": "2026-05-29T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/60/frauentreff/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "gratis",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Näh- und Flickatelier",
-    "start": "2026-06-11T14:00+02:00",
-    "end": "2026-06-11T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/26/naeh-und-flickatelier/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "familie",
-      "kosten",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Music Together",
-    "start": "2026-06-24T09:30+02:00",
-    "end": "2026-06-24T10:15+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/302/music-together/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "gratis",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Schenk mir eine Geschichte Ukrainisch",
-    "start": "2026-06-24T15:30+02:00",
-    "end": "2026-06-24T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/37/schenk-mir-eine-geschichte-ukrainisch/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Lerntreff Baden",
-    "start": "2026-06-25T17:30+02:00",
-    "end": "2026-06-25T19:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/301/lerntreff-baden/",
-    "tags": [
-      "baby",
-      "eltern",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": true
     },
     "kind": "dated",
     "schedule_text": "",
@@ -1331,60 +1116,6 @@
     "is_new": false
   },
   {
-    "title": "Madame Frigo Altstetten",
-    "start": "2026-07-22T00:00+02:00",
-    "end": "2026-07-22T23:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "GZ-Betriebsferien",
-    "start": "2026-07-22T09:00+02:00",
-    "end": "2026-07-22T18:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Cafeteria Betriebsferien",
-    "start": "2026-07-22T10:00+02:00",
-    "end": "2026-07-22T17:30+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Mütter- und Väterberatung",
     "start": "2026-07-22T14:30+02:00",
     "end": "2026-07-22T17:00+02:00",
@@ -1403,6 +1134,60 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Madame Frigo Altstetten",
+    "start": "2026-07-23T00:00+02:00",
+    "end": "2026-07-23T23:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "GZ-Betriebsferien",
+    "start": "2026-07-23T09:00+02:00",
+    "end": "2026-07-23T18:00+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Cafeteria Betriebsferien",
+    "start": "2026-07-23T10:00+02:00",
+    "end": "2026-07-23T17:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Näh- und Flickatelier",
@@ -1583,30 +1368,6 @@
     "is_new": false
   },
   {
-    "title": "Individuelle Beratung zur Arbeitsmarktintegration",
-    "start": "2026-08-06T09:00+02:00",
-    "end": "2026-08-06T12:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/62/individuelle-beratung-zur-arbeitsmarktintegration/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "selbstständige Werkstattnutzung-SWN",
     "start": "2026-08-10T09:00+02:00",
     "end": "2026-08-10T22:00+02:00",
@@ -1663,55 +1424,6 @@
     "is_new": false
   },
   {
-    "title": "Aerobic für Erwachsene",
-    "start": "2026-08-11T18:00+02:00",
-    "end": "2026-08-11T19:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/284/aerobic-fuer-erwachsene/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
-    "start": "2026-08-13T08:45+02:00",
-    "end": "2026-08-13T09:40+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Raku-Kurs",
     "start": "2026-08-13T13:30+02:00",
     "end": "2026-08-13T18:30+02:00",
@@ -1720,30 +1432,6 @@
     "center": "GZ Bachwiesen",
     "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
     "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Flickservice",
-    "start": "2026-08-13T14:00+02:00",
-    "end": "2026-08-13T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/240/flickservice/",
-    "tags": [
-      "baby",
-      "eltern",
-      "familie",
-      "kosten",
       "kreativ"
     ],
     "flags": {
@@ -2698,30 +2386,6 @@
     "is_new": false
   },
   {
-    "title": "Aerobic Kids",
-    "start": "2026-08-18T17:30+02:00",
-    "end": "2026-08-18T18:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/283/aerobic-kids/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Spanisch für Kinder",
     "start": "2026-08-18T17:30+02:00",
     "end": "2026-08-18T18:15+02:00",
@@ -3195,79 +2859,6 @@
     "is_new": false
   },
   {
-    "title": "Theater-Karussell \"Chlytheater\"",
-    "start": "2026-08-22T10:30+02:00",
-    "end": "2026-08-22T11:15+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/309/theater-karussell-chlytheater/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Theater-Karussell \"Roulé Boulé\"",
-    "start": "2026-08-22T10:30+02:00",
-    "end": "2026-08-22T11:15+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/314/theater-karussell-roule-boule/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Karussell-Fest",
-    "start": "2026-08-22T11:00+02:00",
-    "end": "2026-08-22T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/218/karussell-fest/",
-    "tags": [
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Ludothek Zürich Nord",
     "start": "2026-08-22T14:00+02:00",
     "end": "2026-08-22T17:00+02:00",
@@ -3360,54 +2951,6 @@
     "is_new": false
   },
   {
-    "title": "Beratungstreff für getrenntlebende Eltern",
-    "start": "2026-08-26T19:00+02:00",
-    "end": "2026-08-26T21:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/55/beratungstreff-fuer-getrenntlebende-eltern/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Elternkurs: mit Gelassenheit erziehen (nach STEP)",
-    "start": "2026-08-28T08:30+02:00",
-    "end": "2026-08-28T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Femmes-Tisch in russischer Sprache",
     "start": "2026-08-28T09:30+02:00",
     "end": "2026-08-28T11:00+02:00",
@@ -3433,32 +2976,6 @@
     "is_new": false
   },
   {
-    "title": "Kinderhütedienst",
-    "start": "2026-08-28T14:00+02:00",
-    "end": "2026-08-28T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/51/kinderhuetedienst/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
     "start": "2026-08-28T19:00+02:00",
     "end": "2026-08-28T21:00+02:00",
@@ -3474,30 +2991,6 @@
     ],
     "flags": {
       "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Liebe ohne Bedienungsanleitung",
-    "start": "2026-08-28T19:00+02:00",
-    "end": "2026-08-28T21:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/305/liebe-ohne-bedienungsanleitung/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
@@ -3624,26 +3117,30 @@
     "is_new": false
   },
   {
-    "title": "Besuch auf dem Bauernhof",
-    "start": "2026-09-02T02:09+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
+    "title": "Krabbel Buddies - Parents & Toddler Meetup",
+    "start": "2026-09-01T15:30+02:00",
+    "end": "2026-09-01T17:00+02:00",
+    "location": "Zentrum ELCH Frieden",
     "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/besuch-auf-dem-bauernhof",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/krabbelbuddies-frieden",
     "tags": [
       "anmeldung",
+      "baby",
+      "eltern",
       "familie",
+      "gratis",
+      "kleinkind",
       "kosten"
     ],
     "flags": {
       "anmeldung": true,
-      "gratis": false
+      "gratis": true
     },
     "kind": "dated",
-    "schedule_text": "02.09.2026",
+    "schedule_text": "Di, 15.30–17.00 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Mini-Labor: Eis",
@@ -3717,6 +3214,28 @@
     "is_new": false
   },
   {
+    "title": "Kafi Plus Holzklotz-Abenteuer",
+    "start": "2026-09-04T04:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/holzklotz-abenteuer-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "04.09.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Schwamendinger Chilbi",
     "start": "2026-09-04T04:09+02:00",
     "end": null,
@@ -3783,17 +3302,15 @@
     "is_new": false
   },
   {
-    "title": "Zwillingseltern-Treff",
+    "title": "Catalan activities and fun for children",
     "start": "2026-09-05T09:30+02:00",
-    "end": "2026-09-05T11:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/23/zwillingseltern-treff/",
+    "end": "2026-09-05T11:00+02:00",
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/catalan-activities-and-fun-for-children",
     "tags": [
       "anmeldung",
-      "baby",
-      "eltern",
       "familie",
       "kosten"
     ],
@@ -3802,9 +3319,9 @@
       "gratis": false
     },
     "kind": "dated",
-    "schedule_text": "",
+    "schedule_text": "Sa, 9.30–11.00 h and 11.15–12.45 h",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -3824,55 +3341,6 @@
     "flags": {
       "anmeldung": true,
       "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Babymassage",
-    "start": "2026-09-07T09:45+02:00",
-    "end": "2026-09-07T10:45+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/52/babymassage/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Spielen mit Wasser \"Götsche & Pflotsche\"",
-    "start": "2026-09-07T15:00+02:00",
-    "end": "2026-09-07T16:45+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/300/spielen-mit-wasser-goetsche-pflotsche/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
     },
     "kind": "dated",
     "schedule_text": "",
@@ -3904,6 +3372,29 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Abenteuer Stadtdschungel",
+    "start": "2026-09-09T09:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/abenteuer-stadtdschungel",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kosten",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "09.09.2026",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kafi Plus Herbstbasteln",
@@ -3976,6 +3467,29 @@
   },
   {
     "title": "Kinderbetreuung am Abend am 11. September 2026",
+    "start": "2026-09-11T11:09+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-abend-september-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "11.09.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 11. September 2026",
     "start": "2026-09-11T17:00+02:00",
     "end": null,
     "location": "Zentrum ELCH Accu",
@@ -4019,32 +3533,6 @@
     "is_new": false
   },
   {
-    "title": "Femmes-Tische «Spanisch»",
-    "start": "2026-09-17T14:00+02:00",
-    "end": "2026-09-17T16:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/42/femmes-tische-spanisch/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "gratis",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Kinderbetreuung am Abend am 18. September 2026",
     "start": "2026-09-18T17:00+02:00",
     "end": null,
@@ -4063,30 +3551,6 @@
     },
     "kind": "dated",
     "schedule_text": "17.00–21 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Innenwelten: Das Haus",
-    "start": "2026-09-18T19:00+02:00",
-    "end": "2026-09-18T21:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/306/innenwelten-das-haus/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
     "description": "",
     "is_new": false
   },
@@ -4151,31 +3615,6 @@
     ],
     "flags": {
       "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Gut vorbereitet für Kindergarten und Schule",
-    "start": "2026-09-19T14:00+02:00",
-    "end": "2026-09-19T15:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/316/gut-vorbereitet-fuer-kindergarten-und-schule/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
@@ -4252,29 +3691,26 @@
     "is_new": false
   },
   {
-    "title": "Theater-Karussell \"Geisterstunde\"",
-    "start": "2026-09-20T11:00+02:00",
-    "end": "2026-09-20T11:45+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/312/theater-karussell-geisterstunde/",
+    "title": "Bücherwurm",
+    "start": "2026-09-21T00:00+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/buecherwurm",
     "tags": [
       "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
       "familie",
-      "kosten"
+      "gratis"
     ],
     "flags": {
       "anmeldung": true,
-      "gratis": false
+      "gratis": true
     },
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Zentrumsfest im Zentrum ELCH Frieden",
@@ -4322,18 +3758,17 @@
     "is_new": false
   },
   {
-    "title": "Väter-Kinder-Frühstück",
-    "start": "2026-09-26T09:00+02:00",
-    "end": "2026-09-26T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/6/vaeter-kinder-fruehstueck/",
+    "title": "Kinderbetreuung am Abend am 2. Oktober 2026",
+    "start": "2026-10-02T02:10+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-abend-2oktober-reg",
     "tags": [
       "anmeldung",
-      "baby",
-      "eltern",
       "familie",
+      "kleinkind",
       "kosten"
     ],
     "flags": {
@@ -4341,33 +3776,9 @@
       "gratis": false
     },
     "kind": "dated",
-    "schedule_text": "",
+    "schedule_text": "02.10.2026",
     "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Innenwelten: Die Übernehmerin",
-    "start": "2026-09-26T19:00+02:00",
-    "end": "2026-09-26T21:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/307/innenwelten-die-uebernehmerin/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Pilates Mattentraining mit Baby-/Kinderbetreuung",
@@ -4419,16 +3830,39 @@
     "is_new": false
   },
   {
-    "title": "Frühe Ausdrucksformen -  Baby-Signale verstehen",
-    "start": "2026-10-07T09:30+02:00",
-    "end": "2026-10-07T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/270/fruehe-ausdrucksformen-baby-signale-verstehen/",
+    "title": "Kinderbetreuung in den Herbstferien",
+    "start": "2026-10-09T09:10+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-herbstferien-reg",
     "tags": [
       "anmeldung",
-      "baby",
+      "familie",
+      "kleinkind",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Mo, 05. – Fr, 09.10.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Kafi Plus Geschichtenzeit im Oktober",
+    "start": "2026-10-19T19:10+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/geschichtenzeit-oktober-reg",
+    "tags": [
+      "anmeldung",
       "eltern",
       "familie",
       "gratis"
@@ -4438,107 +3872,9 @@
       "gratis": true
     },
     "kind": "dated",
-    "schedule_text": "",
+    "schedule_text": "19.10.2026",
     "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Herbst-Singen",
-    "start": "2026-10-08T15:00+02:00",
-    "end": "2026-10-08T16:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/315/herbst-singen/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "BilderBuchZeit",
-    "start": "2026-10-14T16:00+02:00",
-    "end": "2026-10-14T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/247/bilderbuchzeit/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Mama werden, Frau bleiben",
-    "start": "2026-10-15T14:00+02:00",
-    "end": "2026-10-15T15:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/318/mama-werden-frau-bleiben/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Klanggeschichte",
-    "start": "2026-10-16T14:30+02:00",
-    "end": "2026-10-16T15:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/245/klanggeschichte/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Erzähltheater: Hexengeschichte",
@@ -4565,6 +3901,30 @@
     "is_new": false
   },
   {
+    "title": "Kasperli-Theater im Oktober",
+    "start": "2026-10-21T21:10+02:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kasperli-theater-oktober-reg",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "21.10.2026",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Waldatelier",
     "start": "2026-10-21T21:10+02:00",
     "end": null,
@@ -4589,30 +3949,6 @@
     "is_new": false
   },
   {
-    "title": "Näher – Ein Abend für Paare",
-    "start": "2026-10-23T19:00+02:00",
-    "end": "2026-10-23T21:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/308/naeher-ein-abend-fuer-paare/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Mini-Labor Zauberei",
     "start": "2026-10-23T23:10+02:00",
     "end": null,
@@ -4631,79 +3967,6 @@
     },
     "kind": "dated",
     "schedule_text": "23.10.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Winterset nähen: Beanie & Loop",
-    "start": "2026-10-24T09:00+02:00",
-    "end": "2026-10-24T12:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/276/winterset-naehen-beanie-loop/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "familie",
-      "kosten",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Eltern-Kind Bewegung & Tanz",
-    "start": "2026-10-24T10:00+02:00",
-    "end": "2026-10-24T10:45+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/228/eltern-kind-bewegung-tanz/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Mein Kind ist noch nicht trocken",
-    "start": "2026-10-31T14:00+01:00",
-    "end": "2026-10-31T15:30+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/317/mein-kind-ist-noch-nicht-trocken/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
     "description": "",
     "is_new": false
   },
@@ -4755,19 +4018,17 @@
     "is_new": false
   },
   {
-    "title": "Theater-Workshop \"Tiere\"",
-    "start": "2026-11-13T15:00+01:00",
-    "end": "2026-11-13T16:30+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/313/theater-workshop-tiere/",
+    "title": "Kinderbetreuung am Abend am 20. November 2026",
+    "start": "2026-11-20T20:11+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-abend-november-reg",
     "tags": [
       "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
       "familie",
+      "kleinkind",
       "kosten"
     ],
     "flags": {
@@ -4775,33 +4036,9 @@
       "gratis": false
     },
     "kind": "dated",
-    "schedule_text": "",
+    "schedule_text": "20.11.2026",
     "description": "",
-    "is_new": false
-  },
-  {
-    "title": "„Zwischen Wäsche, Wut und Wünschen“",
-    "start": "2026-11-14T13:30+01:00",
-    "end": "2026-11-14T16:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/294/zwischen-waesche-wut-und-wuenschen/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Adventsfest mit Samichlaus",
@@ -4826,29 +4063,27 @@
     "is_new": false
   },
   {
-    "title": "Trage-Kafi",
-    "start": "2026-12-05T10:00+01:00",
-    "end": "2026-12-05T12:00+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/54/trage-kafi/",
+    "title": "Kinderbetreuung am Abend am 11. Dezember 2026",
+    "start": "2026-12-11T11:12+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-abend-dezember-reg",
     "tags": [
       "anmeldung",
-      "baby",
-      "eltern",
       "familie",
-      "kosten",
-      "outdoor"
+      "kleinkind",
+      "kosten"
     ],
     "flags": {
       "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
-    "schedule_text": "",
+    "schedule_text": "11.12.2026",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Weihnachtsbacken",
@@ -4873,6 +4108,29 @@
     "is_new": false
   },
   {
+    "title": "Kinderbetreuung am Abend am 15. Januar 2027",
+    "start": "2027-01-15T15:01+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-abend-januar-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "15.01.2027",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kafi Plus Kasperli-Theater im Januar",
     "start": "2027-01-23T23:01+01:00",
     "end": null,
@@ -4893,6 +4151,29 @@
     "schedule_text": "23.01.2027",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung am Abend am 5. Februar 2027",
+    "start": "2027-02-05T05:02+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderbetreuung-abend-februar-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "05.02.2027",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kafi Plus Fasnacht",
@@ -4916,6 +4197,32 @@
     "schedule_text": "10.02.2027",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kinderbetreuung in den Sportferien",
+    "start": "2027-02-26T08:30+01:00",
+    "end": "2027-02-26T11:30+01:00",
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kibe-sportferien-frieden",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis",
+      "kosten",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Montag bis Donnerstag, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kafi Plus Frühlingsbasteln",
@@ -4986,28 +4293,6 @@
     "is_new": false
   },
   {
-    "title": "AtoZ English",
-    "start": null,
-    "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/66/atoz-english/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "recurring",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "AtoZ English – For Native and Non-Native Speaking Children",
     "start": null,
     "end": null,
@@ -5051,29 +4336,6 @@
     },
     "kind": "recurring",
     "schedule_text": "Di, 14.00-15.00 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Babysittervermittlung",
-    "start": null,
-    "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/59/babysittervermittlung/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "recurring",
-    "schedule_text": "",
     "description": "",
     "is_new": false
   },
@@ -5170,6 +4432,28 @@
     "schedule_text": "Di, 16.45–17.30 Uhr",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Community Yoga",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/community-yoga-frieden",
+    "tags": [
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Fr, 18.15–19.15 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Copilot Infocafé – Eltern & Schule",
@@ -5482,30 +4766,6 @@
     },
     "kind": "recurring",
     "schedule_text": "Di, 9.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Gesprächsgruppe «Schmetterlingsseelen»",
-    "start": null,
-    "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/57/gespraechsgruppe-schmetterlingsseelen/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "recurring",
-    "schedule_text": "",
     "description": "",
     "is_new": false
   },
@@ -5965,28 +5225,6 @@
     "is_new": false
   },
   {
-    "title": "Kinderbrocki",
-    "start": null,
-    "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/25/kinderbrocki/",
-    "tags": [
-      "baby",
-      "eltern",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "recurring",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Kindergeburtstag im Kafi Plus",
     "start": null,
     "end": null,
@@ -6112,11 +5350,12 @@
     "location": "Zentrum ELCH Frieden",
     "source": "Zentrum ELCH",
     "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/krabbelgruppe",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/krabbelgruppe-frieden",
     "tags": [
       "anmeldung",
       "baby",
       "bewegung",
+      "eltern",
       "familie",
       "gratis",
       "kleinkind",
@@ -6129,7 +5368,7 @@
     "kind": "recurring",
     "schedule_text": "Fr, 9.30–11.00 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Lernstube",
@@ -6203,13 +5442,13 @@
     "is_new": false
   },
   {
-    "title": "Lernstube «Bewerbungswerkstatt» (nur mit Anmeldung)",
+    "title": "Lernstube «Bewerbungsunterstützung» (nur mit Anmeldung)",
     "start": null,
     "end": null,
     "location": "Zentrum ELCH Regensbergstrasse",
     "source": "Zentrum ELCH",
     "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-bewerbungswerkstatt",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-bewerbungsunterstuetzung-reg",
     "tags": [
       "anmeldung",
       "familie",
@@ -6222,16 +5461,16 @@
     "kind": "recurring",
     "schedule_text": "Dienstag, 14.00–17.00 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
-    "title": "Lernstube «Computer & Handy im Alltag»",
+    "title": "Lernstube «Computer & Handy»",
     "start": null,
     "end": null,
     "location": "Zentrum ELCH CeCe-Areal",
     "source": "Zentrum ELCH",
     "center": "ELCH CeCe-Areal",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-computer-handy-im-alltag-cece",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-computer-handy-cece",
     "tags": [
       "anmeldung",
       "familie",
@@ -6244,16 +5483,16 @@
     "kind": "recurring",
     "schedule_text": "Mi, 11.45–14.45 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
-    "title": "Lernstube «Computer & Handy im Alltag»",
+    "title": "Lernstube «Computer & Handy»",
     "start": null,
     "end": null,
     "location": "Zentrum ELCH Regensbergstrasse",
     "source": "Zentrum ELCH",
     "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-computer-handy-im-alltag-regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-computer-handy-reg",
     "tags": [
       "anmeldung",
       "familie",
@@ -6266,7 +5505,7 @@
     "kind": "recurring",
     "schedule_text": "Donnerstag, 14.00–17.00 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Lernstube «Lesen & Schreiben»",
@@ -6359,6 +5598,30 @@
     "is_new": false
   },
   {
+    "title": "Mama Core & Pelvic Floor – Kraft für den Alltag mit Baby",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/mama-core-pelvic-floor-reg",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Di, 9.30–10.30 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Melodica (Keyboard Harmonica) für Anfänger",
     "start": null,
     "end": null,
@@ -6382,27 +5645,28 @@
     "is_new": false
   },
   {
-    "title": "Mentale Geburtsvorbereitung mit HypnoBirthing®",
+    "title": "Mini-Karate",
     "start": null,
     "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/34/mentale-geburtsvorbereitung-mit-hypnobirthing/",
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/mini-karate-frieden",
     "tags": [
       "anmeldung",
-      "baby",
+      "bewegung",
       "eltern",
-      "familie"
+      "familie",
+      "kosten"
     ],
     "flags": {
       "anmeldung": true,
       "gratis": false
     },
     "kind": "recurring",
-    "schedule_text": "",
+    "schedule_text": "Mo, 10.45–11.30 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Mini-Spielmobil",
@@ -6451,31 +5715,6 @@
     },
     "kind": "recurring",
     "schedule_text": "Di, 14.00–18.00 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Mütter- und Väterberatung",
-    "start": null,
-    "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/53/muetter-und-vaeterberatung/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "gratis",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "recurring",
-    "schedule_text": "",
     "description": "",
     "is_new": false
   },
@@ -6575,28 +5814,6 @@
     "is_new": false
   },
   {
-    "title": "Russische Gruppe «Umka»",
-    "start": null,
-    "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/68/russische-gruppe-umka/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "recurring",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Russischunterricht für zweisprachige Kinder (HSK)",
     "start": null,
     "end": null,
@@ -6663,28 +5880,6 @@
     },
     "kind": "recurring",
     "schedule_text": "Mo, 20.00–20.50 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "SPIELwiese",
-    "start": null,
-    "end": null,
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/286/spielwiese/",
-    "tags": [
-      "baby",
-      "familie",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "recurring",
-    "schedule_text": "",
     "description": "",
     "is_new": false
   },
@@ -6900,7 +6095,7 @@
       "gratis": true
     },
     "kind": "recurring",
-    "schedule_text": "Mo–Do, 8.30–11.00 Uhr",
+    "schedule_text": "Di+Do, 8.30–11.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -7153,6 +6348,7 @@
     "tags": [
       "anmeldung",
       "bewegung",
+      "eltern",
       "familie",
       "kosten"
     ],
