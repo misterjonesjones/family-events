@@ -290,27 +290,6 @@
     "is_new": false
   },
   {
-    "title": "Ausverkauf im Secondhandshop",
-    "start": "2026-08-17T08:30+02:00",
-    "end": "2026-08-17T11:30+02:00",
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/sommerausverkauf-secondhandshop",
-    "tags": [
-      "anmeldung",
-      "familie"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Montag, Mittwoch und Freitag, 8.30–11.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Aerobic Kids",
     "start": "2026-08-18T17:30+02:00",
     "end": "2026-08-18T18:30+02:00",
@@ -1282,31 +1261,6 @@
     "is_new": false
   },
   {
-    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
-    "start": "2026-09-07T08:45+02:00",
-    "end": "2026-09-07T09:40+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-09-07T09:00+02:00",
     "end": "2026-09-07T11:00+02:00",
@@ -1479,6 +1433,31 @@
     "is_new": false
   },
   {
+    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
+    "start": "2026-09-08T08:45+02:00",
+    "end": "2026-09-08T09:40+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-09-08T09:00+02:00",
     "end": "2026-09-08T09:50+02:00",
@@ -1517,31 +1496,6 @@
     },
     "kind": "dated",
     "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "PEKiP® für dich und dein Kind (Start im Herbst)",
-    "start": "2026-09-08T09:30+02:00",
-    "end": "2026-09-08T11:00+02:00",
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-herbst",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -1879,6 +1833,24 @@
     "is_new": false
   },
   {
+    "title": "Kaffeebar im Atrium",
+    "start": "2026-09-10T09:00+02:00",
+    "end": "2026-09-10T11:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-09-10T09:00+02:00",
     "end": "2026-09-10T11:00+02:00",
@@ -1897,6 +1869,44 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Music Together",
+    "start": "2026-09-10T09:00+02:00",
+    "end": "2026-09-10T10:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Rollender Donnerstag",
+    "start": "2026-09-10T09:00+02:00",
+    "end": "2026-09-10T11:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Babys entdecken die Welt",
@@ -2053,6 +2063,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Stallerlebnis Donnerstag 2026",
+    "start": "2026-09-10T14:00+02:00",
+    "end": "2026-09-10T15:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -2237,29 +2267,6 @@
     "source": "Zentrum ELCH",
     "center": "ELCH Frieden",
     "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/figurentheater-winterthur-auffuehrung-1-schweizer-dialekt",
-    "tags": [
-      "anmeldung",
-      "bewegung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "11.09.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Figurentheater zum Mitmachen Aufführung 2: Hochdeutsch",
-    "start": "2026-09-11T11:09+02:00",
-    "end": null,
-    "location": "Zentrum ELCH Frieden",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/figurentheater-winterthur-auffuehrung-2-hochdeutsch",
     "tags": [
       "anmeldung",
       "bewegung",
@@ -2567,6 +2574,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "PEKiP® für dich und dein Kind (Start im Herbst)",
+    "start": "2026-09-15T09:30+02:00",
+    "end": "2026-09-15T11:00+02:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-herbst",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -6615,7 +6647,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Min­i­Move Schlieren",
@@ -7067,6 +7099,28 @@
     "kind": "dated",
     "schedule_text": "11.01.2027",
     "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Briobahn Abenteuer im Kafi Plus",
+    "start": "2027-01-15T15:01+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/briobahn-reg",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "15.01.2027",
+    "description": "",
     "is_new": true
   },
   {
@@ -7157,6 +7211,30 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Kasperli-Theater im Januar",
+    "start": "2027-01-20T20:01+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kasperli-theater-jan-reg",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "20.01.2027",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Mini-Labor: Farben",
@@ -7314,6 +7392,29 @@
     "is_new": false
   },
   {
+    "title": "Kafi Plus Geschichtenzeit im Februar",
+    "start": "2027-02-01T01:02+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/geschichtenzeit-feb-reg",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "01.02.2027",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kinder-Atelier: Masken",
     "start": "2027-02-03T03:02+01:00",
     "end": null,
@@ -7426,6 +7527,29 @@
     "schedule_text": "10.02.2027",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Fasnachtsparty",
+    "start": "2027-02-10T10:02+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kinderfasnacht-1",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "10.02.2027",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kafi Plus Fasnacht",
@@ -7610,6 +7734,30 @@
     "is_new": false
   },
   {
+    "title": "Kasperli-Theater im März",
+    "start": "2027-03-10T10:03+01:00",
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/kasperli-theater-mrz-reg",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "10.03.2027",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kinderbetreuung am Abend am 13. März 2027",
     "start": "2027-03-13T13:03+01:00",
     "end": null,
@@ -7785,6 +7933,27 @@
     "schedule_text": "Wednesday, between 13.30 and 18.45 h",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Ausverkauf im Secondhandshop",
+    "start": null,
+    "end": null,
+    "location": "Zentrum ELCH Regensbergstrasse",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Regensbergstrasse",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/sommerausverkauf-secondhandshop",
+    "tags": [
+      "anmeldung",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "Montag, Mittwoch und Freitag, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Babymassage",
