@@ -3729,24 +3729,6 @@
     "is_new": false
   },
   {
-    "title": "Madame Frigo Altstetten",
-    "start": "2026-09-26T00:00+02:00",
-    "end": "2026-09-26T23:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Samariterkurse «Notfälle bei KleinkindernPLUS»",
     "start": "2026-09-26T08:00+02:00",
     "end": "2026-09-26T12:00+02:00",
@@ -3759,30 +3741,6 @@
     ],
     "flags": {
       "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Elternkurs: mit Gelassenheit erziehen (nach STEP)",
-    "start": "2026-09-26T08:30+02:00",
-    "end": "2026-09-26T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
       "gratis": false
     },
     "kind": "dated",
@@ -3809,26 +3767,6 @@
     "is_new": false
   },
   {
-    "title": "Resilienz-Wochen",
-    "start": "2026-09-26T09:00+02:00",
-    "end": "2026-09-26T18:00+02:00",
-    "location": "GZ Heuried",
-    "source": "GZ Zürich",
-    "center": "GZ Heuried",
-    "url": "https://gz-zh.ch/gz-heuried/programm/",
-    "tags": [
-      "eltern"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Väter-Kinder-Frühstück",
     "start": "2026-09-26T09:00+02:00",
     "end": "2026-09-26T11:00+02:00",
@@ -3837,165 +3775,6 @@
     "center": "Karussell Baden",
     "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
     "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "selbstständige Werkstattnutzung-SWN",
-    "start": "2026-09-26T09:00+02:00",
-    "end": "2026-09-26T22:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Kreativ-weekend Kids & Teen",
-    "start": "2026-09-26T10:30+02:00",
-    "end": "2026-09-26T12:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Raku-Kurs",
-    "start": "2026-09-26T11:00+02:00",
-    "end": "2026-09-26T16:00+02:00",
-    "location": "GZ Bachwiesen",
-    "source": "GZ Zürich",
-    "center": "GZ Bachwiesen",
-    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "CNC-Frässtudio",
-    "start": "2026-09-26T14:00+02:00",
-    "end": "2026-09-26T18:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Geräteausleihe Sharely",
-    "start": "2026-09-26T14:00+02:00",
-    "end": "2026-09-26T17:30+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Leihservice E-Lastenrad",
-    "start": "2026-09-26T14:00+02:00",
-    "end": "2026-09-26T18:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Offene Holzwerkstatt … Fr + Sa",
-    "start": "2026-09-26T14:00+02:00",
-    "end": "2026-09-26T18:00+02:00",
-    "location": "GZ Loogarten",
-    "source": "GZ Zürich",
-    "center": "GZ Loogarten",
-    "url": "https://gz-zh.ch/gz-loogarten/programm/",
-    "tags": [
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
-    "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
-    "start": "2026-09-26T19:00+02:00",
-    "end": "2026-09-26T21:30+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/",
-    "tags": [
-      "baby",
-      "eltern",
-      "familie",
-      "kleinkind"
-    ],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -4022,6 +3801,64 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Madame Frigo Altstetten",
+    "start": "2026-09-27T00:00+02:00",
+    "end": "2026-09-27T23:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Resilienz-Wochen",
+    "start": "2026-09-27T09:00+02:00",
+    "end": "2026-09-27T18:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "selbstständige Werkstattnutzung-SWN",
+    "start": "2026-09-27T09:00+02:00",
+    "end": "2026-09-27T22:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Flohmarkt für Kindersachen",
@@ -4093,7 +3930,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Queerfeministischer Lesekreis",
@@ -4136,7 +3973,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "SPIELGRUPPEN 26 / 27",
@@ -4156,7 +3993,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spielgruppe „Les Zébulons“",
@@ -4176,7 +4013,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -4292,7 +4129,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Tüftelatelier für Kleinkinder",
@@ -4353,7 +4190,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Rückbildungs-Pilates – mit Babybetreuung",
@@ -4391,6 +4228,42 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Geräteausleihe Sharely",
+    "start": "2026-09-28T14:00+02:00",
+    "end": "2026-09-28T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Leihservice E-Lastenrad",
+    "start": "2026-09-28T14:00+02:00",
+    "end": "2026-09-28T17:30+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
     "is_new": true
   },
   {
@@ -4409,7 +4282,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Stress-und Spannung mit TRE® lösen",
@@ -5153,7 +5026,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Krimi- und Romanbibliothek",
@@ -5173,7 +5046,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Offenes Spielzimmer",
@@ -5191,7 +5064,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sprach-Café Deutsch",
@@ -5209,7 +5082,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kindertanzen VorKiga & 1. Kiga",
@@ -5249,7 +5122,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Offenes Werkatelier",
@@ -5269,7 +5142,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Schul- und Kinderbibliothek",
@@ -5289,7 +5162,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Treffpunktcafé",
@@ -5347,7 +5220,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Tiere hautnah: Di, 16:00–18:00 Uhr",
@@ -5365,7 +5238,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Wild und Brav",
@@ -5425,7 +5298,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Spanisch für Kinder",
@@ -5443,7 +5316,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "OFFENES KERAMIKATELIER",
@@ -5456,6 +5329,82 @@
     "tags": [
       "kreativ"
     ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Fullbody HIT",
+    "start": "2026-09-29T18:30+02:00",
+    "end": "2026-09-29T19:25+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Rücken Pilates",
+    "start": "2026-09-29T18:30+02:00",
+    "end": "2026-09-29T19:45+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Schach spielen",
+    "start": "2026-09-29T18:30+02:00",
+    "end": "2026-09-29T20:30+02:00",
+    "location": "GZ Bachwiesen",
+    "source": "GZ Zürich",
+    "center": "GZ Bachwiesen",
+    "url": "https://gz-zh.ch/gz-bachwiesen/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Sprach-Café Französisch",
+    "start": "2026-09-29T19:00+02:00",
+    "end": "2026-09-29T20:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
     "flags": {
       "anmeldung": false,
       "gratis": false
@@ -5756,6 +5705,53 @@
     "is_new": false
   },
   {
+    "title": "Elternkurs: mit Gelassenheit erziehen (nach STEP)",
+    "start": "2026-10-07T08:30+02:00",
+    "end": "2026-10-07T11:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
+    "start": "2026-10-07T09:30+02:00",
+    "end": "2026-10-07T11:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/",
+    "tags": [
+      "baby",
+      "eltern",
+      "familie",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Frühe Ausdrucksformen -  Baby-Signale verstehen",
     "start": "2026-10-07T09:30+02:00",
     "end": "2026-10-07T11:00+02:00",
@@ -5997,6 +5993,30 @@
     "schedule_text": "Mo, 12. – Fr, 16.10.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Väter-Kinder-Frühstück",
+    "start": "2026-10-17T09:00+02:00",
+    "end": "2026-10-17T11:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/7/vaeter-kinder-fruehstueck/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Reunión de Lactancia en Español",
@@ -6296,7 +6316,7 @@
     "kind": "dated",
     "schedule_text": "Sa, 9.30–11.00 h and 11.15–12.45 h",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind Bewegung & Tanz",
@@ -6417,7 +6437,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Tanzen rund um Elemente aus der Natur",
@@ -7391,6 +7411,30 @@
     "schedule_text": "20.11.2026",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Samariterkurse «Notfälle bei KleinkindernPLUS»",
+    "start": "2026-11-21T08:00+01:00",
+    "end": "2026-11-21T12:00+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/288/samariterkurse-notfaelle-bei-kleinkindernplus/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Min­i­Move Kap­peli",
