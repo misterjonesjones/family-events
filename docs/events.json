@@ -1,12 +1,12 @@
 [
   {
-    "title": "Beratungstreff für mehrsprachige Familien",
+    "title": "Mehrsprachig aufwachsen",
     "start": "2024-02-22T09:30+01:00",
     "end": "2024-02-22T11:30+01:00",
     "location": "Karussell Familienzentrum Region Baden",
     "source": "Karussell Baden",
     "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/206/beratungstreff-fuer-mehrsprachige-familien/",
+    "url": "https://www.karussell-baden.ch/angebote/event/206/mehrsprachig-aufwachsen/",
     "tags": [
       "anmeldung",
       "baby",
@@ -21,7 +21,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Kinderbetreuung in den Herbstferien",
@@ -987,55 +987,6 @@
     "is_new": false
   },
   {
-    "title": "Elternkurs: mit Gelassenheit erziehen (nach STEP)",
-    "start": "2026-10-07T08:30+02:00",
-    "end": "2026-10-07T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
-    "start": "2026-10-07T08:45+02:00",
-    "end": "2026-10-07T09:40+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-10-07T09:00+02:00",
     "end": "2026-10-07T11:00+02:00",
@@ -1045,29 +996,6 @@
     "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
     "tags": [
       "baby"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
-    "start": "2026-10-07T09:30+02:00",
-    "end": "2026-10-07T11:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/",
-    "tags": [
-      "baby",
-      "eltern",
-      "familie",
-      "kleinkind"
     ],
     "flags": {
       "anmeldung": false,
@@ -1135,6 +1063,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
+    "start": "2026-10-08T08:45+02:00",
+    "end": "2026-10-08T09:40+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -1471,7 +1424,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Sneaker Design",
@@ -1667,6 +1620,26 @@
     "is_new": false
   },
   {
+    "title": "Erwachsenen-Vertikaltuch-Kurs",
+    "start": "2026-10-12T19:45+02:00",
+    "end": "2026-10-12T21:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Begleiteter Bewegungsraum",
     "start": "2026-10-13T09:00+02:00",
     "end": "2026-10-13T12:00+02:00",
@@ -1809,6 +1782,24 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Offenes Spielzimmer",
+    "start": "2026-10-13T14:00+02:00",
+    "end": "2026-10-13T17:30+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
     "is_new": true
   },
   {
@@ -1906,7 +1897,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
@@ -2021,6 +2012,24 @@
     "is_new": false
   },
   {
+    "title": "Jugendtreff Mittwoch",
+    "start": "2026-10-14T15:00+02:00",
+    "end": "2026-10-14T18:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Kinderbrocki",
     "start": "2026-10-14T15:00+02:00",
     "end": "2026-10-14T16:30+02:00",
@@ -2093,6 +2102,51 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Elternkurs: mit Gelassenheit erziehen (nach STEP)",
+    "start": "2026-10-15T08:30+02:00",
+    "end": "2026-10-15T11:00+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/29/elternkurs-mit-gelassenheit-erziehen-nach-step/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Familienberatung",
+    "start": "2026-10-15T09:00+02:00",
+    "end": "2026-10-15T12:00+02:00",
+    "location": "GZ Heuried",
+    "source": "GZ Zürich",
+    "center": "GZ Heuried",
+    "url": "https://gz-zh.ch/gz-heuried/programm/",
+    "tags": [
+      "eltern",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Krabbelgruppe \"Karussell\"",
@@ -2213,6 +2267,29 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Elternrunde: Elternbildung Bezirk Baden/Wettingen",
+    "start": "2026-10-15T14:00+02:00",
+    "end": "2026-10-15T15:30+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/155/elternrunde-elternbildung-bezirk-baden-wettingen/",
+    "tags": [
+      "baby",
+      "eltern",
+      "familie",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Flickservice",
@@ -2360,7 +2437,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Mütter- und Väterberatung",
@@ -2437,6 +2514,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Tanzen rund um Elemente aus der Natur",
+    "start": "2026-10-16T14:30+02:00",
+    "end": "2026-10-16T15:30+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/269/tanzen-rund-um-elemente-aus-der-natur/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Briobahn-Nachmittag",
@@ -2524,6 +2626,26 @@
     "title": "Kindertheater: «Die Schatzinsel»",
     "start": "2026-10-16T17:30+02:00",
     "end": "2026-10-16T19:00+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": false
+  },
+  {
+    "title": "Pizza with a cop",
+    "start": "2026-10-16T18:30+02:00",
+    "end": "2026-10-16T21:30+02:00",
     "location": "GZ Loogarten",
     "source": "GZ Zürich",
     "center": "GZ Loogarten",
@@ -2717,6 +2839,26 @@
     "is_new": false
   },
   {
+    "title": "SPIELGRUPPEN 26 / 27",
+    "start": "2026-10-19T08:45+02:00",
+    "end": "2026-10-19T11:45+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Spielgruppe „Les Zébulons“",
     "start": "2026-10-19T08:45+02:00",
     "end": "2026-10-19T11:45+02:00",
@@ -2775,6 +2917,26 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "YOGA AM MORGEN – ZEIT FÜR DICH",
+    "start": "2026-10-19T09:15+02:00",
+    "end": "2026-10-19T10:15+02:00",
+    "location": "GZ Loogarten",
+    "source": "GZ Zürich",
+    "center": "GZ Loogarten",
+    "url": "https://gz-zh.ch/gz-loogarten/programm/",
+    "tags": [
+      "bewegung"
+    ],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Musigzwergli",
@@ -2951,7 +3113,7 @@
     "kind": "dated",
     "schedule_text": "",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbrocki",
@@ -4052,6 +4214,31 @@
     "is_new": false
   },
   {
+    "title": "Günstige Online-Inputs für Eltern",
+    "start": "2026-10-23T20:15+02:00",
+    "end": "2026-10-23T22:15+02:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/259/guenstige-online-inputs-fuer-eltern/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Mini-Labor Zauberei",
     "start": "2026-10-23T23:10+02:00",
     "end": null,
@@ -5070,26 +5257,6 @@
     "is_new": false
   },
   {
-    "title": "Tanzen rund um Elemente aus der Natur",
-    "start": "2026-10-30T15:00+01:00",
-    "end": "2026-10-30T15:45+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
-    "tags": [
-      "bewegung"
-    ],
-    "flags": {
-      "anmeldung": false,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Treffpunktcafé",
     "start": "2026-10-30T15:00+01:00",
     "end": "2026-10-30T17:00+01:00",
@@ -5106,6 +5273,24 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Wie sehen wir die Welt gemeinsam?",
+    "start": "2026-10-30T15:00+01:00",
+    "end": "2026-10-30T15:45+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/jahresprogramm/",
+    "tags": [],
+    "flags": {
+      "anmeldung": false,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Kinderbetreuung am Abend am 30. Oktober 2026",
@@ -9724,6 +9909,29 @@
     "schedule_text": "Mo, 15.30–17.30 Uhr",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Psychosoziale Beratung für Menschen mit Fluchterfahrung",
+    "start": null,
+    "end": null,
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/325/psychosoziale-beratung-fuer-menschen-mit-fluchterfahrung/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "eltern",
+      "familie"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "recurring",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Russisch für Kinder",
