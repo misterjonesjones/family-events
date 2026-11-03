@@ -313,30 +313,6 @@
     "is_new": false
   },
   {
-    "title": "Kafi Plus Frieden",
-    "start": "2026-08-22T14:30+02:00",
-    "end": "2026-08-22T17:30+02:00",
-    "location": "Zentrum ELCH Frieden",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-frieden",
-    "tags": [
-      "anmeldung",
-      "eltern",
-      "familie",
-      "kreativ",
-      "outdoor"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Mo–Fr, 14.30–17.30 Uhr | Selbstbedienung Mo–Fr, 8.30–11.30 Uhr",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Schenk mir eine Geschichte Ukrainisch",
     "start": "2026-08-26T15:30+02:00",
     "end": "2026-08-26T17:00+02:00",
@@ -645,28 +621,6 @@
     "is_new": false
   },
   {
-    "title": "Räben schnitzen",
-    "start": "2026-11-02T02:11+01:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/raeben-schnitzen",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "02.11.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Frauen-Deutschkurs mit Kinderbetreuung",
     "start": "2026-11-02T08:20+01:00",
     "end": "2026-11-02T09:50+01:00",
@@ -862,6 +816,31 @@
     "is_new": false
   },
   {
+    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
+    "start": "2026-11-03T08:45+01:00",
+    "end": "2026-11-03T09:40+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-11-03T09:00+01:00",
     "end": "2026-11-03T09:50+01:00",
@@ -900,31 +879,6 @@
     },
     "kind": "dated",
     "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "PEKiP® für dich und dein Kind (Start im Winter)",
-    "start": "2026-11-03T09:30+01:00",
-    "end": "2026-11-03T11:00+01:00",
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-winter",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "familie",
-      "kleinkind",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
     "is_new": false
   },
@@ -2122,6 +2076,31 @@
     "schedule_text": "",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "PEKiP® für dich und dein Kind (Start im Winter)",
+    "start": "2026-11-10T09:30+01:00",
+    "end": "2026-11-10T11:00+01:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/pekip-fuer-dich-und-dein-kind-start-im-winter",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "familie",
+      "kleinkind",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Di, 9.30–11.00 Uhr",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -4303,6 +4282,30 @@
     "is_new": false
   },
   {
+    "title": "Kafi Plus Frieden",
+    "start": "2026-11-21T14:30+01:00",
+    "end": "2026-11-21T17:30+01:00",
+    "location": "Zentrum ELCH Frieden",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Frieden",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/kafi-plus-frieden",
+    "tags": [
+      "anmeldung",
+      "eltern",
+      "familie",
+      "kreativ",
+      "outdoor"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "Mo–Fr, 14.30–17.30 Uhr | Selbstbedienung Mo–Fr, 8.30–11.30 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Min­i­Move Kap­peli",
     "start": "2026-11-22T14:30+01:00",
     "end": "2026-11-22T17:00+01:00",
@@ -5562,27 +5565,29 @@
     "is_new": false
   },
   {
-    "title": "Samichlaus am Feuer im Innenhof",
+    "title": "Samichlaus-Besuch",
     "start": "2026-12-02T02:12+01:00",
     "end": null,
     "location": "Zentrum ELCH Frieden",
     "source": "Zentrum ELCH",
     "center": "ELCH Frieden",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/samichlaus-am-feuer-im-innenhof",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/frieden/angebote/detail/samichlaus-frieden",
     "tags": [
       "anmeldung",
+      "bewegung",
       "familie",
+      "gratis",
       "kosten",
       "outdoor"
     ],
     "flags": {
       "anmeldung": true,
-      "gratis": false
+      "gratis": true
     },
     "kind": "dated",
     "schedule_text": "02.12.2026",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Samichlaus-Besuch",
@@ -6081,7 +6086,7 @@
     "kind": "dated",
     "schedule_text": "11.12.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 11. Dezember 2026",
@@ -6507,7 +6512,7 @@
     "kind": "dated",
     "schedule_text": "16.01.2027",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Kinderbetreuung am Abend am 16. Januar 2027",
