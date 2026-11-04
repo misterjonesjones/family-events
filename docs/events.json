@@ -480,30 +480,6 @@
     "is_new": false
   },
   {
-    "title": "Näh- und Flickatelier",
-    "start": "2026-10-01T14:00+02:00",
-    "end": "2026-10-01T17:00+02:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/26/naeh-und-flickatelier/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "familie",
-      "kosten",
-      "kreativ"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
     "title": "Pilates Mattentraining mit Baby-/Kinderbetreuung",
     "start": "2026-10-05T14:15+02:00",
     "end": "2026-10-05T15:15+02:00",
@@ -794,53 +770,6 @@
     "is_new": false
   },
   {
-    "title": "Räbenliechtli Umzug",
-    "start": "2026-11-03T03:11+01:00",
-    "end": null,
-    "location": "Zentrum ELCH Regensbergstrasse",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Regensbergstrasse",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/raebenliechtli-umzug-reg",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "03.11.2026",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
-    "start": "2026-11-03T08:45+01:00",
-    "end": "2026-11-03T09:40+01:00",
-    "location": "Karussell Familienzentrum Region Baden",
-    "source": "Karussell Baden",
-    "center": "Karussell Baden",
-    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
-    "tags": [
-      "anmeldung",
-      "baby",
-      "bewegung",
-      "eltern",
-      "familie",
-      "kosten"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": false
-    },
-    "kind": "dated",
-    "schedule_text": "",
-    "description": "",
-    "is_new": true
-  },
-  {
     "title": "Eltern-Kind-Turnen",
     "start": "2026-11-03T09:00+01:00",
     "end": "2026-11-03T09:50+01:00",
@@ -1042,6 +971,31 @@
     "is_new": false
   },
   {
+    "title": "Bewegung und Spiel für 0 bis 6-monatige Babys",
+    "start": "2026-11-04T08:45+01:00",
+    "end": "2026-11-04T09:40+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/310/bewegung-und-spiel-fuer-0-bis-6-monatige-babys/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "bewegung",
+      "eltern",
+      "familie",
+      "kosten"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Krabbelgruppe \"Karussell\"",
     "start": "2026-11-04T09:00+01:00",
     "end": "2026-11-04T11:00+01:00",
@@ -1193,29 +1147,6 @@
     },
     "kind": "dated",
     "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Kafi Plus Geschichtenzeit",
-    "start": "2026-11-04T16:00+01:00",
-    "end": "2026-11-04T16:30+01:00",
-    "location": "Zentrum ELCH CeCe-Areal",
-    "source": "Zentrum ELCH",
-    "center": "ELCH CeCe-Areal",
-    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis",
-      "kleinkind"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "dated",
-    "schedule_text": "Mi, 16.00–16.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -2100,7 +2031,7 @@
     "kind": "dated",
     "schedule_text": "Di, 9.30–11.00 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Eltern-Kind-Turnen",
@@ -3582,6 +3513,29 @@
     "is_new": false
   },
   {
+    "title": "Kafi Plus Geschichtenzeit",
+    "start": "2026-11-18T16:00+01:00",
+    "end": "2026-11-18T16:30+01:00",
+    "location": "Zentrum ELCH CeCe-Areal",
+    "source": "Zentrum ELCH",
+    "center": "ELCH CeCe-Areal",
+    "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/kafi-plus-geschichtenzeit-cece",
+    "tags": [
+      "anmeldung",
+      "familie",
+      "gratis",
+      "kleinkind"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Mi, 16.00–16.30 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Grittibänz backen",
     "start": "2026-11-18T18:11+01:00",
     "end": null,
@@ -4303,7 +4257,7 @@
     "kind": "dated",
     "schedule_text": "Mo–Fr, 14.30–17.30 Uhr | Selbstbedienung Mo–Fr, 8.30–11.30 Uhr",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Min­i­Move Kap­peli",
@@ -5587,7 +5541,7 @@
     "kind": "dated",
     "schedule_text": "02.12.2026",
     "description": "",
-    "is_new": true
+    "is_new": false
   },
   {
     "title": "Samichlaus-Besuch",
@@ -7079,6 +7033,29 @@
     "is_new": false
   },
   {
+    "title": "Anlaufstelle Wohnungssuche von Caritas Zürich",
+    "start": "2027-02-15T13:30+01:00",
+    "end": "2027-02-15T15:30+01:00",
+    "location": "Zentrum ELCH Accu",
+    "source": "Zentrum ELCH",
+    "center": "ELCH Accu",
+    "url": "https://zentrumelch.ch/angebote-accu/detail/anlaufstelle-wohnungssuche-von-caritas-zuerich",
+    "tags": [
+      "anmeldung",
+      "bewegung",
+      "familie",
+      "gratis"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": true
+    },
+    "kind": "dated",
+    "schedule_text": "Do, 13.30–15.30 Uhr",
+    "description": "",
+    "is_new": true
+  },
+  {
     "title": "Babysitting-Kurs",
     "start": "2027-02-21T09:00+01:00",
     "end": "2027-02-21T15:00+01:00",
@@ -7149,6 +7126,54 @@
     "schedule_text": "Montag bis Donnerstag, 8.30–11.30 Uhr",
     "description": "",
     "is_new": false
+  },
+  {
+    "title": "Wimpelkette nähen",
+    "start": "2027-02-27T09:00+01:00",
+    "end": "2027-02-27T12:00+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/329/wimpelkette-naehen/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
+  },
+  {
+    "title": "Näh- und Flickatelier",
+    "start": "2027-02-27T14:00+01:00",
+    "end": "2027-02-27T17:00+01:00",
+    "location": "Karussell Familienzentrum Region Baden",
+    "source": "Karussell Baden",
+    "center": "Karussell Baden",
+    "url": "https://www.karussell-baden.ch/angebote/event/26/naeh-und-flickatelier/",
+    "tags": [
+      "anmeldung",
+      "baby",
+      "familie",
+      "kosten",
+      "kreativ"
+    ],
+    "flags": {
+      "anmeldung": true,
+      "gratis": false
+    },
+    "kind": "dated",
+    "schedule_text": "",
+    "description": "",
+    "is_new": true
   },
   {
     "title": "Min­i­Move Kap­peli",
@@ -7418,28 +7443,6 @@
     },
     "kind": "recurring",
     "schedule_text": "",
-    "description": "",
-    "is_new": false
-  },
-  {
-    "title": "Anlaufstelle Wohnungssuche von Caritas Zürich",
-    "start": null,
-    "end": null,
-    "location": "Zentrum ELCH Accu",
-    "source": "Zentrum ELCH",
-    "center": "ELCH Accu",
-    "url": "https://zentrumelch.ch/angebote-accu/detail/anlaufstelle-wohnungssuche-von-caritas-zuerich",
-    "tags": [
-      "anmeldung",
-      "familie",
-      "gratis"
-    ],
-    "flags": {
-      "anmeldung": true,
-      "gratis": true
-    },
-    "kind": "recurring",
-    "schedule_text": "Do, 13.30–15.30 Uhr",
     "description": "",
     "is_new": false
   },
@@ -8871,7 +8874,7 @@
     "is_new": false
   },
   {
-    "title": "Lernstube «Schreibdienst & Beratung»",
+    "title": "Lernstube «Schreibdienst»",
     "start": null,
     "end": null,
     "location": "Zentrum ELCH CeCe-Areal",
@@ -8880,7 +8883,6 @@
     "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/cece-areal/angebote/detail/lernstube-schreibdienst-beratung-cece",
     "tags": [
       "anmeldung",
-      "eltern",
       "familie",
       "gratis"
     ],
@@ -8891,10 +8893,10 @@
     "kind": "recurring",
     "schedule_text": "Mi, 8.30–11.30 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
-    "title": "Lernstube «Schreibdienst & Beratung»",
+    "title": "Lernstube «Schreibdienst»",
     "start": null,
     "end": null,
     "location": "Zentrum ELCH Regensbergstrasse",
@@ -8903,7 +8905,6 @@
     "url": "https://zentrumelch.ch/familienzentren-zuerich-elch/regensbergstrasse/angebote/detail/lernstube-schreibdienst-beratung-regensbergstrasse",
     "tags": [
       "anmeldung",
-      "eltern",
       "familie",
       "gratis"
     ],
@@ -8914,7 +8915,7 @@
     "kind": "recurring",
     "schedule_text": "Sa, 8.30–11.30 Uhr",
     "description": "",
-    "is_new": false
+    "is_new": true
   },
   {
     "title": "Mama Core & Pelvic Floor – Kraft für den Alltag mit Baby",
